@@ -1,0 +1,233 @@
+{
+  "buvette": [],
+  "billetterie": [
+    {
+      "id": "furusato-1j",
+      "name": "Wizard Furusato 1 Jour",
+      "price": 7,
+      "category": "furusato"
+    },
+    {
+      "id": "furusato-we",
+      "name": "Wizard Furusato Week-end",
+      "price": 12,
+      "category": "furusato"
+    },
+    {
+      "id": "minato",
+      "name": "Minato Geek Entrée",
+      "price": 2,
+      "category": "minato"
+    }
+  ],
+  "goodiesRefs": {
+    "affiches": [
+      {
+        "ref": "A01",
+        "name": "Affiche Standard",
+        "description": "À configurer",
+        "price": 5
+      }
+    ],
+    "totebags": [
+      {
+        "ref": "TB01",
+        "name": "Totebag Standard",
+        "description": "À configurer",
+        "price": 8
+      }
+    ],
+    "mugs": [
+      {
+        "ref": "M01",
+        "name": "Mug Standard",
+        "description": "À configurer",
+        "price": 10
+      }
+    ],
+    "tshirts": [
+      {
+        "ref": "T01",
+        "name": "T-Shirt Standard",
+        "description": "À configurer",
+        "price": 19.9
+      }
+    ]
+  },
+  "wizIds": {},
+  "gamesList": [],
+  "gameAccounts": [
+    {
+      "id": "NSO001",
+      "email": "esportns01@gmail.com",
+      "type": "NSO",
+      "consoles": []
+    },
+    {
+      "id": "NSO002",
+      "email": "esportns02@gmail.com",
+      "type": "NSO",
+      "consoles": []
+    },
+    {
+      "id": "PSN001",
+      "email": "contact@nintendoz-event.com",
+      "type": "PSN",
+      "consoles": []
+    },
+    {
+      "id": "XBX001",
+      "email": "contact@nintendoz-event.com",
+      "type": "XBX",
+      "consoles": []
+    }
+  ],
+  "consoleInventory": [
+    {
+      "serial": "XTJ1032246433",
+      "type": "Switch OLED",
+      "model": "Standard",
+      "annee": 2022,
+      "lieu": "Fabien (Fenouiller)",
+      "valeur": 349.99,
+      "accountId": null
+    },
+    {
+      "serial": "HAE10140412687",
+      "type": "Switch 2",
+      "model": "Standard",
+      "annee": 2025,
+      "lieu": "Fabien (Fenouiller)",
+      "valeur": 469.99,
+      "accountId": null
+    }
+  ],
+  "gameStations": [
+    {
+      "id": 1,
+      "name": "Poste Switch 1",
+      "console": "Switch 1",
+      "status": "libre"
+    },
+    {
+      "id": 2,
+      "name": "Poste Switch 2 Classique",
+      "console": "Switch 2",
+      "mode": "classique",
+      "status": "libre"
+    },
+    {
+      "id": 3,
+      "name": "Poste Switch 2 PC",
+      "console": "Switch 2",
+      "mode": "pc",
+      "status": "libre"
+    },
+    {
+      "id": 4,
+      "name": "Poste Xbox Series S",
+      "console": "Xbox Series S",
+      "status": "libre"
+    }
+  ],
+  "membershipTypes": [
+    {
+      "id": "journee",
+      "name": "Journée",
+      "price": 5,
+      "kobansNum": 0,
+      "kobansPhys": 0,
+      "description": "Valable 1 journée + prêts équipements"
+    },
+    {
+      "id": "decouverte",
+      "name": "Découverte",
+      "price": 10,
+      "kobansNum": 10,
+      "kobansPhys": 2,
+      "description": "1 an + 10 Kobans numériques + 2 jetons"
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price": 50,
+      "kobansNum": 50,
+      "kobansPhys": 5,
+      "description": "1 an + 50 Kobans numériques + 5 jetons"
+    },
+    {
+      "id": "esport",
+      "name": "Esport",
+      "price": 80,
+      "kobansNum": 100,
+      "kobansPhys": 8,
+      "description": "1 an + 100 Kobans numériques + 8 jetons + équipements gaming"
+    },
+    {
+      "id": "famille",
+      "name": "Famille",
+      "price": 120,
+      "kobansNum": 150,
+      "kobansPhys": 10,
+      "description": "Jusqu'à 4 membres, 1 an + 150 Kobans numériques + 10 jetons",
+      "isFamily": true
+    }
+  ],
+  "equipmentList": [
+    {
+      "id": "glasses-gaming",
+      "name": "Lunettes Gaming Anti-lumière bleue",
+      "category": "equipement",
+      "caution": 20,
+      "quantity": 10,
+      "loanable": true,
+      "donatable": true
+    },
+    {
+      "id": "haltere-2kg",
+      "name": "Haltères 2kg (paire)",
+      "category": "equipement",
+      "caution": 15,
+      "quantity": 5,
+      "loanable": true,
+      "donatable": false
+    },
+    {
+      "id": "hand-grip",
+      "name": "Hand Grips",
+      "category": "equipement",
+      "caution": 10,
+      "quantity": 8,
+      "loanable": true,
+      "donatable": false
+    }
+  ],
+  "kobanValue": 2,
+  "transportRates": {
+    "fr": {
+      "base": 8.9,
+      "perKg": 2.5
+    },
+    "dom": {
+      "base": 25,
+      "perKg": 5
+    },
+    "eu": {
+      "base": 15,
+      "perKg": 4
+    },
+    "int": {
+      "base": 35,
+      "perKg": 8
+    }
+  },
+  "furusatoVisitors": {},
+  "cupDeposits": [],
+  "transactions": [],
+  "loans": [],
+  "gameSessions": [],
+  "equipmentLoans": [],
+  "lastModified": "2025-12-05T18:38:55.948Z",
+  "modifiedBy": "unknown",
+  "version": "2.2"
+}
