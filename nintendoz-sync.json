@@ -1594,9 +1594,15 @@
     {
       "id": 3,
       "name": "Poste Switch 2 PC",
-      "console": "Switch 2",
-      "mode": "pc",
-      "status": "libre"
+      "console": "Xbox Series S",
+      "mode": "Xbox - Mode PC + PC (⌨️ Clavier, 🖱️ Souris)",
+      "status": "libre",
+      "switchMode": null,
+      "pcMode": true,
+      "pcAccessories": [
+        "keyboard-usb",
+        "mouse-gaming"
+      ]
     },
     {
       "id": 4,
@@ -1702,7 +1708,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-06T17:04:15.612Z",
+  "lastModified": "2025-12-06T17:04:25.516Z",
   "modifiedBy": "unknown",
   "version": "2.2"
 }
