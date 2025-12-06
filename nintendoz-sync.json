@@ -326,7 +326,314 @@
       "created": "2025-12-06T17:01:34.310Z"
     }
   },
-  "gamesList": [],
+  "gamesList": [
+    {
+      "name": "My Hero One’s Justice 2",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 29.99
+    },
+    {
+      "name": "Need For Speed Hot Pursuit",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 4,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "Splatoon 3",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 6,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Little Kitty Big City",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "Bisounours – Lacher la magie",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "Kraken Odyssey",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 29.99
+    },
+    {
+      "name": "The Messenger",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 24.99
+    },
+    {
+      "name": "Avatar the last Airbrinder – Quest for Balance",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 44.99
+    },
+    {
+      "name": "Looney Tunes – Wacky World of Sports",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Xenoblade Chronicles X",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 64.67
+    },
+    {
+      "name": "Mario Kart 8 DX",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 3,
+      "prixAchat": 44.99
+    },
+    {
+      "name": "The Legend of Zelda – Echoes of Wizdom",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Jojo’s Bizarre Adventure All Star Battle R",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "Dragon Ball Fighter Z",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 34.95
+    },
+    {
+      "name": "Ni No Kuni II – L’avènement d’un nouveau royaume – Princes Edition",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "PJ Masks Power Heroes - Une puissante Alliance",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "The Legend of Zelda Tears of Kingdom",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 75.5
+    },
+    {
+      "name": "Mario Tennis Aces",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 59.99
+    },
+    {
+      "name": "Dragon Ball Kakarot + A New Power Awakens Set",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "Marsupilami – Le secret du Sarcophage- Tropical Edition",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    },
+    {
+      "name": "UFO GRENDIZER – The Fest of wolves",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Nintendo Switch Sport",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Pokémon Diamand",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "HOT LAP Racing",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 2,
+      "prixAchat": 34.99
+    },
+    {
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 44.99
+    },
+    {
+      "name": "Jumanji – Aventure sauvage",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 29.99
+    },
+    {
+      "name": "The Cub – Back to Earth Edition",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 20.19
+    },
+    {
+      "name": "Space Adventure – COBRA – The Awakening – Limited Edition",
+      "console": "Switch 1 & 2",
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 49.99
+    },
+    {
+      "name": "Mario Galaxy I+II",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 51.49
+    },
+    {
+      "name": "Pokémon Legendes Z.A – Nintendo Switch 2 édition",
+      "console": "Switch 1 & 2",
+      "pegi": 7,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 51.49
+    },
+    {
+      "name": "Mario Kart Live Home Circuit",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 90
+    },
+    {
+      "name": "Luigi Kart Live Home Circuit",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 110
+    },
+    {
+      "name": "Donkey Kong Banaza",
+      "console": "Switch 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 59.95
+    },
+    {
+      "name": "Paw Patrol Rescue Wheels",
+      "console": "Switch 1 & 2",
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 39.99
+    }
+  ],
   "gameAccounts": [
     {
       "id": "NSO001",
@@ -498,7 +805,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-06T17:01:49.702Z",
+  "lastModified": "2025-12-06T17:01:59.775Z",
   "modifiedBy": "unknown",
   "version": "2.2"
 }
