@@ -419,12 +419,16 @@
     },
     {
       "name": "Mario Kart 8 DX",
-      "console": "Switch 1 & 2",
-      "pegi": 3,
+      "prixAchat": 59.99,
+      "nUsages": 50,
+      "CA": 1.2,
+      "MB": 12,
+      "PA_Anim": 13.2,
+      "marge": 12,
       "accountId": "Fabien",
-      "accountEmail": "fabien@email.fr",
-      "physicalQty": 3,
-      "prixAchat": 44.99
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
     },
     {
       "name": "The Legend of Zelda – Echoes of Wizdom",
@@ -446,12 +450,16 @@
     },
     {
       "name": "Dragon Ball Fighter Z",
-      "console": "Switch 1 & 2",
-      "pegi": 12,
+      "prixAchat": 59.99,
+      "nUsages": 50,
+      "CA": 1.2,
+      "MB": 12,
+      "PA_Anim": 13.2,
+      "marge": 12,
       "accountId": "Fabien",
-      "accountEmail": "fabien@email.fr",
-      "physicalQty": 1,
-      "prixAchat": 34.95
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
     },
     {
       "name": "Ni No Kuni II – L’avènement d’un nouveau royaume – Princes Edition",
@@ -599,12 +607,16 @@
     },
     {
       "name": "Mario Kart Live Home Circuit",
-      "console": "Switch 1 & 2",
-      "pegi": 3,
+      "prixAchat": 0,
+      "nUsages": 50,
+      "CA": 0,
+      "MB": 0,
+      "PA_Anim": 0,
+      "marge": 0,
       "accountId": "Fabien",
-      "accountEmail": "fabien@email.fr",
-      "physicalQty": 1,
-      "prixAchat": 90
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
     },
     {
       "name": "Luigi Kart Live Home Circuit",
@@ -803,19 +815,6 @@
       "downloadCode": ""
     },
     {
-      "name": "Mario Kart 8 DX",
-      "prixAchat": 59.99,
-      "nUsages": 50,
-      "CA": 1.2,
-      "MB": 12,
-      "PA_Anim": 13.2,
-      "marge": 12,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
-      "console": "Switch 1 & 2",
-      "downloadCode": ""
-    },
-    {
       "name": "Mario Kart 8 DX – Booster Pass",
       "prixAchat": 25,
       "nUsages": 50,
@@ -959,19 +958,6 @@
       "downloadCode": ""
     },
     {
-      "name": "Dragon Ball Fighter Z",
-      "prixAchat": 59.99,
-      "nUsages": 50,
-      "CA": 1.2,
-      "MB": 12,
-      "PA_Anim": 13.2,
-      "marge": 12,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
-      "console": "Switch 1 & 2",
-      "downloadCode": ""
-    },
-    {
       "name": "Dragon Ball Fighter Z – Broly (DBS) Fighter",
       "prixAchat": 4.99,
       "nUsages": 50,
@@ -1057,19 +1043,6 @@
       "MB": 6,
       "PA_Anim": 6.6,
       "marge": 6,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
-      "console": "Switch 1 & 2",
-      "downloadCode": ""
-    },
-    {
-      "name": "Mario Kart Live Home Circuit",
-      "prixAchat": 0,
-      "nUsages": 50,
-      "CA": 0,
-      "MB": 0,
-      "PA_Anim": 0,
-      "marge": 0,
       "accountId": "Fabien",
       "accountEmail": "fabien_chastagniter@yahoo.fr",
       "console": "Switch 1 & 2",
@@ -1593,23 +1566,15 @@
     },
     {
       "id": 3,
-      "name": "Poste Xbox Series",
-      "console": "Xbox Series S",
-      "mode": "Xbox - Mode PC + PC (⌨️ Clavier, 🖱️ Souris) + PC (⌨️ Clavier, 🖱️ Souris)",
-      "status": "libre",
-      "switchMode": null,
-      "pcMode": true,
-      "pcAccessories": [
-        "keyboard-usb",
-        "mouse-gaming"
-      ]
+      "name": "Poste Switch 2 PC",
+      "console": "Switch 2",
+      "mode": "pc",
+      "status": "libre"
     },
     {
-      "id": 5,
-      "name": "Xbox Series",
+      "id": 4,
+      "name": "Poste Xbox Series S",
       "console": "Xbox Series S",
-      "mode": "Mode standard",
-      "switchMode": null,
       "status": "libre"
     }
   ],
@@ -1710,7 +1675,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-06T17:34:52.654Z",
+  "lastModified": "2025-12-06T17:39:50.638Z",
   "modifiedBy": "unknown",
   "version": "2.2",
   "syncConfig": {
