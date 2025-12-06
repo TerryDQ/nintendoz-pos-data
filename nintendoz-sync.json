@@ -1605,12 +1605,6 @@
       ]
     },
     {
-      "id": 4,
-      "name": "Poste Xbox Series S",
-      "console": "Xbox Series S",
-      "status": "libre"
-    },
-    {
       "id": 5,
       "name": "Xbox Series",
       "console": "Xbox Series S",
@@ -1716,7 +1710,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-06T17:05:15.783Z",
+  "lastModified": "2025-12-06T17:05:25.732Z",
   "modifiedBy": "unknown",
   "version": "2.2"
 }
