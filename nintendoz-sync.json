@@ -63,7 +63,8 @@
       "birthdate": "2005-03-15",
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.309Z"
+      "created": "2025-12-06T17:01:34.309Z",
+      "antenneId": "vendee"
     },
     "WIZ0011": {
       "name": "Chevrier Nanthan",
@@ -73,7 +74,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.309Z"
+      "created": "2025-12-06T17:01:34.309Z",
+      "antenneId": "vendee"
     },
     "WIZ0055": {
       "name": "Vilvandré Noé",
@@ -83,7 +85,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.309Z"
+      "created": "2025-12-06T17:01:34.309Z",
+      "antenneId": "vendee"
     },
     "WIZ0200": {
       "name": "Pouclet Raphaël",
@@ -93,7 +96,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0201": {
       "name": "Pouclet Nathan",
@@ -103,7 +107,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0202": {
       "name": "Pouclet Valentin",
@@ -113,7 +118,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0204": {
       "name": "Chevrier Maxime",
@@ -123,7 +129,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0301": {
       "name": "Greg",
@@ -133,7 +140,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0302": {
       "name": "Baptiste - G.H",
@@ -143,7 +151,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0305": {
       "name": "Godonou Florent",
@@ -153,7 +162,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0306": {
       "name": "Ibrahim",
@@ -163,7 +173,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0307": {
       "name": "Philippe Binet",
@@ -173,7 +184,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0308": {
       "name": "Richard Léa",
@@ -183,7 +195,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0601": {
       "name": "Chastagnier Fabien",
@@ -193,7 +206,8 @@
       "birthdate": "1987-01-23",
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0602": {
       "name": "Maillard Rachelle",
@@ -203,7 +217,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0603": {
       "name": "Jenny",
@@ -213,7 +228,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0604": {
       "name": "Cano Charline",
@@ -223,7 +239,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "lyon"
     },
     "WIZ0606": {
       "name": "Dove",
@@ -233,7 +250,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0701": {
       "name": "Crédit agricole",
@@ -243,7 +261,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0702": {
       "name": "Gagery Jerome",
@@ -253,7 +272,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0703": {
       "name": "Ludotheque La Tranche sur Mer",
@@ -263,7 +283,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0704": {
       "name": "Jérémy Beck",
@@ -273,7 +294,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ0901": {
       "name": "Janick",
@@ -283,7 +305,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ1002": {
       "name": "Thibout Dorian",
@@ -293,7 +316,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ1005": {
       "name": "Mathéo",
@@ -303,7 +327,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     },
     "WIZ1201": {
       "name": "JapaNantes",
@@ -313,7 +338,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "nantes"
     },
     "WIZ1202": {
       "name": "Nagomi",
@@ -323,7 +349,8 @@
       "birthdate": null,
       "koban": 0,
       "adhesionType": null,
-      "created": "2025-12-06T17:01:34.310Z"
+      "created": "2025-12-06T17:01:34.310Z",
+      "antenneId": "vendee"
     }
   },
   "gamesList": [
@@ -1566,15 +1593,23 @@
     },
     {
       "id": 3,
-      "name": "Poste Switch 2 PC",
-      "console": "Switch 2",
-      "mode": "pc",
-      "status": "libre"
+      "name": "Poste Xbox Series",
+      "console": "Xbox Series S",
+      "mode": "Xbox - Mode PC + PC (⌨️ Clavier, 🖱️ Souris) + PC (⌨️ Clavier, 🖱️ Souris)",
+      "status": "libre",
+      "switchMode": null,
+      "pcMode": true,
+      "pcAccessories": [
+        "keyboard-usb",
+        "mouse-gaming"
+      ]
     },
     {
-      "id": 4,
-      "name": "Poste Xbox Series S",
+      "id": 5,
+      "name": "Xbox Series",
       "console": "Xbox Series S",
+      "mode": "Mode standard",
+      "switchMode": null,
       "status": "libre"
     }
   ],
@@ -1675,7 +1710,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-06T18:01:26.787Z",
+  "lastModified": "2025-12-07T09:24:57.498Z",
   "modifiedBy": "unknown",
   "version": "2.2",
   "syncConfig": {
