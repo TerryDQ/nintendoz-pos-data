@@ -62,20 +62,22 @@
       "phone": "",
       "birthdate": "2005-03-15",
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": []
     },
     "WIZ0011": {
-      "name": "Chevrier Nanthan",
+      "name": "Ethan",
       "ville": "Saint Jean de Monts",
       "email": "",
       "phone": "",
       "birthdate": null,
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": []
     },
     "WIZ0055": {
       "name": "Vilvandré Noé",
@@ -84,9 +86,10 @@
       "phone": "",
       "birthdate": null,
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": []
     },
     "WIZ0200": {
       "name": "Pouclet Raphaël",
@@ -95,9 +98,12 @@
       "phone": "",
       "birthdate": null,
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "famille",
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": [
+        "brawl"
+      ]
     },
     "WIZ0201": {
       "name": "Pouclet Nathan",
@@ -106,9 +112,12 @@
       "phone": "",
       "birthdate": null,
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "famille",
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": [
+        "brawl"
+      ]
     },
     "WIZ0202": {
       "name": "Pouclet Valentin",
@@ -117,9 +126,12 @@
       "phone": "",
       "birthdate": null,
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "famille",
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": [
+        "brawl"
+      ]
     },
     "WIZ0204": {
       "name": "Chevrier Maxime",
@@ -201,13 +213,14 @@
     "WIZ0601": {
       "name": "Chastagnier Fabien",
       "ville": "Le Fenouiller",
-      "email": "",
-      "phone": "",
+      "email": "fabien_chastagnier@yahoo.fr",
+      "phone": "0698252159",
       "birthdate": "1987-01-23",
       "koban": 0,
-      "adhesionType": null,
+      "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "esportClubs": []
     },
     "WIZ0602": {
       "name": "Maillard Rachelle",
@@ -446,16 +459,12 @@
     },
     {
       "name": "Mario Kart 8 DX",
-      "prixAchat": 59.99,
-      "nUsages": 50,
-      "CA": 1.2,
-      "MB": 12,
-      "PA_Anim": 13.2,
-      "marge": 12,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
       "console": "Switch 1 & 2",
-      "downloadCode": ""
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 3,
+      "prixAchat": 44.99
     },
     {
       "name": "The Legend of Zelda – Echoes of Wizdom",
@@ -477,16 +486,12 @@
     },
     {
       "name": "Dragon Ball Fighter Z",
-      "prixAchat": 59.99,
-      "nUsages": 50,
-      "CA": 1.2,
-      "MB": 12,
-      "PA_Anim": 13.2,
-      "marge": 12,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
       "console": "Switch 1 & 2",
-      "downloadCode": ""
+      "pegi": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 34.95
     },
     {
       "name": "Ni No Kuni II – L’avènement d’un nouveau royaume – Princes Edition",
@@ -634,16 +639,12 @@
     },
     {
       "name": "Mario Kart Live Home Circuit",
-      "prixAchat": 0,
-      "nUsages": 50,
-      "CA": 0,
-      "MB": 0,
-      "PA_Anim": 0,
-      "marge": 0,
-      "accountId": "Fabien",
-      "accountEmail": "fabien_chastagniter@yahoo.fr",
       "console": "Switch 1 & 2",
-      "downloadCode": ""
+      "pegi": 3,
+      "accountId": "Fabien",
+      "accountEmail": "fabien@email.fr",
+      "physicalQty": 1,
+      "prixAchat": 90
     },
     {
       "name": "Luigi Kart Live Home Circuit",
@@ -842,6 +843,19 @@
       "downloadCode": ""
     },
     {
+      "name": "Mario Kart 8 DX",
+      "prixAchat": 59.99,
+      "nUsages": 50,
+      "CA": 1.2,
+      "MB": 12,
+      "PA_Anim": 13.2,
+      "marge": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
+    },
+    {
       "name": "Mario Kart 8 DX – Booster Pass",
       "prixAchat": 25,
       "nUsages": 50,
@@ -985,6 +999,19 @@
       "downloadCode": ""
     },
     {
+      "name": "Dragon Ball Fighter Z",
+      "prixAchat": 59.99,
+      "nUsages": 50,
+      "CA": 1.2,
+      "MB": 12,
+      "PA_Anim": 13.2,
+      "marge": 12,
+      "accountId": "Fabien",
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
+    },
+    {
       "name": "Dragon Ball Fighter Z – Broly (DBS) Fighter",
       "prixAchat": 4.99,
       "nUsages": 50,
@@ -1070,6 +1097,19 @@
       "MB": 6,
       "PA_Anim": 6.6,
       "marge": 6,
+      "accountId": "Fabien",
+      "accountEmail": "fabien_chastagniter@yahoo.fr",
+      "console": "Switch 1 & 2",
+      "downloadCode": ""
+    },
+    {
+      "name": "Mario Kart Live Home Circuit",
+      "prixAchat": 0,
+      "nUsages": 50,
+      "CA": 0,
+      "MB": 0,
+      "PA_Anim": 0,
+      "marge": 0,
       "accountId": "Fabien",
       "accountEmail": "fabien_chastagniter@yahoo.fr",
       "console": "Switch 1 & 2",
@@ -1536,81 +1576,151 @@
       "id": "NSO001",
       "email": "esportns01@gmail.com",
       "type": "NSO",
-      "consoles": []
+      "consoles": [],
+      "description": "Compte principal Nintendo"
     },
     {
       "id": "NSO002",
       "email": "esportns02@gmail.com",
       "type": "NSO",
-      "consoles": []
+      "consoles": [],
+      "description": "Compte secondaire Nintendo"
     },
     {
       "id": "PSN001",
       "email": "contact@nintendoz-event.com",
       "type": "PSN",
-      "consoles": []
+      "consoles": [],
+      "description": "Compte PlayStation"
     },
     {
       "id": "XBX001",
       "email": "contact@nintendoz-event.com",
       "type": "XBX",
-      "consoles": []
+      "consoles": [],
+      "description": "Compte Xbox"
+    },
+    {
+      "id": "EA001",
+      "email": "ea@nintendoz-event.com",
+      "type": "EA",
+      "consoles": [],
+      "description": "Electronic Arts (It Takes Two, A Way Out)"
+    },
+    {
+      "id": "EPIC001",
+      "email": "epic@nintendoz-event.com",
+      "type": "EPIC",
+      "consoles": [],
+      "description": "Epic Games (Fortnite, Rocket League)"
     }
   ],
-  "consoleInventory": [
+  "consolesInventory": [
     {
-      "serial": "XTJ1032246433",
+      "id": "XTJ1032246433",
       "type": "Switch OLED",
       "model": "Standard",
       "annee": 2022,
-      "lieu": "Fabien (Fenouiller)",
-      "valeur": 349.99,
-      "accountId": null
+      "nomade": false,
+      "kidZone": false,
+      "etat": "excellent"
     },
     {
-      "serial": "HAE10140412687",
+      "id": "XTJ5022038538",
+      "type": "Switch OLED",
+      "model": "Standard",
+      "annee": 2022,
+      "nomade": false,
+      "kidZone": false,
+      "etat": "excellent"
+    },
+    {
+      "id": "HAE10140412687",
       "type": "Switch 2",
       "model": "Standard",
       "annee": 2025,
-      "lieu": "Fabien (Fenouiller)",
-      "valeur": 469.99,
-      "accountId": null
+      "nomade": false,
+      "kidZone": false,
+      "etat": "neuf"
+    },
+    {
+      "id": "XAJ40010312618",
+      "type": "Switch",
+      "model": "2017",
+      "annee": 2017,
+      "nomade": true,
+      "kidZone": false,
+      "etat": "bon"
+    },
+    {
+      "id": "XAJ70055644214",
+      "type": "Switch",
+      "model": "Diablo Edition",
+      "annee": 2018,
+      "nomade": true,
+      "kidZone": false,
+      "etat": "excellent"
+    },
+    {
+      "id": "SLITE001",
+      "type": "Switch Lite",
+      "model": "Coral",
+      "annee": 2020,
+      "nomade": true,
+      "kidZone": true,
+      "etat": "excellent"
+    },
+    {
+      "id": "SLITE002",
+      "type": "Switch Lite",
+      "model": "Turquoise",
+      "annee": 2020,
+      "nomade": true,
+      "kidZone": true,
+      "etat": "bon"
+    },
+    {
+      "id": "SLITE003",
+      "type": "Switch Lite",
+      "model": "Yellow",
+      "annee": 2021,
+      "nomade": true,
+      "kidZone": true,
+      "etat": "excellent"
+    },
+    {
+      "id": "XSS001",
+      "type": "Xbox Series S",
+      "model": "Standard",
+      "annee": 2023,
+      "nomade": false,
+      "kidZone": false,
+      "etat": "excellent"
+    },
+    {
+      "id": "PS5001",
+      "type": "PS5",
+      "model": "Standard",
+      "annee": 2024,
+      "nomade": false,
+      "kidZone": false,
+      "etat": "neuf"
     }
   ],
-  "gameStations": [
+  "gamePostes": [
     {
-      "id": 1,
-      "name": "Poste Switch 1",
-      "console": "Switch 1",
-      "status": "libre"
+      "numero": 1,
+      "consoleId": "XTJ1032246433",
+      "statut": "actif",
+      "notes": "",
+      "createdAt": "2025-12-08T18:18:00.725Z"
     },
     {
-      "id": 2,
-      "name": "Poste Switch 2 Classique",
-      "console": "Switch 2",
-      "mode": "classique",
-      "status": "libre"
-    },
-    {
-      "id": 3,
-      "name": "Poste Xbox Series",
-      "console": "Xbox Series S",
-      "mode": "Xbox - Mode PC + PC (⌨️ Clavier, 🖱️ Souris) + PC (⌨️ Clavier, 🖱️ Souris)",
-      "status": "libre",
-      "switchMode": null,
-      "pcMode": true,
-      "pcAccessories": [
-        "keyboard-usb",
-        "mouse-gaming"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Xbox Series",
-      "console": "Xbox Series S",
-      "mode": "Mode standard",
-      "switchMode": null,
-      "status": "libre"
+      "numero": 2,
+      "consoleId": "HAE10140412687",
+      "statut": "actif",
+      "notes": "",
+      "createdAt": "2025-12-08T18:18:00.726Z"
     }
   ],
   "membershipTypes": [
@@ -1710,7 +1820,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-07T09:24:57.498Z",
+  "lastModified": "2025-12-08T18:18:13.586Z",
   "modifiedBy": "unknown",
   "version": "2.2",
   "syncConfig": {
