@@ -65,7 +65,8 @@
       "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
       "antenneId": "vendee",
-      "esportClubs": []
+      "esportClubs": [],
+      "kobansPhysiques": 0
     },
     "WIZ0011": {
       "name": "Ethan",
@@ -77,7 +78,8 @@
       "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
       "antenneId": "vendee",
-      "esportClubs": []
+      "esportClubs": [],
+      "kobansPhysiques": 0
     },
     "WIZ0055": {
       "name": "Vilvandré Noé",
@@ -89,7 +91,8 @@
       "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.309Z",
       "antenneId": "vendee",
-      "esportClubs": []
+      "esportClubs": [],
+      "kobansPhysiques": 0
     },
     "WIZ0200": {
       "name": "Pouclet Raphaël",
@@ -103,7 +106,8 @@
       "antenneId": "vendee",
       "esportClubs": [
         "brawl"
-      ]
+      ],
+      "kobansPhysiques": 0
     },
     "WIZ0201": {
       "name": "Pouclet Nathan",
@@ -117,7 +121,8 @@
       "antenneId": "vendee",
       "esportClubs": [
         "brawl"
-      ]
+      ],
+      "kobansPhysiques": 0
     },
     "WIZ0202": {
       "name": "Pouclet Valentin",
@@ -131,7 +136,8 @@
       "antenneId": "vendee",
       "esportClubs": [
         "brawl"
-      ]
+      ],
+      "kobansPhysiques": 0
     },
     "WIZ0204": {
       "name": "Chevrier Maxime",
@@ -142,7 +148,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0301": {
       "name": "Greg",
@@ -153,7 +160,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0302": {
       "name": "Baptiste - G.H",
@@ -164,7 +172,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0305": {
       "name": "Godonou Florent",
@@ -175,7 +184,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0306": {
       "name": "Ibrahim",
@@ -186,7 +196,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0307": {
       "name": "Philippe Binet",
@@ -197,7 +208,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0308": {
       "name": "Richard Léa",
@@ -208,7 +220,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0601": {
       "name": "Chastagnier Fabien",
@@ -220,7 +233,8 @@
       "adhesionType": "standard",
       "created": "2025-12-06T17:01:34.310Z",
       "antenneId": "vendee",
-      "esportClubs": []
+      "esportClubs": [],
+      "kobansPhysiques": 0
     },
     "WIZ0602": {
       "name": "Maillard Rachelle",
@@ -231,7 +245,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0603": {
       "name": "Jenny",
@@ -242,7 +257,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0604": {
       "name": "Cano Charline",
@@ -253,7 +269,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "lyon"
+      "antenneId": "lyon",
+      "kobansPhysiques": 0
     },
     "WIZ0606": {
       "name": "Dove",
@@ -264,7 +281,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0701": {
       "name": "Crédit agricole",
@@ -275,7 +293,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0702": {
       "name": "Gagery Jerome",
@@ -286,7 +305,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0703": {
       "name": "Ludotheque La Tranche sur Mer",
@@ -297,7 +317,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0704": {
       "name": "Jérémy Beck",
@@ -308,7 +329,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ0901": {
       "name": "Janick",
@@ -319,7 +341,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ1002": {
       "name": "Thibout Dorian",
@@ -330,7 +353,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ1005": {
       "name": "Mathéo",
@@ -341,7 +365,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     },
     "WIZ1201": {
       "name": "JapaNantes",
@@ -352,7 +377,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "nantes"
+      "antenneId": "nantes",
+      "kobansPhysiques": 0
     },
     "WIZ1202": {
       "name": "Nagomi",
@@ -363,7 +389,8 @@
       "koban": 0,
       "adhesionType": null,
       "created": "2025-12-06T17:01:34.310Z",
-      "antenneId": "vendee"
+      "antenneId": "vendee",
+      "kobansPhysiques": 0
     }
   },
   "gamesList": [
@@ -1713,14 +1740,14 @@
       "consoleId": "XTJ1032246433",
       "statut": "actif",
       "notes": "",
-      "createdAt": "2025-12-08T18:18:00.725Z"
+      "createdAt": "2025-12-09T09:16:09.535Z"
     },
     {
       "numero": 2,
       "consoleId": "HAE10140412687",
       "statut": "actif",
       "notes": "",
-      "createdAt": "2025-12-08T18:18:00.726Z"
+      "createdAt": "2025-12-09T09:16:09.535Z"
     }
   ],
   "membershipTypes": [
@@ -1820,7 +1847,7 @@
   "loans": [],
   "gameSessions": [],
   "equipmentLoans": [],
-  "lastModified": "2025-12-08T18:18:13.586Z",
+  "lastModified": "2025-12-09T09:16:21.077Z",
   "modifiedBy": "unknown",
   "version": "2.2",
   "syncConfig": {
