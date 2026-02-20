@@ -75,9 +75,10 @@
     "table_int": "8",
     "table150_ext": "8",
     "table150_int": "12",
-    "stand_nu_ext": ""
+    "stand_nu_ext": "",
+    "tonnelle_ext": "12"
   },
   "wfTarifs": {},
-  "_savedAt": "2026-02-20T09:40:12.610Z",
+  "_savedAt": "2026-02-20T09:40:15.928Z",
   "_version": 3
 }
