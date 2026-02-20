@@ -1,0 +1,75 @@
+{
+  "db": {
+    "mg": {
+      "exposants": [
+        {
+          "id": 1771518403900,
+          "nom": "La Fabric de Graphismea",
+          "type": "artiste",
+          "zone": "marie",
+          "edition": "printemps",
+          "surface": "3",
+          "email": "graphismea06@gmail.com",
+          "tel": "0683849388",
+          "montant": "14",
+          "paiement": "en_attente",
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 0,
+            "table150": 2,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 1
+          },
+          "statut": "inscrit"
+        }
+      ],
+      "anims": [],
+      "emplacements": [],
+      "volunteers": []
+    },
+    "wf": {
+      "exposants": [],
+      "anims": [],
+      "volunteers": []
+    },
+    "gh": {
+      "adherents": [],
+      "volunteers": [],
+      "intervenants": [],
+      "activites": [],
+      "creneaux": []
+    }
+  },
+  "dbBudgets": {
+    "mg": {
+      "recettes": [],
+      "depenses": []
+    },
+    "wf": {
+      "recettes": [],
+      "depenses": []
+    }
+  },
+  "dbPostes": {
+    "mg": [],
+    "wf": []
+  },
+  "dbArchives": {
+    "mg": [],
+    "wf": []
+  },
+  "dbContrats": [],
+  "dbCampagnes": [],
+  "dbJeux": [],
+  "dbEmprunts": [],
+  "dbSNU": [],
+  "dbCles": [],
+  "dbAccesRegistre": [],
+  "dbRessourcesDesign": [],
+  "dbRetours": [],
+  "_savedAt": "2026-02-20T09:26:55.030Z",
+  "_version": 3
+}
