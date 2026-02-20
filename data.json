@@ -83,6 +83,15 @@
     "elec_int": "5"
   },
   "wfTarifs": {},
-  "_savedAt": "2026-02-20T10:04:35.078Z",
+  "dbCommManuels": [
+    {
+      "id": 1771582555573,
+      "nom": "La Fabric de Graphismea",
+      "email": "graphismea06@gmail.com",
+      "cat": "exposant",
+      "createdAt": "2026-02-20T10:15:55.573Z"
+    }
+  ],
+  "_savedAt": "2026-02-20T10:15:57.082Z",
   "_version": 3
 }
