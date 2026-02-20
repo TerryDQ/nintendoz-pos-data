@@ -83,7 +83,8 @@
     "elec_int": "5"
   },
   "wfTarifs": {
-    "champignon": "—"
+    "champignon": "—",
+    "elec": "—"
   },
   "dbCommManuels": [
     {
@@ -131,6 +132,6 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-20T15:37:07.787Z",
+  "_savedAt": "2026-02-20T15:37:18.140Z",
   "_version": 3
 }
