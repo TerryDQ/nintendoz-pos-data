@@ -124,6 +124,11 @@
   ],
   "subvStatutsFixed": {},
   "subvNotes": {},
-  "_savedAt": "2026-02-20T13:38:54.082Z",
+  "dbAgrements": [],
+  "agrementsStatutsFixed": {
+    "jep": "a_faire"
+  },
+  "agrementsNotes": {},
+  "_savedAt": "2026-02-20T15:20:55.034Z",
   "_version": 3
 }
