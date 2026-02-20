@@ -70,6 +70,10 @@
   "dbAccesRegistre": [],
   "dbRessourcesDesign": [],
   "dbRetours": [],
-  "_savedAt": "2026-02-20T09:38:55.086Z",
+  "mgTarifs": {
+    "table_ext": "5"
+  },
+  "wfTarifs": {},
+  "_savedAt": "2026-02-20T09:39:35.437Z",
   "_version": 3
 }
