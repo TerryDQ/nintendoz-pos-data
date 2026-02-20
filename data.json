@@ -7,7 +7,7 @@
           "nom": "La Fabric de Graphismea",
           "type": "artiste",
           "zone": "marie",
-          "edition": "les-deux",
+          "edition": "printemps",
           "surface": "3",
           "email": "graphismea06@gmail.com",
           "tel": "0683849388",
@@ -70,28 +70,6 @@
   "dbAccesRegistre": [],
   "dbRessourcesDesign": [],
   "dbRetours": [],
-  "mgTarifs": {
-    "table_ext": "5",
-    "table_int": "8",
-    "table150_ext": "8",
-    "table150_int": "12",
-    "stand_nu_ext": "",
-    "tonnelle_ext": "12",
-    "grille_ext": "3",
-    "grille_int": "3",
-    "elec_ext": "5",
-    "elec_int": "5"
-  },
-  "wfTarifs": {},
-  "dbCommManuels": [
-    {
-      "id": 1771582555573,
-      "nom": "La Fabric de Graphismea",
-      "email": "graphismea06@gmail.com",
-      "cat": "exposant",
-      "createdAt": "2026-02-20T10:15:55.573Z"
-    }
-  ],
-  "_savedAt": "2026-02-20T10:54:58.090Z",
+  "_savedAt": "2026-02-20T10:55:51.823Z",
   "_version": 3
 }
