@@ -92,9 +92,24 @@
       "createdAt": "2026-02-20T10:15:55.573Z"
     }
   ],
-  "dbSubventions": [],
+  "dbSubventions": [
+    {
+      "id": 1771592867992,
+      "nom": "Subvention",
+      "type": "communale",
+      "annee": "",
+      "montant": 2000,
+      "accorde": 0,
+      "financeur": "Saint-Gilles-Croix-de-Vie",
+      "statut": "attente_virement",
+      "dateDepot": "2025-11-29",
+      "dateReponse": "2025-12-01",
+      "resp": "Fabien",
+      "notes": ""
+    }
+  ],
   "subvStatutsFixed": {},
   "subvNotes": {},
-  "_savedAt": "2026-02-20T13:07:30.368Z",
+  "_savedAt": "2026-02-20T13:08:30.369Z",
   "_version": 3
 }
