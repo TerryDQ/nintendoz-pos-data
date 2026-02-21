@@ -77,7 +77,7 @@
     "table150_int": "12",
     "stand_nu_ext": "",
     "tonnelle_ext": "12",
-    "grille_ext": "3",
+    "grille_ext": "2",
     "grille_int": "2",
     "elec_ext": "3",
     "elec_int": "3"
@@ -132,6 +132,6 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-21T10:50:49.811Z",
+  "_savedAt": "2026-02-21T10:50:51.926Z",
   "_version": 3
 }
