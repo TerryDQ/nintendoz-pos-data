@@ -71,7 +71,7 @@
   "dbRessourcesDesign": [],
   "dbRetours": [],
   "mgTarifs": {
-    "table_ext": "5",
+    "table_ext": "—",
     "table_int": "10",
     "table150_ext": "8",
     "table150_int": "-",
@@ -133,6 +133,6 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-21T10:51:47.367Z",
+  "_savedAt": "2026-02-21T10:52:00.339Z",
   "_version": 3
 }
