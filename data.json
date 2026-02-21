@@ -74,7 +74,7 @@
     "table_ext": "5",
     "table_int": "8",
     "table150_ext": "8",
-    "table150_int": "12",
+    "table150_int": "-",
     "stand_nu_ext": "8",
     "tonnelle_ext": "15",
     "grille_ext": "2",
@@ -133,6 +133,6 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-21T10:51:24.137Z",
+  "_savedAt": "2026-02-21T10:51:43.269Z",
   "_version": 3
 }
