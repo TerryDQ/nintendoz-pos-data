@@ -133,12 +133,6 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-23T15:52:58.049Z",
-  "_version": 3,
-  "dbERP": [],
-  "dbDatesKeys": [],
-  "dbBilans": [],
-  "dbWFEmplacements": [],
-  "dbInventaire": [],
-  "dbSorties": []
+  "_savedAt": "2026-02-23T15:52:58.025Z",
+  "_version": 3
 }
