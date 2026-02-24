@@ -133,8 +133,34 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-24T11:55:56.026Z",
+  "_savedAt": "2026-02-24T11:56:59.529Z",
   "_version": 3,
+  "nwoConfig": {
+    "nom": "Nintend'Oz-Event",
+    "forme": "Association déclarée",
+    "siret": "915 400 592 00027",
+    "tva": "FR62915400592",
+    "rna": "W744003158",
+    "rnaDate": "28/08/2018",
+    "responsable": "Fabien CHASTAGNIER",
+    "adresse": "Centre Socio-culturel « La P'tite Gare »",
+    "rue": "35 Rue du Maréchal Leclerc de Hautecloque",
+    "cp": "85800",
+    "ville": "Saint-Gilles-Croix-de-Vie",
+    "tel": "06 98 25 21 59",
+    "email": "contact@nintendoz-event.com",
+    "rib_banque": "",
+    "rib_domiciliation": "",
+    "rib_code_banque": "",
+    "rib_code_guichet": "",
+    "rib_num_compte": "",
+    "rib_cle": "",
+    "iban": "FR76",
+    "bic": "AGRIFRPP847",
+    "clauseMateriel": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+    "clauseAnnulation": "En cas d'annulation à plus de 15 jours de la prestation, 30% du montant total sera facturé. En cas d'annulation à moins de 15 jours de la prestation, 70% du montant total sera facturé. La commande peut faire l'objet d'une annulation à la demande du client par simple mail, mais ne pourra pas bénéficier d'un report.",
+    "clauseRetard": "Pas d'escompte pour règlement anticipé. En cas de retard de paiement, une pénalité égale à 12% sera exigible (Article L 441-6, alinéa 12 du Code de Commerce). Pour tout professionnel, en sus des indemnités de retard, toute somme, y compris l'acompte, non payée à sa date d'exigibilité produira de plein droit le paiement d'une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem)."
+  },
   "dbDevis": [],
   "dbClients": [],
   "dbProduits": [
@@ -270,12 +296,5 @@
       "stock": 999,
       "desc": "Frais de transport matériel"
     }
-  ],
-  "dbERP": [],
-  "dbDatesKeys": [],
-  "dbBilans": [],
-  "dbWFEmplacements": [],
-  "dbInventaire": [],
-  "dbSorties": [],
-  "dbDemandesCollectivite": []
+  ]
 }
