@@ -133,7 +133,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-24T13:47:11.015Z",
+  "_savedAt": "2026-02-24T13:48:37.592Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -158,6 +158,7 @@
     "rib_cle": "59",
     "iban": "FR7614706001727400003355759",
     "bic": "AGRIFRPP847",
+    "logo": "",
     "clauseMateriel": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
     "clauseAnnulation": "En cas d'annulation à plus de 15 jours de la prestation, 30% du montant total sera facturé. En cas d'annulation à moins de 15 jours de la prestation, 70% du montant total sera facturé. La commande peut faire l'objet d'une annulation à la demande du client par simple mail, mais ne pourra pas bénéficier d'un report.",
     "clauseRetard": "Pas d'escompte pour règlement anticipé. En cas de retard de paiement, une pénalité égale à 12% sera exigible (Article L 441-6, alinéa 12 du Code de Commerce). Pour tout professionnel, en sus des indemnités de retard, toute somme, y compris l'acompte, non payée à sa date d'exigibilité produira de plein droit le paiement d'une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem)."
