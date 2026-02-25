@@ -133,7 +133,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-25T16:57:52.440Z",
+  "_savedAt": "2026-02-25T16:58:17.741Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -317,7 +317,7 @@
       "bic": "CMCIFR2A",
       "banque": "Crédit Mutuel St Gilles Croix de Vie",
       "cat": "sono",
-      "note": 5,
+      "note": 4.5,
       "tags": "mobilier,tente,sono,lumière,scène,événementiel",
       "cgv": {
         "acompte": 30,
@@ -326,7 +326,10 @@
         "retardInterets": 4,
         "nettoyage": "20 € TTC / heure",
         "sacem": true
-      }
+      },
+      "ville": "",
+      "notes": "",
+      "updatedAt": "2026-02-25T16:58:16.239Z"
     }
   ],
   "dbPrestations": [],
