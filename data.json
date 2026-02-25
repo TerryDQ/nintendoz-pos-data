@@ -133,7 +133,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-25T20:13:28.013Z",
+  "_savedAt": "2026-02-25T20:14:52.002Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -335,6 +335,11 @@
   "dbPrestations": [],
   "dbAssurances": [],
   "dbSinistres": [],
+  "dbFraisLocal": {
+    "mgt-": [],
+    "wft-": [],
+    "ght-": []
+  },
   "dbAntennes": [],
   "dbBilans": [],
   "dbInventaire": [],
