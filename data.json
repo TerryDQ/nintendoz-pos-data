@@ -40,7 +40,19 @@
       "volunteers": [],
       "intervenants": [],
       "activites": [],
-      "creneaux": []
+      "creneaux": [],
+      "jours": [
+        {
+          "id": 1772108692522,
+          "date": "2026-02-21",
+          "statut": "ferme",
+          "raison": "aucune_resa",
+          "raisonLabel": "Aucune réservation",
+          "note": "",
+          "adherents": 0,
+          "visiteurs": 0
+        }
+      ]
     }
   },
   "dbBudgets": {
@@ -133,7 +145,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-26T12:23:56.008Z",
+  "_savedAt": "2026-02-26T12:24:54.023Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
