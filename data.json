@@ -166,7 +166,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-26T18:28:48.994Z",
+  "_savedAt": "2026-02-26T18:38:42.109Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -395,6 +395,141 @@
     }
   ],
   "ghSiteActif": "siege-sgcv",
+  "dbTarifsAdh": {
+    "saison": "2025-2026",
+    "validite": "Du 06 septembre 2025 au 28 juin 2026",
+    "noteEte": "Entrée libre saison juillet / août",
+    "adresses": [
+      "Centre Socio-Culturel La P'tite Gare — 35 Rue du Maréchal Leclerc de Hautecloque, 85800 Saint-Gilles-Croix-de-Vie",
+      "Wizard Geek House — 40 Rue des Couvreurs, 85800 Saint-Gilles-Croix-de-Vie"
+    ],
+    "formules": [
+      {
+        "id": "journee",
+        "emoji": "🎫",
+        "nom": "Journée",
+        "prix": 5,
+        "ffjv": 0,
+        "fscf": false,
+        "avantages": [
+          "Entrée tout public Geek House",
+          "Test des services",
+          "Occasionnel"
+        ]
+      },
+      {
+        "id": "decouverte",
+        "emoji": "🧭",
+        "nom": "Découverte",
+        "prix": 10,
+        "ffjv": 0,
+        "fscf": true,
+        "avantages": [
+          "Accès communauté",
+          "Mercredi gratuit, samedi 2€",
+          "Test des services",
+          "Droit de vote aux réunions",
+          "Licence FSCF incluse"
+        ]
+      },
+      {
+        "id": "standard",
+        "emoji": "⚡",
+        "nom": "Standard",
+        "prix": 50,
+        "ffjv": 5,
+        "fscf": true,
+        "avantages": [
+          "Accès gratuit Geek House",
+          "Assurance transport",
+          "1 atelier / trimestre",
+          "Billet Wizard Furusato et/ou Minato Geek",
+          "-10€ CJV*",
+          "+1 copain samedi",
+          "Droit de vote aux réunions",
+          "20% Remise B&B hôtel",
+          "Licence FSCF incluse",
+          "5,00€ licence FFJV incluse"
+        ]
+      },
+      {
+        "id": "famille",
+        "emoji": "👨‍👩‍👧‍👦",
+        "nom": "Famille",
+        "prix": 120,
+        "ffjv": 15,
+        "fscf": true,
+        "avantages": [
+          "Jusqu'à 4 personnes (2 adultes + 2 enfants -18 ans)",
+          "Tous avantages Standard",
+          "Prêt matériel",
+          "+1 copain samedi",
+          "15,00€ licence FFJV incluse",
+          "Licence FSCF incluse"
+        ]
+      },
+      {
+        "id": "esport",
+        "emoji": "🕹️",
+        "nom": "Esport Brawlstar",
+        "prix": 80,
+        "ffjv": 5,
+        "fscf": true,
+        "avantages": [
+          "Lunettes Esport offertes (5 premiers)",
+          "Prêt matériel gaming",
+          "-10% compétitions",
+          "Fidélité : 3 participations = 1 tournoi offert",
+          "5,00€ licence FFJV incluse",
+          "Licence FSCF incluse"
+        ]
+      },
+      {
+        "id": "ultimate",
+        "emoji": "🏆",
+        "nom": "Ultimate",
+        "prix": 1200,
+        "ffjv": 0,
+        "fscf": true,
+        "avantages": [
+          "TOUS les avantages Standard",
+          "Ateliers intervenants offerts",
+          "Lunettes Esport",
+          "2 pass VIP Wizard Furusato + Minato",
+          "+2 invités samedi",
+          "Licence FSCF incluse"
+        ]
+      }
+    ],
+    "paiement": "1x, 2x, 3x, 4x ou 8x sans frais",
+    "notesCJV": "* CJV : Compétition de Jeu Vidéo organisé par l'association",
+    "adhesionService": "💼 Adhésion contre service possible (bénévolat, compétences techniques, aide à l'organisation). Contact : contact@nintendoz-event.com",
+    "contact": "contact@nintendoz-event.com"
+  },
+  "dbTarifsAntenne": {},
+  "dbGHDirigeants": [
+    {
+      "id": "dir-1",
+      "prenom": "Fabien",
+      "nom": "",
+      "role": "president",
+      "statut": "valide"
+    },
+    {
+      "id": "dir-2",
+      "prenom": "Rachelle",
+      "nom": "",
+      "role": "vice_president",
+      "statut": "valide"
+    },
+    {
+      "id": "dir-3",
+      "prenom": "Charline",
+      "nom": "",
+      "role": "secretaire",
+      "statut": "valide"
+    }
+  ],
   "dbFraisLocal": {
     "mgt-": [],
     "wft-": [],
