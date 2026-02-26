@@ -88,7 +88,18 @@
   "dbJeux": [],
   "dbEmprunts": [],
   "dbSNU": [],
-  "dbCles": [],
+  "dbCles": [
+    {
+      "id": 1772108925261,
+      "nom": "CHASTAGNIER Fabien",
+      "ref": "Clé principal",
+      "date": "2024-12-01",
+      "role": "bureau",
+      "contact": "06 98 25 21 59 / fabien_chastagnier@yahoo.fr",
+      "caution": "",
+      "actif": true
+    }
+  ],
   "dbAccesRegistre": [],
   "dbRessourcesDesign": [],
   "dbRetours": [],
@@ -155,7 +166,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-26T12:28:10.046Z",
+  "_savedAt": "2026-02-26T12:29:10.995Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
