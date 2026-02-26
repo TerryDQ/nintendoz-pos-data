@@ -51,6 +51,16 @@
           "note": "",
           "adherents": 0,
           "visiteurs": 0
+        },
+        {
+          "id": 1772108712415,
+          "date": "2026-02-25",
+          "statut": "ferme",
+          "raison": "aucune_resa",
+          "raisonLabel": "Aucune réservation",
+          "note": "",
+          "adherents": 0,
+          "visiteurs": 0
         }
       ]
     }
@@ -145,7 +155,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-26T12:24:54.023Z",
+  "_savedAt": "2026-02-26T12:25:12.435Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
