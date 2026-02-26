@@ -166,7 +166,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-02-26T18:42:41.986Z",
+  "_savedAt": "2026-02-26T18:44:41.050Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -505,6 +505,13 @@
     "notesCJV": "* CJV : Compétition de Jeu Vidéo organisé par l'association",
     "adhesionService": "💼 Adhésion contre service possible (bénévolat, compétences techniques, aide à l'organisation). Contact : contact@nintendoz-event.com",
     "contact": "contact@nintendoz-event.com"
+  },
+  "dbFSCFInscriptionAsso": {
+    "statut": "non_inscrit",
+    "dateInscription": "",
+    "categorie": "",
+    "montantPaye": 0,
+    "notes": ""
   },
   "dbTarifsAntenne": {},
   "dbGHDirigeants": [
