@@ -193,86 +193,7 @@
           "label": "🪑 Tables & Stands",
           "visible": true,
           "locked": false,
-          "elements": [
-            {
-              "x": -290,
-              "y": 3760,
-              "w": 30,
-              "h": 30,
-              "fill": "#64748b",
-              "calque": "structure",
-              "label": "Pilier",
-              "ico": "⬛",
-              "showDim": true,
-              "type": "rect",
-              "id": 1
-            },
-            {
-              "x": 3210,
-              "y": 1300,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 2
-            },
-            {
-              "x": -70,
-              "y": -30,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 3
-            },
-            {
-              "x": -1800,
-              "y": 1260,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 4
-            },
-            {
-              "x": -120,
-              "y": -20,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 5
-            },
-            {
-              "x": 110,
-              "y": -20,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 6
-            }
-          ]
+          "elements": []
         },
         {
           "id": "exposants",
@@ -392,7 +313,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:30:44.232Z",
+  "_savedAt": "2026-03-01T18:30:51.342Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
