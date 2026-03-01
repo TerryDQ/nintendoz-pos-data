@@ -125,6 +125,19 @@
               "showDim": true,
               "type": "rect",
               "id": 1
+            },
+            {
+              "x": 25,
+              "y": -5,
+              "w": 30,
+              "h": 30,
+              "fill": "#64748b",
+              "calque": "structure",
+              "label": "Pilier",
+              "ico": "⬛",
+              "showDim": true,
+              "type": "rect",
+              "id": 2
             }
           ]
         },
@@ -270,7 +283,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T13:58:41.353Z",
+  "_savedAt": "2026-03-01T13:58:43.520Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
