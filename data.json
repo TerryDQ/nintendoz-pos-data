@@ -195,8 +195,8 @@
           "locked": false,
           "elements": [
             {
-              "x": -70,
-              "y": 30,
+              "x": 1340,
+              "y": -290,
               "w": 200,
               "h": 20,
               "fill": "#94a3b8",
@@ -327,7 +327,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:31:44.232Z",
+  "_savedAt": "2026-03-01T18:31:49.630Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
