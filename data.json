@@ -163,9 +163,80 @@
     },
     "wf": {
       "nom": "Wizard Furusato",
-      "calquesFixe": [],
+      "calquesFixe": [
+        {
+          "id": "structure",
+          "label": "🏗️ Murs & Structure",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "equipements",
+          "label": "⚡ Équipements",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "securite",
+          "label": "🚪 Sécurité",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        }
+      ],
       "fixeVerrouille": false,
-      "calquesEvt": [],
+      "calquesEvt": [
+        {
+          "id": "stands",
+          "label": "🪑 Tables & Stands",
+          "visible": true,
+          "locked": false,
+          "elements": [
+            {
+              "x": -290,
+              "y": 3760,
+              "w": 30,
+              "h": 30,
+              "fill": "#64748b",
+              "calque": "structure",
+              "label": "Pilier",
+              "ico": "⬛",
+              "showDim": true,
+              "type": "rect",
+              "id": 1
+            },
+            {
+              "x": 3210,
+              "y": 1300,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 2
+            }
+          ]
+        },
+        {
+          "id": "exposants",
+          "label": "🏷️ Exposants",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "annotations",
+          "label": "📝 Annotations",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        }
+      ],
       "modeEdition": "evt",
       "config": {
         "scale": 20,
@@ -269,7 +340,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:12:51.018Z",
+  "_savedAt": "2026-03-01T18:30:20.656Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
