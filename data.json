@@ -114,7 +114,21 @@
           "label": "🏗️ Murs & Structure",
           "visible": true,
           "locked": false,
-          "elements": []
+          "elements": [
+            {
+              "x": -80,
+              "y": -40,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 1
+            }
+          ]
         },
         {
           "id": "equipements",
@@ -135,7 +149,21 @@
           "label": "🪑 Tables & Stands",
           "visible": true,
           "locked": false,
-          "elements": []
+          "elements": [
+            {
+              "type": "line",
+              "x": 0,
+              "y": 0,
+              "x1": -1200,
+              "y1": -4270,
+              "x2": -1320,
+              "y2": -4150,
+              "fill": "#94a3b8",
+              "strokeW": 4,
+              "calque": "stands",
+              "id": 2
+            }
+          ]
         },
         {
           "id": "exposants",
@@ -152,7 +180,7 @@
           "elements": []
         }
       ],
-      "modeEdition": "fixe",
+      "modeEdition": "tout",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -269,7 +297,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:02:45.868Z",
+  "_savedAt": "2026-03-01T18:03:30.070Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
