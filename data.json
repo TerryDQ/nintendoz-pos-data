@@ -103,6 +103,109 @@
   "dbAccesRegistre": [],
   "dbRessourcesDesign": [],
   "dbRessourcesPeda": [],
+  "dbPlans": {
+    "mg": {
+      "nom": "Minato Geek",
+      "calques": [
+        {
+          "id": "structure",
+          "label": "🏗️ Murs & Structure",
+          "visible": true,
+          "locked": false,
+          "elements": [
+            {
+              "x": -80,
+              "y": -40,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": "equipements",
+          "label": "⚡ Équipements",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "securite",
+          "label": "🚪 Sécurité",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "stands",
+          "label": "🪑 Tables & Stands",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "exposants",
+          "label": "🏷️ Exposants",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "annotations",
+          "label": "📝 Annotations",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        }
+      ],
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "interieur",
+        "largeur": 2000,
+        "hauteur": 1400
+      }
+    },
+    "wf": {
+      "nom": "Wizard Furusato",
+      "calques": [],
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "mixte",
+        "largeur": 2000,
+        "hauteur": 1400
+      }
+    },
+    "gh": {
+      "nom": "Geek House",
+      "calques": [],
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "interieur",
+        "largeur": 1600,
+        "hauteur": 1200
+      }
+    },
+    "proj": {
+      "nom": "Nouveau projet",
+      "calques": [],
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "interieur",
+        "largeur": 2000,
+        "hauteur": 1400
+      }
+    }
+  },
   "dbRetours": [],
   "mgTarifs": {
     "table_ext": "—",
@@ -167,7 +270,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T13:57:59.611Z",
+  "_savedAt": "2026-03-01T13:58:41.353Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
