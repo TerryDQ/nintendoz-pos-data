@@ -208,8 +208,8 @@
               "id": 7
             },
             {
-              "x": -80,
-              "y": -10,
+              "x": 70,
+              "y": 1240,
               "w": 200,
               "h": 20,
               "fill": "#94a3b8",
@@ -219,6 +219,19 @@
               "showDim": true,
               "type": "rect",
               "id": 8
+            },
+            {
+              "x": -10,
+              "y": -30,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 9
             }
           ]
         },
@@ -340,7 +353,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:31:53.847Z",
+  "_savedAt": "2026-03-01T18:32:06.236Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
