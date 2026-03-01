@@ -167,7 +167,7 @@
       "config": {
         "scale": 20,
         "grille": 50,
-        "env": "exterieur",
+        "env": "mixte",
         "largeur": 2000,
         "hauteur": 1400
       }
@@ -270,7 +270,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T13:59:55.107Z",
+  "_savedAt": "2026-03-01T13:59:58.013Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
