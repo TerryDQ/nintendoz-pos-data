@@ -149,7 +149,21 @@
           "label": "🪑 Tables & Stands",
           "visible": true,
           "locked": false,
-          "elements": []
+          "elements": [
+            {
+              "type": "line",
+              "x": 0,
+              "y": 0,
+              "x1": -1200,
+              "y1": -4270,
+              "x2": -1320,
+              "y2": -4150,
+              "fill": "#94a3b8",
+              "strokeW": 4,
+              "calque": "stands",
+              "id": 2
+            }
+          ]
         },
         {
           "id": "exposants",
@@ -283,7 +297,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:00:00.637Z",
+  "_savedAt": "2026-03-01T18:00:30.073Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
