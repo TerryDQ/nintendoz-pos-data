@@ -219,6 +219,32 @@
               "showDim": true,
               "type": "rect",
               "id": 2
+            },
+            {
+              "x": -70,
+              "y": -30,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 3
+            },
+            {
+              "x": -1800,
+              "y": 1260,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 4
             }
           ]
         },
@@ -340,7 +366,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:30:20.656Z",
+  "_savedAt": "2026-03-01T18:30:33.198Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
