@@ -106,7 +106,9 @@
   "dbPlans": {
     "mg": {
       "nom": "Minato Geek",
-      "calques": [
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [
         {
           "id": "structure",
           "label": "🏗️ Murs & Structure",
@@ -164,6 +166,7 @@
           "elements": []
         }
       ],
+      "modeEdition": "tout",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -174,7 +177,10 @@
     },
     "wf": {
       "nom": "Wizard Furusato",
-      "calques": [],
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -184,8 +190,11 @@
       }
     },
     "gh": {
-      "nom": "Geek House",
-      "calques": [],
+      "nom": "Geek House — Salle des Dunes",
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -196,7 +205,10 @@
     },
     "proj": {
       "nom": "Nouveau projet",
-      "calques": [],
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -206,6 +218,7 @@
       }
     }
   },
+  "dbPlansStand": {},
   "dbRetours": [],
   "mgTarifs": {
     "table_ext": "—",
@@ -270,7 +283,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T15:03:11.015Z",
+  "_savedAt": "2026-03-01T15:05:09.592Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
