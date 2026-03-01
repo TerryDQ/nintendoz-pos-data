@@ -125,6 +125,19 @@
               "showDim": true,
               "type": "rect",
               "id": 1
+            },
+            {
+              "x": -90,
+              "y": -10,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 3
             }
           ]
         },
@@ -270,7 +283,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T13:59:01.549Z",
+  "_savedAt": "2026-03-01T13:59:06.715Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
