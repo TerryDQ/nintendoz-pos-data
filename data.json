@@ -232,6 +232,19 @@
               "showDim": true,
               "type": "rect",
               "id": 9
+            },
+            {
+              "x": 770,
+              "y": 620,
+              "w": 24,
+              "h": 12,
+              "fill": "#1e40af",
+              "calque": "stands",
+              "label": "Table 120 cm",
+              "ico": "📋",
+              "showDim": true,
+              "type": "rect",
+              "id": 12
             }
           ]
         },
@@ -353,7 +366,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T18:32:20.976Z",
+  "_savedAt": "2026-03-01T18:32:38.738Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
