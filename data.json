@@ -112,47 +112,7 @@
           "label": "🏗️ Murs & Structure",
           "visible": true,
           "locked": false,
-          "elements": [
-            {
-              "x": -80,
-              "y": -20,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 14
-            },
-            {
-              "x": 26120,
-              "y": 20840,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 15
-            },
-            {
-              "x": 10,
-              "y": -20,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 16
-            }
-          ]
+          "elements": []
         },
         {
           "id": "equipements",
@@ -191,28 +151,6 @@
               "id": 13,
               "ref": "01",
               "fontSize": 9
-            },
-            {
-              "type": "rect",
-              "x": 450,
-              "y": -40,
-              "w": 10,
-              "h": 30,
-              "fill": "#1e40af",
-              "calque": "stands",
-              "showDim": true,
-              "id": 18
-            },
-            {
-              "type": "rect",
-              "x": 430,
-              "y": -40,
-              "w": 10,
-              "h": 50,
-              "fill": "#1e40af",
-              "calque": "stands",
-              "showDim": true,
-              "id": 19
             }
           ]
         },
@@ -231,7 +169,7 @@
           "elements": []
         }
       ],
-      "modeEdition": "fixe",
+      "modeEdition": "evt",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -348,7 +286,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-02T08:29:59.006Z",
+  "_savedAt": "2026-03-02T09:10:16.304Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
