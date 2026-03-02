@@ -106,9 +106,69 @@
   "dbPlans": {
     "mg": {
       "nom": "Minato Geek",
-      "calquesFixe": [],
+      "calquesFixe": [
+        {
+          "id": "structure",
+          "label": "🏗️ Murs & Structure",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "equipements",
+          "label": "⚡ Équipements",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "securite",
+          "label": "🚪 Sécurité",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        }
+      ],
       "fixeVerrouille": false,
-      "calquesEvt": [],
+      "calquesEvt": [
+        {
+          "id": "stands",
+          "label": "🪑 Tables & Stands",
+          "visible": true,
+          "locked": false,
+          "elements": [
+            {
+              "x": -570,
+              "y": -1820,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "01",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 13,
+              "ref": "01",
+              "fontSize": 9
+            }
+          ]
+        },
+        {
+          "id": "exposants",
+          "label": "🏷️ Exposants",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        },
+        {
+          "id": "annotations",
+          "label": "📝 Annotations",
+          "visible": true,
+          "locked": false,
+          "elements": []
+        }
+      ],
       "modeEdition": "evt",
       "config": {
         "scale": 20,
@@ -226,7 +286,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-02T06:41:26.418Z",
+  "_savedAt": "2026-03-02T07:40:58.002Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
