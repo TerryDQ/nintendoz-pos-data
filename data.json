@@ -102,6 +102,66 @@
   ],
   "dbAccesRegistre": [],
   "dbRessourcesDesign": [],
+  "dbRessourcesPeda": [],
+  "dbPlans": {
+    "mg": {
+      "nom": "Minato Geek",
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "mixte",
+        "largeur": 2400,
+        "hauteur": 1600
+      }
+    },
+    "wf": {
+      "nom": "Wizard Furusato",
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "mixte",
+        "largeur": 2200,
+        "hauteur": 1600
+      }
+    },
+    "gh": {
+      "nom": "Geek House — Salle des Dunes",
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "interieur",
+        "largeur": 1200,
+        "hauteur": 800
+      }
+    },
+    "proj": {
+      "nom": "Nouveau projet",
+      "calquesFixe": [],
+      "fixeVerrouille": false,
+      "calquesEvt": [],
+      "modeEdition": "evt",
+      "config": {
+        "scale": 20,
+        "grille": 50,
+        "env": "interieur",
+        "largeur": 2000,
+        "hauteur": 1400
+      }
+    }
+  },
+  "dbPlansStand": {},
   "dbRetours": [],
   "mgTarifs": {
     "table_ext": "—",
@@ -166,7 +226,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-01T21:28:55.564Z",
+  "_savedAt": "2026-03-02T06:41:26.418Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
