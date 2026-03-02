@@ -112,7 +112,34 @@
           "label": "🏗️ Murs & Structure",
           "visible": true,
           "locked": false,
-          "elements": []
+          "elements": [
+            {
+              "x": -80,
+              "y": -20,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 14
+            },
+            {
+              "x": -90,
+              "y": 30,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 15
+            }
+          ]
         },
         {
           "id": "equipements",
@@ -286,7 +313,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-02T07:57:08.002Z",
+  "_savedAt": "2026-03-02T08:15:12.348Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
