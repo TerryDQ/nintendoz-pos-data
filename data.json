@@ -522,12 +522,16 @@
               "ext-t-retours",
               "ext-t-plans"
             ]
+          },
+          "pg-subventions": {
+            "visible": true,
+            "tabs": []
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:50:42.918Z",
+  "_savedAt": "2026-03-03T14:50:48.927Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
