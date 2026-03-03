@@ -553,11 +553,16 @@
         "couleur": "#fb923c",
         "detail": "Antenne Nintend'Oz-Event en occitanie",
         "typeLabel": "Partenaire",
-        "pages": {}
+        "pages": {
+          "pg-dashboard": {
+            "visible": true,
+            "tabs": []
+          }
+        }
       }
     ]
   },
-  "_savedAt": "2026-03-03T16:10:13.413Z",
+  "_savedAt": "2026-03-03T16:10:15.910Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
