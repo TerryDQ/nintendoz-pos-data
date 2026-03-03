@@ -470,13 +470,22 @@
             "date": "2025-05-01",
             "auteur": "Système",
             "texte": "Litige créé — Mobilier Cougar mis à la benne"
+          },
+          {
+            "date": "03/03/2026",
+            "auteur": "Bureau",
+            "texte": "Litige mis à jour"
           }
         ],
-        "confidentiel": false
+        "confidentiel": false,
+        "pahekoUrl": "",
+        "doc2Url": "",
+        "doc3Url": "",
+        "noteConf": ""
       }
     ]
   },
-  "_savedAt": "2026-03-03T10:45:02.908Z",
+  "_savedAt": "2026-03-03T10:45:53.132Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
