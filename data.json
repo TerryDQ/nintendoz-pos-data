@@ -601,12 +601,30 @@
           "pg-antennes": {
             "visible": true,
             "tabs": []
+          },
+          "pg-inventaire": {
+            "visible": true,
+            "tabs": []
+          },
+          "pg-transport": {
+            "visible": true,
+            "tabs": []
+          },
+          "pg-devis": {
+            "visible": true,
+            "tabs": [
+              "dv-t-devis",
+              "dv-t-clients",
+              "dv-t-catalogue",
+              "dv-t-config",
+              "dv-t-facturation"
+            ]
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T16:10:45.645Z",
+  "_savedAt": "2026-03-03T16:10:56.143Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
