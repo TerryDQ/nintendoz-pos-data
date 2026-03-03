@@ -404,7 +404,8 @@
   "dbCR": {
     "pin": "2025",
     "permissions": [
-      "evt-minato"
+      "evt-minato",
+      "inventaire"
     ],
     "evtSections": {},
     "membres": [
@@ -472,7 +473,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-03T10:44:31.308Z",
+  "_savedAt": "2026-03-03T10:44:38.607Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
