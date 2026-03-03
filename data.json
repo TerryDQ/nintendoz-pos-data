@@ -530,12 +530,16 @@
           "pg-communication": {
             "visible": false,
             "tabs": []
+          },
+          "pg-securite": {
+            "visible": false,
+            "tabs": []
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:50:56.160Z",
+  "_savedAt": "2026-03-03T14:51:00.541Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
