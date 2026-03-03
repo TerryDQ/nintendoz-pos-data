@@ -492,7 +492,7 @@
         "nom": "Comité Régional",
         "detail": "Pays-de-la-Loire-du-Jeu-Vidéo",
         "type": "cr",
-        "pin": "2025",
+        "pin": "2026",
         "couleur": "#3b82f6",
         "pages": {
           "pg-minato": {
@@ -547,7 +547,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:51:29.069Z",
+  "_savedAt": "2026-03-03T14:51:41.643Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
