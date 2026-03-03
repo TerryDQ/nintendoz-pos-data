@@ -534,12 +534,16 @@
           "pg-securite": {
             "visible": false,
             "tabs": []
+          },
+          "pg-transport": {
+            "visible": true,
+            "tabs": []
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:51:00.541Z",
+  "_savedAt": "2026-03-03T14:51:08.256Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
