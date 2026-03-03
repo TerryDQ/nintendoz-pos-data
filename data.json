@@ -289,6 +289,54 @@
     }
   },
   "dbPlansStand": {},
+  "dbBatiment": {
+    "wf": {
+      "vueActive": "rdc",
+      "assemblage": {
+        "s1": {
+          "x": 200,
+          "y": 100,
+          "rot": 0
+        },
+        "s2": {
+          "x": 200,
+          "y": 620,
+          "rot": 0
+        },
+        "hall": {
+          "x": 920,
+          "y": 200,
+          "rot": 0
+        },
+        "wc": {
+          "x": 1240,
+          "y": 200,
+          "rot": 0
+        },
+        "couloir": {
+          "x": 1240,
+          "y": 400,
+          "rot": 0
+        },
+        "cuisine": {
+          "x": 920,
+          "y": 500,
+          "rot": 0
+        },
+        "s3": {
+          "x": 200,
+          "y": 100,
+          "rot": 0
+        },
+        "danse": {
+          "x": 830,
+          "y": 100,
+          "rot": 0
+        }
+      },
+      "pieces": {}
+    }
+  },
   "dbRetours": [],
   "mgTarifs": {
     "table_ext": "—",
@@ -353,7 +401,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "_savedAt": "2026-03-03T10:09:37.854Z",
+  "_savedAt": "2026-03-03T10:10:10.993Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
