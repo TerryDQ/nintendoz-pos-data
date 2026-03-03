@@ -486,9 +486,32 @@
     ]
   },
   "dbACL": {
-    "profiles": []
+    "profiles": [
+      {
+        "id": "cr-pdl",
+        "nom": "Comité Régional",
+        "detail": "Pays-de-la-Loire-du-Jeu-Vidéo",
+        "type": "cr",
+        "pin": "2025",
+        "couleur": "#3b82f6",
+        "pages": {
+          "pg-minato": {
+            "visible": true,
+            "tabs": []
+          },
+          "pg-inventaire": {
+            "visible": true,
+            "tabs": []
+          },
+          "pg-projets": {
+            "visible": true,
+            "tabs": []
+          }
+        }
+      }
+    ]
   },
-  "_savedAt": "2026-03-03T14:49:07.739Z",
+  "_savedAt": "2026-03-03T14:49:48.703Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
