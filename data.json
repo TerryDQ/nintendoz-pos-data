@@ -573,12 +573,20 @@
               "ext-t-retours",
               "ext-t-plans"
             ]
+          },
+          "pg-subventions": {
+            "visible": true,
+            "tabs": []
+          },
+          "pg-communication": {
+            "visible": true,
+            "tabs": []
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T16:10:26.319Z",
+  "_savedAt": "2026-03-03T16:10:36.375Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
