@@ -289,54 +289,6 @@
     }
   },
   "dbPlansStand": {},
-  "dbBatiment": {
-    "wf": {
-      "vueActive": "rdc",
-      "assemblage": {
-        "s1": {
-          "x": 200,
-          "y": 100,
-          "rot": 0
-        },
-        "s2": {
-          "x": 200,
-          "y": 620,
-          "rot": 0
-        },
-        "hall": {
-          "x": 920,
-          "y": 200,
-          "rot": 0
-        },
-        "wc": {
-          "x": 1240,
-          "y": 200,
-          "rot": 0
-        },
-        "couloir": {
-          "x": 1240,
-          "y": 400,
-          "rot": 0
-        },
-        "cuisine": {
-          "x": 920,
-          "y": 500,
-          "rot": 0
-        },
-        "s3": {
-          "x": 200,
-          "y": 100,
-          "rot": 0
-        },
-        "danse": {
-          "x": 830,
-          "y": 100,
-          "rot": 0
-        }
-      },
-      "pieces": {}
-    }
-  },
   "dbRetours": [],
   "mgTarifs": {
     "table_ext": "—",
@@ -401,76 +353,7 @@
     "jep": "a_faire"
   },
   "agrementsNotes": {},
-  "dbCR": {
-    "pin": "2025",
-    "permissions": [],
-    "evtSections": {},
-    "membres": [
-      {
-        "id": "cr-1",
-        "nom": "",
-        "prenom": "",
-        "role": "Référent CR",
-        "email": "",
-        "tel": "",
-        "actif": true
-      }
-    ],
-    "taches": [
-      {
-        "id": "t-cr-1",
-        "titre": "Suivi litige 2-Lives — Mobilier Cougar",
-        "detail": "Suivre le dossier juridique concernant le mobilier gaming Cougar mis à la benne en mai 2025. Nintend'Oz n'a pas encore réglé la prestation à 100% en raison de l'absence de paiement de Julien Balanan Sonorisation (DJ) durant le DJ Summer Tour — La Barbâtre 2024.",
-        "statut": "en_cours",
-        "priorite": "haute",
-        "assigneA": "",
-        "dateEcheance": "2025-12-31",
-        "tags": [
-          "juridique",
-          "2lives",
-          "litige"
-        ],
-        "created": "2026-03-03T10:13:51.278Z"
-      }
-    ],
-    "litiges": [
-      {
-        "id": "lit-1",
-        "titre": "2-Lives — Mobilier Gaming Cougar",
-        "type": "prestation_impayee",
-        "statut": "en_cours",
-        "priorite": "haute",
-        "dateOuverture": "2025-05-01",
-        "description": "Mobilier gaming Cougar (chaises, bureaux) mis à la benne en mai 2025 lors d'un événement 2-Lives. Prestation non payée à 100% par Nintend'Oz en raison du défaut de paiement de Julien Balanan Sonorisation (DJ) pour la prestation DJ Summer Tour — La Barbâtre 2024.",
-        "parties": [
-          {
-            "nom": "2-Lives",
-            "role": "Prestataire / Créancier potentiel"
-          },
-          {
-            "nom": "Julien Balanan Sonorisation",
-            "role": "Sous-traitant défaillant (DJ)"
-          },
-          {
-            "nom": "Nintend'Oz-Event",
-            "role": "Débiteur partiel"
-          }
-        ],
-        "montantDu": null,
-        "montantPaye": null,
-        "documents": [],
-        "historique": [
-          {
-            "date": "2025-05-01",
-            "auteur": "Système",
-            "texte": "Litige créé — Mobilier Cougar mis à la benne"
-          }
-        ],
-        "confidentiel": false
-      }
-    ]
-  },
-  "_savedAt": "2026-03-03T10:36:56.996Z",
+  "_savedAt": "2026-03-03T10:37:04.483Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
