@@ -506,12 +506,16 @@
           "pg-projets": {
             "visible": true,
             "tabs": []
+          },
+          "pg-wizard": {
+            "visible": false,
+            "tabs": []
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:50:13.413Z",
+  "_savedAt": "2026-03-03T14:50:20.196Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
