@@ -570,14 +570,15 @@
               "ext-t-materiel",
               "ext-t-benevoles",
               "ext-t-checklist",
-              "ext-t-retours"
+              "ext-t-retours",
+              "ext-t-plans"
             ]
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T16:10:24.599Z",
+  "_savedAt": "2026-03-03T16:10:26.319Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
