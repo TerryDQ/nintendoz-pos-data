@@ -516,14 +516,18 @@
             "tabs": [
               "ext-t-festivals",
               "ext-t-frais",
-              "ext-t-materiel"
+              "ext-t-materiel",
+              "ext-t-benevoles",
+              "ext-t-checklist",
+              "ext-t-retours",
+              "ext-t-plans"
             ]
           }
         }
       }
     ]
   },
-  "_savedAt": "2026-03-03T14:50:37.676Z",
+  "_savedAt": "2026-03-03T14:50:42.918Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
