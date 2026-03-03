@@ -406,7 +406,9 @@
     "permissions": [
       "evt-minato",
       "inventaire",
-      "evt-nouveau"
+      "evt-nouveau",
+      "juridique",
+      "juridique-litiges"
     ],
     "evtSections": {},
     "membres": [
@@ -474,7 +476,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-03T10:44:46.241Z",
+  "_savedAt": "2026-03-03T10:44:54.438Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
