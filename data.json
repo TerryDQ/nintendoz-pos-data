@@ -497,7 +497,9 @@
         "pages": {
           "pg-minato": {
             "visible": true,
-            "tabs": []
+            "tabs": [
+              "mgt-exposants"
+            ]
           },
           "pg-inventaire": {
             "visible": true,
@@ -632,7 +634,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-06T08:50:17.347Z",
+  "_savedAt": "2026-03-06T09:06:31.399Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
