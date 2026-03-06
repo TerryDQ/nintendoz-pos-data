@@ -24,6 +24,37 @@
             "grilles": 1
           },
           "statut": "inscrit"
+        },
+        {
+          "id": 1772789306607,
+          "nom": "Zabz & Yakujo",
+          "type": "artiste",
+          "zone": "village",
+          "edition": "printemps",
+          "surface": "",
+          "email": "LENEB.OFFICIEL@GMAIL.COM",
+          "tel": "0624168470",
+          "montant": "",
+          "paiement": "en_attente",
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 0,
+            "table150": 0,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 0,
+            "chaises": 0,
+            "champignon": 0,
+            "stand_japonais": 0
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit"
         }
       ],
       "anims": [],
@@ -646,7 +677,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-06T09:27:41.345Z",
+  "_savedAt": "2026-03-06T09:28:32.731Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
