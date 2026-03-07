@@ -679,7 +679,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-07T08:50:03.312Z",
+  "_savedAt": "2026-03-07T09:09:08.400Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -1058,5 +1058,23 @@
   "dbAntennes": [],
   "dbBilans": [],
   "dbInventaire": [],
-  "dbSorties": []
+  "dbSorties": [],
+  "dbAudit": [],
+  "dbFrequentation": {
+    "mg": {
+      "ps": 0,
+      "pd": 0,
+      "os": 0,
+      "od": 0,
+      "jauge": 500
+    },
+    "wf": {
+      "s": 0,
+      "d": 0,
+      "jauge": 300
+    },
+    "gh": {
+      "total": 0
+    }
+  }
 }
