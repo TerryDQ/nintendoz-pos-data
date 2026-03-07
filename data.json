@@ -31,12 +31,12 @@
           "type": "artiste",
           "zone": "village",
           "edition": "printemps",
-          "surface": "",
+          "surface": "0",
           "email": "LENEB.OFFICIEL@GMAIL.COM",
           "tel": "0624168470",
-          "montant": "",
-          "paiement": "en_attente",
-          "notes": "",
+          "montant": "0",
+          "paiement": "",
+          "notes": "[Stand 2 : zone marie] [Stand 2 : zone marie]",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
@@ -45,6 +45,7 @@
             "elec": 0,
             "tonnelle": 0,
             "grilles": 0,
+            "paperboard": 0,
             "chaises": 0,
             "champignon": 0,
             "stand_japonais": 0
@@ -54,7 +55,8 @@
             "kbis": null,
             "dossier": null
           },
-          "statut": "inscrit"
+          "statut": "inscrit",
+          "contrepartie": ""
         }
       ],
       "anims": [],
@@ -677,7 +679,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-07T08:28:56.075Z",
+  "_savedAt": "2026-03-07T08:29:56.312Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
