@@ -63,6 +63,41 @@
             "village",
             "marie"
           ]
+        },
+        {
+          "id": 1772994801785,
+          "nom": "ANA Gravure Laser",
+          "type": "artiste",
+          "zone": "marie",
+          "edition": "les-deux",
+          "surface": "",
+          "email": "anagravurelaser@gmail.com",
+          "tel": "",
+          "montant": "15",
+          "paiement": "en_attente",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null,
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 4,
+            "table150": 0,
+            "elec": 1,
+            "tonnelle": 0,
+            "grilles": 2,
+            "paperboard": 0,
+            "chaises": 0,
+            "champignon": 0,
+            "stand_japonais": 0
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit"
         }
       ],
       "anims": [],
@@ -685,7 +720,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-08T18:33:18.043Z",
+  "_savedAt": "2026-03-08T18:34:18.051Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
