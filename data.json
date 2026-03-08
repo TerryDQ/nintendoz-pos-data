@@ -40,12 +40,12 @@
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
-            "table120": 8,
-            "table150": 12,
+            "table120": 4,
+            "table150": 10,
             "elec": 0,
             "tonnelle": 0,
             "grilles": 6,
-            "paperboard": 1,
+            "paperboard": 0,
             "chaises": 0,
             "champignon": 0,
             "stand_japonais": 0
@@ -681,7 +681,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-08T18:25:18.046Z",
+  "_savedAt": "2026-03-08T18:26:18.056Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
