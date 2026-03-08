@@ -21,9 +21,16 @@
             "table150": 2,
             "elec": 0,
             "tonnelle": 0,
-            "grilles": 1
+            "grilles": 1,
+            "paperboard": 0,
+            "chaises": 0,
+            "champignon": 0,
+            "stand_japonais": 0
           },
-          "statut": "inscrit"
+          "statut": "attente_paiement",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null
         },
         {
           "id": 1772789306607,
@@ -720,7 +727,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-08T19:50:18.053Z",
+  "_savedAt": "2026-03-08T19:51:18.763Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
