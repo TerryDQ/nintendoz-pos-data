@@ -35,17 +35,17 @@
           "email": "LENEB.OFFICIEL@GMAIL.COM",
           "tel": "0624168470",
           "montant": "0",
-          "paiement": "",
+          "paiement": "contre_service",
           "notes": "[Stand 2 : zone marie] [Stand 2 : zone marie]",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
-            "table120": 4,
+            "table120": 8,
             "table150": 10,
             "elec": 0,
             "tonnelle": 0,
             "grilles": 6,
-            "paperboard": 0,
+            "paperboard": 1,
             "chaises": 0,
             "champignon": 0,
             "stand_japonais": 0
@@ -56,9 +56,13 @@
             "dossier": null
           },
           "statut": "inscrit",
-          "contrepartie": "",
+          "contrepartie": "Réalisation affiche Minato du Printemps",
           "valeurService": 0,
-          "ftRepas": null
+          "ftRepas": null,
+          "zones": [
+            "village",
+            "marie"
+          ]
         }
       ],
       "anims": [],
@@ -681,7 +685,7 @@
       }
     ]
   },
-  "_savedAt": "2026-03-08T18:27:18.049Z",
+  "_savedAt": "2026-03-08T18:28:18.048Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -1061,7 +1065,14 @@
   "dbBilans": [],
   "dbInventaire": [],
   "dbSorties": [],
-  "dbAudit": [],
+  "dbAudit": [
+    {
+      "ts": "2026-03-08T18:28:01.345Z",
+      "action": "Fusion",
+      "detail": "Exposant \"Zabz & Yakujo\" fusionné",
+      "who": "Bureau"
+    }
+  ],
   "dbFrequentation": {
     "mg": {
       "ps": 0,
