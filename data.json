@@ -1036,7 +1036,7 @@
       "num": "DEV-STAND-2026-001",
       "date": "2026-03-12",
       "validite": "2026-06-10",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1771518403900",
       "objet": "Stand artiste/créateur · 3 m² — Minato Geek",
       "lignes": [
@@ -1089,7 +1089,7 @@
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-13T18:48:21.475Z"
+      "updatedAt": "2026-03-13T19:47:34.081Z"
     },
     {
       "id": "dv-expo-1772789306607",
@@ -1482,7 +1482,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T19:47:17.397Z",
+  "_savedAt": "2026-03-13T19:47:35.587Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
