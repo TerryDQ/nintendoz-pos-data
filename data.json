@@ -114,14 +114,14 @@
         },
         {
           "id": 1773244610006,
-          "nom": "Maquette",
+          "nom": "Maquettes et Figurines 85",
           "type": "asso",
-          "zone": "marie",
+          "zone": "interieur-marie",
           "edition": "haru",
           "surface": "",
           "email": "",
           "tel": "",
-          "montant": "-1",
+          "montant": 10,
           "paiement": "solde",
           "contrepartie": "",
           "valeurService": 0,
@@ -130,15 +130,12 @@
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
-            "table120": 1,
+            "table120": 4,
             "table150": 0,
             "elec": 0,
             "tonnelle": 0,
             "grilles": 0,
-            "paperboard": 0,
-            "chaises": 0,
-            "champignon": 0,
-            "stand_japonais": 0
+            "paperboard": 0
           },
           "docs": {
             "rc": null,
@@ -147,7 +144,16 @@
           },
           "statut": "inscrit",
           "clientId": "cl-expo-1773244610006",
-          "devisId": "dv-expo-1773244610006"
+          "devisId": "dv-expo-1773244610006",
+          "prenom": "Romain",
+          "nomContact": "",
+          "activite": "Maquettes & Figurines",
+          "siret": "",
+          "web": "",
+          "adresse": "",
+          "cp": "",
+          "ville": "",
+          "option_stand": "option1"
         }
       ],
       "anims": [],
@@ -1514,7 +1520,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T19:51:17.392Z",
+  "_savedAt": "2026-03-13T19:51:23.507Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -1775,6 +1781,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-13T19:51:22.006Z",
+      "action": "Exposant",
+      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-08T18:28:01.345Z",
       "action": "Fusion",
