@@ -1243,6 +1243,57 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-12T18:18:58.402Z"
+    },
+    {
+      "id": "dv-expo-1771518403900",
+      "num": "DEV-STAND-2026-005",
+      "titre": "Proposition de stand — La Fabric de Graphismea",
+      "date": "2026-03-13",
+      "validite": "2026-06-11",
+      "type": "prestation",
+      "clientId": "cl-expo-1771518403900",
+      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Marie Beaucaire · 🌸🍂 Haru + Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (3 m²) — Minato Geek",
+          "qte": 1,
+          "pu": 14,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 150 cm",
+          "qte": 2,
+          "pu": 12,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 3.44,
+      "fraisGestionActif": true,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 43,
+      "totalHTServices": 0,
+      "totalHT": 46.44,
+      "totalTTC": 46.44,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1771518403900,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-13T15:47:41.361Z"
     }
   ],
   "dbClients": [
@@ -1429,7 +1480,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T15:47:02.189Z",
+  "_savedAt": "2026-03-13T15:47:42.880Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
