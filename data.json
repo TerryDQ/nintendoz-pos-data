@@ -1356,6 +1356,175 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-13T19:47:49.975Z"
+    },
+    {
+      "id": "dv-expo-1772789306607",
+      "num": "DEV-STAND-2026-007",
+      "titre": "Proposition de stand — Zabz & Yakujo",
+      "date": "2026-03-13",
+      "validite": "2026-06-11",
+      "type": "prestation",
+      "clientId": "cl-expo-1772789306607",
+      "objet": "Stand artiste/créateur · 🌿 Village Ext. · 🌸🍂 Haru + Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 8,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 150 cm — Extérieur",
+          "qte": 10,
+          "pu": 12,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 6,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Valeur estimée : 0€"
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 200,
+      "totalHTServices": 0,
+      "totalHT": 200,
+      "totalTTC": 200,
+      "paiementCond": "jour_evt",
+      "paiementModal": "",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nNotes exposant : [Stand 2 : zone marie] [Stand 2 : zone marie]\n⚠️ Paiement en contre-service — montant = 0 €\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1772789306607,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-13T19:52:42.438Z"
+    },
+    {
+      "id": "dv-expo-1772994801785",
+      "num": "DEV-STAND-2026-008",
+      "titre": "Proposition de stand — ANA Gravure Laser",
+      "date": "2026-03-13",
+      "validite": "2026-06-11",
+      "type": "prestation",
+      "clientId": "cl-expo-1772994801785",
+      "objet": "Stand artiste/créateur · 🏛️ Marie Beaucaire · 🌸 Édition Haru · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 4.64,
+      "fraisGestionActif": true,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 58,
+      "totalHTServices": 0,
+      "totalHT": 62.64,
+      "totalTTC": 62.64,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1772994801785,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-13T19:52:42.438Z"
+    },
+    {
+      "id": "dv-expo-1773244610006",
+      "num": "DEV-STAND-2026-009",
+      "titre": "Proposition de stand — Maquettes et Figurines 85",
+      "date": "2026-03-13",
+      "validite": "2026-06-11",
+      "type": "prestation",
+      "clientId": "cl-expo-1773244610006",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Maquettes & Figurines · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
+          "qte": 1,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0.8,
+      "fraisGestionActif": true,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 10,
+      "totalHTServices": 0,
+      "totalHT": 10.8,
+      "totalTTC": 10.8,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1773244610006,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-13T19:52:42.438Z"
     }
   ],
   "dbClients": [
@@ -1542,7 +1711,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T19:52:30.860Z",
+  "_savedAt": "2026-03-13T19:52:43.944Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
