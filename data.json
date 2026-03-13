@@ -1212,7 +1212,6 @@
     {
       "id": "dv-expo-1773244610006",
       "num": "DEV-STAND-2026-004",
-      "titre": "Proposition de stand — Maquette",
       "date": "2026-03-12",
       "validite": "2026-06-10",
       "type": "prestation",
@@ -1220,28 +1219,48 @@
       "objet": "Stand associatif — Minato Geek",
       "lignes": [
         {
-          "nom": "🪑 Table 120 cm",
+          "nom": "Emplacement stand S (jusqu'à 4m²) (w-e)",
           "qte": 1,
-          "pu": 10,
-          "tva": 0,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Table pliante 120cm (j)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
-      "totalHTLignes": 10,
+      "fraisGestionActif": true,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 10,
-      "totalTTC": 10,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1773244610006,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-12T18:18:58.402Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-13T18:50:38.983Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -1479,7 +1498,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T18:49:57.419Z",
+  "_savedAt": "2026-03-13T18:50:40.493Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
