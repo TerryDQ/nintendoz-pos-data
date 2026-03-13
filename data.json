@@ -1035,7 +1035,6 @@
     {
       "id": "dv-expo-1771518403900",
       "num": "DEV-STAND-2026-001",
-      "titre": "Proposition de stand — La Fabric de Graphismea",
       "date": "2026-03-12",
       "validite": "2026-06-10",
       "type": "prestation",
@@ -1045,40 +1044,53 @@
         {
           "nom": "📍 Location emplacement stand (3 m²) — Minato Geek",
           "qte": 1,
-          "pu": 14,
-          "tva": 0,
+          "pu": 15,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🪑 Table 150 cm",
-          "qte": 2,
-          "pu": 12,
-          "tva": 0,
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition",
           "qte": 1,
           "pu": 5,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
-      "totalHTLignes": 43,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 20,
       "totalHTServices": 0,
-      "totalHT": 43,
-      "totalTTC": 43,
+      "totalHT": 20,
+      "totalTTC": 20,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1771518403900,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-12T18:18:58.401Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-13T07:35:49.353Z"
     },
     {
       "id": "dv-expo-1772789306607",
@@ -1417,7 +1429,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T07:35:13.243Z",
+  "_savedAt": "2026-03-13T07:35:50.856Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
