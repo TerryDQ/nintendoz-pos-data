@@ -232,6 +232,16 @@
           "note": "",
           "adherents": 0,
           "visiteurs": 0
+        },
+        {
+          "id": 1773431737059,
+          "date": "2026-03-11",
+          "statut": "ferme",
+          "raison": "aucune_resa",
+          "raisonLabel": "Aucune réservation",
+          "note": "",
+          "adherents": 0,
+          "visiteurs": 0
         }
       ]
     }
@@ -1731,7 +1741,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-13T19:55:22.212Z",
+  "_savedAt": "2026-03-13T19:55:38.569Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
