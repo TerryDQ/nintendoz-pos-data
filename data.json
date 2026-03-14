@@ -1518,7 +1518,7 @@
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-14T17:11:01.586Z"
+      "updatedAt": "2026-03-14T17:37:42.011Z"
     }
   ],
   "dbClients": [
@@ -1705,7 +1705,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T17:37:11.659Z",
+  "_savedAt": "2026-03-14T17:37:43.518Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
