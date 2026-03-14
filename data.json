@@ -1505,6 +1505,74 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-13T19:52:42.438Z"
+    },
+    {
+      "id": "dv-expo-1771518403900",
+      "num": "DEV-STAND-2026-010",
+      "titre": "Proposition de stand — La Fabric de Graphismea",
+      "date": "2026-03-14",
+      "validite": "2026-06-12",
+      "type": "prestation",
+      "clientId": "cl-expo-1771518403900",
+      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
+          "qte": 3,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Prix à définir"
+        },
+        {
+          "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
+          "qte": 3,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Prix à définir"
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": true,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1771518403900,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-14T17:06:10.047Z"
     }
   ],
   "dbClients": [
@@ -1512,12 +1580,12 @@
       "id": "cl-expo-1771518403900",
       "nom": "La Fabric de Graphismea",
       "type": "autre",
-      "siret": "",
+      "siret": "879 122 158",
       "email": "graphismea06@gmail.com",
       "tel": "0683849388",
-      "adresse": "",
-      "cp": "",
-      "ville": "",
+      "adresse": "27 rue Hervé de Mareuil",
+      "cp": "85320",
+      "ville": "Mareuil-sur-Lay-Dissais",
       "notes": ""
     },
     {
@@ -1691,7 +1759,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T17:05:59.486Z",
+  "_savedAt": "2026-03-14T17:06:11.551Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
