@@ -1679,9 +1679,20 @@
       "unite": "forfait",
       "stock": 999,
       "desc": "Frais de transport matériel"
+    },
+    {
+      "id": "pr-1773506582589",
+      "ref": "BAD-MIN-",
+      "cat": "autre",
+      "nom": "Badge exposant",
+      "pu": 0,
+      "tva": 20,
+      "unite": "u",
+      "stock": 40,
+      "desc": ""
     }
   ],
-  "_savedAt": "2026-03-14T16:42:19.080Z",
+  "_savedAt": "2026-03-14T16:43:04.095Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
