@@ -1587,80 +1587,6 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-14T17:06:10.047Z"
-    },
-    {
-      "id": "1773508129838",
-      "num": "DEV-2026-001",
-      "date": "2026-03-14",
-      "validite": "2026-06-11",
-      "type": "exposant",
-      "clientId": "cl-expo-1771518403900",
-      "clientNom": "La Fabric de Graphismea",
-      "clientAdresse": "27 rue Hervé de Mareuil",
-      "clientCP": "85320",
-      "clientVille": "Mareuil-sur-Lay-Dissais",
-      "clientEmail": "graphismea06@gmail.com",
-      "clientTel": "0683849388",
-      "clientSiret": "879 122 158",
-      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Marie Beaucaire · 🌸🍂 Haru + Aki · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand nu (3 m²)  - 12 avril 2026 — Minato Geek",
-          "qte": 1,
-          "pu": 5,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition",
-          "qte": 1,
-          "pu": 2,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "📍 Location emplacement stand nu (3 m²)  - 11 octobre 2026 — Minato Geek",
-          "qte": 1,
-          "pu": 5,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition",
-          "qte": 1,
-          "pu": 2,
-          "tva": 19.9,
-          "remise": 0
-        }
-      ],
-      "services": {
-        "animJours": 0,
-        "animNb": 0,
-        "hebNuits": 0,
-        "hebNb": 0,
-        "restAnim": 0,
-        "restRepas": 0,
-        "restMatin": false,
-        "restMidi": false,
-        "restSoir": false,
-        "kmNb": 0,
-        "essence": false
-      },
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 14,
-      "totalHTServices": 0,
-      "totalHT": 14,
-      "totalTTC": 14,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-03-14T17:08:49.838Z"
     }
   ],
   "dbClients": [
@@ -1847,7 +1773,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T17:08:59.495Z",
+  "_savedAt": "2026-03-14T17:09:25.555Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
