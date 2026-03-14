@@ -1742,7 +1742,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T08:44:32.821Z",
+  "_savedAt": "2026-03-14T08:44:52.272Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2004,6 +2004,12 @@
   "dbSorties": [],
   "dbAudit": [
     {
+      "ts": "2026-03-14T08:44:50.771Z",
+      "action": "Fréquentation",
+      "detail": "Données visiteurs mises à jour",
+      "who": "Bureau"
+    },
+    {
       "ts": "2026-03-13T19:52:22.922Z",
       "action": "Exposant",
       "detail": "MG — \"La Fabric de Graphismea\" ajouté/modifié",
@@ -2031,8 +2037,8 @@
       "jauge": 500
     },
     "wf": {
-      "s": 0,
-      "d": 0,
+      "s": 110,
+      "d": 54,
       "jauge": 300
     },
     "gh": {
