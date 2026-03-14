@@ -1508,11 +1508,10 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
       "_expoId": 1771518403900,
       "_expoCtx": "mg",
       "createdBy": "auto",
-      "updatedAt": "2026-03-14T18:21:02.435Z"
+      "updatedAt": "2026-03-14T19:31:20.461Z"
     }
   ],
   "dbClients": [
@@ -1699,7 +1698,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T19:30:29.523Z",
+  "_savedAt": "2026-03-14T19:31:21.976Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
