@@ -6,7 +6,7 @@
           "id": 1771518403900,
           "nom": "La Fabric de Graphismea",
           "type": "artiste",
-          "zone": "",
+          "zone": "interieur-marie",
           "edition": "haru-aki",
           "surface": "3",
           "email": "graphismea06@gmail.com",
@@ -53,7 +53,7 @@
           "adresse": "",
           "cp": "",
           "ville": "",
-          "option_stand": ""
+          "option_stand": "option1"
         },
         {
           "id": 1772789306607,
@@ -1742,7 +1742,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-14T14:24:26.743Z",
+  "_savedAt": "2026-03-14T14:24:37.882Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2003,6 +2003,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-14T14:24:36.380Z",
+      "action": "Exposant",
+      "detail": "MG — \"La Fabric de Graphismea\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-14T08:44:50.771Z",
       "action": "Fréquentation",
