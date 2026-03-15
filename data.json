@@ -59,26 +59,38 @@
           "id": 1772789306607,
           "nom": "Zabz & Yakujo",
           "type": "artiste",
-          "zone": "village",
+          "zone": "interieur-marie",
           "edition": "haru-aki",
           "surface": "0",
           "email": "LENEB.OFFICIEL@GMAIL.COM",
           "tel": "0624168470",
-          "montant": "0",
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
           "paiement": "contre_service",
           "notes": "[Stand 2 : zone marie] [Stand 2 : zone marie]",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
-            "table120": 8,
-            "table150": 10,
-            "elec": 0,
-            "tonnelle": 0,
-            "grilles": 6,
-            "paperboard": 1,
-            "chaises": 0,
-            "champignon": 0,
-            "stand_japonais": 0
+            "_biEdition": true,
+            "haru": {
+              "table120": 8,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 6,
+              "paperboard": 1
+            },
+            "aki": {
+              "table120": 8,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 6,
+              "paperboard": 1
+            }
           },
           "docs": {
             "rc": null,
@@ -94,7 +106,23 @@
             "marie"
           ],
           "clientId": "cl-expo-1772789306607",
-          "devisId": "dv-expo-1772789306607"
+          "devisId": "dv-expo-1772789306607",
+          "prenom": "",
+          "nomContact": "",
+          "activite": "",
+          "siret": "",
+          "web": "",
+          "adresse": "",
+          "cp": "",
+          "ville": "",
+          "option_stand": "option1",
+          "zonesExtra": [
+            {
+              "zone": "exterieur-village",
+              "option_stand": "option2",
+              "montant": 30
+            }
+          ]
         },
         {
           "id": 1772994801785,
@@ -1814,7 +1842,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:16:34.936Z",
+  "_savedAt": "2026-03-15T11:17:30.095Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2077,6 +2105,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T11:17:28.589Z",
+      "action": "Exposant",
+      "detail": "MG — \"Zabz & Yakujo\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T09:08:15.743Z",
       "action": "Exposant",
