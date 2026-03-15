@@ -167,13 +167,13 @@
           "clientId": "cl-expo-1773244610006",
           "devisId": "dv-expo-1773244610006",
           "prenom": "Romain",
-          "nomContact": "",
-          "activite": "Maquettes & Figurines",
-          "siret": "",
+          "nomContact": "Houit",
+          "activite": "Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines",
+          "siret": "92891048800016",
           "web": "",
-          "adresse": "",
-          "cp": "",
-          "ville": "",
+          "adresse": "27 RUE SAINTE-VERONIQUE",
+          "cp": "85470",
+          "ville": "Bretignolles-sur-Mer",
           "option_stand": "option1"
         }
       ],
@@ -1780,7 +1780,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T08:02:13.962Z",
+  "_savedAt": "2026-03-15T08:02:54.202Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2043,6 +2043,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T08:02:52.692Z",
+      "action": "Exposant",
+      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-14T16:49:43.025Z",
       "action": "Exposant",
