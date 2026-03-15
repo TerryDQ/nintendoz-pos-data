@@ -1666,7 +1666,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:54:39.301Z",
+  "_savedAt": "2026-03-15T11:54:53.799Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -1929,6 +1929,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T11:54:52.284Z",
+      "action": "Exposant",
+      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T11:47:25.821Z",
       "action": "Exposant",
