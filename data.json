@@ -100,7 +100,7 @@
           "id": 1772994801785,
           "nom": "ANA Gravure Laser",
           "type": "artiste",
-          "zone": "",
+          "zone": "exterieur-village",
           "edition": "haru",
           "surface": "4.50",
           "email": "anagravurelaser@gmail.com",
@@ -129,15 +129,15 @@
           "statut": "inscrit",
           "clientId": "cl-expo-1772994801785",
           "devisId": "dv-expo-1772994801785",
-          "prenom": "",
-          "nomContact": "",
-          "activite": "",
+          "prenom": "Sébastien",
+          "nomContact": "RITARD",
+          "activite": "Gravure laser",
           "siret": "",
           "web": "",
           "adresse": "36 rue des Bergeronettes",
           "cp": "40160",
           "ville": "Gastes",
-          "option_stand": ""
+          "option_stand": "option3"
         },
         {
           "id": 1773244610006,
@@ -1813,7 +1813,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T09:08:13.766Z",
+  "_savedAt": "2026-03-15T09:08:17.247Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2076,6 +2076,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T09:08:15.743Z",
+      "action": "Exposant",
+      "detail": "MG — \"ANA Gravure Laser\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T09:03:51.473Z",
       "action": "Exposant",
