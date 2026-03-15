@@ -1124,80 +1124,6 @@
   ],
   "dbDevis": [
     {
-      "id": "dv-expo-1772789306607",
-      "num": "DEV-STAND-2026-002",
-      "date": "2026-03-12",
-      "validite": "2026-06-10",
-      "type": "prestation",
-      "clientId": "cl-expo-1772789306607",
-      "objet": "Stand artiste/créateur — Minato Geek",
-      "lignes": [
-        {
-          "nom": "🪑 Table 120 cm",
-          "qte": 8,
-          "pu": 10,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 150 cm",
-          "qte": 10,
-          "pu": 12,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition",
-          "qte": 6,
-          "pu": 5,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "📋 Chevalet paperboard",
-          "qte": 1,
-          "pu": 8,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
-          "qte": 1,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "services": {
-        "animJours": 0,
-        "animNb": 0,
-        "hebNuits": 0,
-        "hebNb": 0,
-        "restAnim": 0,
-        "restRepas": 0,
-        "restMatin": false,
-        "restMidi": false,
-        "restSoir": false,
-        "kmNb": 0,
-        "essence": false
-      },
-      "remiseGlobale": 0,
-      "fraisGestion": 19.04,
-      "fraisGestionActif": true,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 238,
-      "totalHTServices": 0,
-      "totalHT": 257.04,
-      "totalTTC": 257.04,
-      "paiementCond": "personnalise",
-      "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nNotes exposant : [Stand 2 : zone marie] [Stand 2 : zone marie]\n⚠️ Paiement en contre-service — montant = 0 €\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-03-13T19:48:40.369Z"
-    },
-    {
       "id": "dv-expo-1772994801785",
       "num": "DEV-STAND-2026-003",
       "date": "2026-03-12",
@@ -1841,7 +1767,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:18:12.464Z",
+  "_savedAt": "2026-03-15T11:18:28.251Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
