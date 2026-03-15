@@ -1270,7 +1270,7 @@
       "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T08:49:15.405Z"
+      "updatedAt": "2026-03-15T15:30:11.934Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -1730,7 +1730,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T15:30:03.762Z",
+  "_savedAt": "2026-03-15T15:30:13.437Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
