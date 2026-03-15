@@ -1522,10 +1522,10 @@
       "totalTTC": 18,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
+      "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T07:26:24.917Z"
+      "updatedAt": "2026-03-15T07:45:47.518Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -1780,7 +1780,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T07:45:26.684Z",
+  "_savedAt": "2026-03-15T07:45:49.031Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
