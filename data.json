@@ -100,12 +100,12 @@
           "id": 1772994801785,
           "nom": "ANA Gravure Laser",
           "type": "artiste",
-          "zone": "marie",
+          "zone": "",
           "edition": "haru",
-          "surface": "",
+          "surface": "4.50",
           "email": "anagravurelaser@gmail.com",
-          "tel": "",
-          "montant": "15",
+          "tel": "06 71 06 36 81",
+          "montant": 15,
           "paiement": "en_attente",
           "contrepartie": "",
           "valeurService": 0,
@@ -119,10 +119,7 @@
             "elec": 1,
             "tonnelle": 0,
             "grilles": 2,
-            "paperboard": 0,
-            "chaises": 0,
-            "champignon": 0,
-            "stand_japonais": 0
+            "paperboard": 0
           },
           "docs": {
             "rc": null,
@@ -131,7 +128,16 @@
           },
           "statut": "inscrit",
           "clientId": "cl-expo-1772994801785",
-          "devisId": "dv-expo-1772994801785"
+          "devisId": "dv-expo-1772994801785",
+          "prenom": "",
+          "nomContact": "",
+          "activite": "",
+          "siret": "",
+          "web": "",
+          "adresse": "36 rue des Bergeronettes",
+          "cp": "40160",
+          "ville": "Gastes",
+          "option_stand": ""
         },
         {
           "id": 1773244610006,
@@ -1807,7 +1813,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T09:03:13.981Z",
+  "_savedAt": "2026-03-15T09:03:52.979Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2070,6 +2076,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T09:03:51.473Z",
+      "action": "Exposant",
+      "detail": "MG — \"ANA Gravure Laser\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T08:02:52.692Z",
       "action": "Exposant",
