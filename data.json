@@ -846,8 +846,7 @@
               "dv-t-clients",
               "dv-t-catalogue",
               "dv-t-config",
-              "dv-t-facturation",
-              "dv-t-devis"
+              "dv-t-facturation"
             ]
           },
           "pg-fournisseurs": {
@@ -1842,7 +1841,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:17:34.945Z",
+  "_savedAt": "2026-03-15T11:17:36.862Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
