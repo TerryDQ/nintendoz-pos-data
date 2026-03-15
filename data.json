@@ -1173,7 +1173,7 @@
       "id": "dv-expo-1772994801785",
       "num": "DEV-STAND-2026-003",
       "date": "2026-03-12",
-      "validite": "2026-06-10",
+      "validite": "2026-04-02",
       "type": "exposant",
       "clientId": "cl-expo-1772994801785",
       "clientNom": "ANA Gravure Laser",
@@ -1239,9 +1239,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
+      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T08:59:50.907Z"
+      "updatedAt": "2026-03-15T09:06:43.459Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -1813,7 +1813,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T09:06:13.774Z",
+  "_savedAt": "2026-03-15T09:06:44.969Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
