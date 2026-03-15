@@ -1272,25 +1272,25 @@
       "type": "prestation",
       "clientId": "cl-expo-1772789306607",
       "clientNom": "Zabz & Yakujo",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "11 BIS RUE DE CADETTE",
+      "clientCP": "40200",
+      "clientVille": "MIMIZAN",
       "clientEmail": "LENEB.OFFICIEL@GMAIL.COM",
       "clientTel": "0624168470",
       "clientSiret": "",
-      "objet": "Stand artiste/créateur · 🌿 Village Ext. · 🌸🍂 Haru + Aki · Minato Geek",
+      "objet": "Stand artiste/créateur · 🌿Intérieur +  Village Ext. · 🌸🍂 Haru + Aki · Minato Geek",
       "lignes": [
         {
           "nom": "🪑 Table 120 cm — Extérieur",
-          "qte": 8,
-          "pu": 10,
+          "qte": 4,
+          "pu": 0,
           "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Extérieur",
           "qte": 6,
-          "pu": 0,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         },
@@ -1304,6 +1304,34 @@
         {
           "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
           "qte": 1,
+          "pu": -42,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Emplacement stand extérieur nu (4 à 9m²) (1 j)",
+          "qte": 2,
+          "pu": 5,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Emplacement stand animation intérieur 9 à 16m²) (w-e)",
+          "qte": 2,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table pliante 120cm Intérieur (j)",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne) (2 par édition)",
+          "qte": 4,
           "pu": 0,
           "tva": 20,
           "remise": 0
@@ -1327,16 +1355,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 80,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 80,
-      "totalTTC": 80,
-      "paiementCond": "jour_evt",
-      "paiementModal": "",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nNotes exposant : [Stand 2 : zone marie] [Stand 2 : zone marie]\n⚠️ Paiement en contre-service — montant = 0 €\n⚠️ Vérifiez les tarifs avant validation.",
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "personnalise",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nNotes exposant : [Stand 2 : zone marie] [Stand 2 : zone marie]\n⚠️ Paiement en contre-service — montant = 0 €\nInstallation possible dès le vendredi à partir de 17h30 \nATTENTION pas de surveillance le soir\nOuverture public le dimanche de 11h00 à 18h00\nOuverture exposant le dimanche de 8h30 à 11h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T11:19:22.359Z"
+      "updatedAt": "2026-03-15T11:45:55.483Z"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -1864,7 +1892,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:45:17.225Z",
+  "_savedAt": "2026-03-15T11:45:57.001Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
