@@ -1234,15 +1234,36 @@
       "id": "dv-expo-1773244610006",
       "num": "DEV-STAND-2026-006",
       "date": "2026-03-13",
-      "validite": "2026-06-11",
+      "validite": "2026-04-05",
       "type": "exposant",
       "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquette",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "",
       "objet": "Stand associatif · 🏛️ Marie Beaucaire · 🌸 Édition Haru · Minato Geek",
       "lignes": [
         {
-          "nom": "🪑 Table 120 cm — Extérieur",
+          "nom": "Emplacement stand Association  (jusqu'à 4m²) (w-e)",
           "qte": 1,
-          "pu": 10,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Table pliante 120cm (j)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
           "tva": 20,
           "remise": 0
         }
@@ -1261,20 +1282,20 @@
         "essence": false
       },
       "remiseGlobale": 0,
-      "fraisGestion": 0.8,
-      "fraisGestionActif": true,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 10,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 10.8,
-      "totalTTC": 10.8,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-13T19:47:49.975Z"
+      "updatedAt": "2026-03-15T08:05:17.030Z"
     },
     {
       "id": "dv-expo-1772789306607",
@@ -1779,7 +1800,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T08:05:13.771Z",
+  "_savedAt": "2026-03-15T08:05:18.537Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
