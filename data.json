@@ -107,14 +107,14 @@
           ],
           "clientId": "cl-expo-1772789306607",
           "devisId": "dv-expo-1772789306607",
-          "prenom": "",
-          "nomContact": "",
-          "activite": "",
+          "prenom": "Christelle",
+          "nomContact": "Degras",
+          "activite": "Initiation au dessin",
           "siret": "",
           "web": "",
-          "adresse": "",
-          "cp": "",
-          "ville": "",
+          "adresse": "11 BIS RUE DE CADETTE",
+          "cp": "40200",
+          "ville": "MIMIZAN",
           "option_stand": "option1",
           "zonesExtra": [
             {
@@ -1775,7 +1775,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:33:17.214Z",
+  "_savedAt": "2026-03-15T11:34:13.122Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2038,6 +2038,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-15T11:34:11.611Z",
+      "action": "Exposant",
+      "detail": "MG — \"Zabz & Yakujo\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T11:17:28.589Z",
       "action": "Exposant",
