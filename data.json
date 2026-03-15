@@ -1589,6 +1589,95 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-15T07:26:27.264Z"
+    },
+    {
+      "id": "dv-expo-1772789306607",
+      "num": "DEV-STAND-2026-014",
+      "titre": "Proposition de stand — Zabz & Yakujo",
+      "date": "2026-03-15",
+      "validite": "2026-06-13",
+      "type": "prestation",
+      "clientId": "cl-expo-1772789306607",
+      "objet": "Stand artiste/créateur · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Initiation au dessin · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 8,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 6,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🌸 Haru]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🍂 Aki]",
+          "qte": 8,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
+          "qte": 6,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🍂 Aki]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 2 — Tonnelle 3×3 m · Extérieur — Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 30,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Valeur estimée : 0€"
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 30,
+      "totalHTServices": 0,
+      "totalHT": 30,
+      "totalTTC": 30,
+      "paiementCond": "jour_evt",
+      "paiementModal": "",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Christelle Degras\nNotes exposant : [Stand 2 : zone marie] [Stand 2 : zone marie]\n⚠️ Paiement en contre-service — montant = 0 €\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1772789306607,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-15T11:34:20.565Z"
     }
   ],
   "dbClients": [
@@ -1611,9 +1700,9 @@
       "siret": "",
       "email": "LENEB.OFFICIEL@GMAIL.COM",
       "tel": "0624168470",
-      "adresse": "",
-      "cp": "",
-      "ville": "",
+      "adresse": "11 BIS RUE DE CADETTE",
+      "cp": "40200",
+      "ville": "MIMIZAN",
       "notes": ""
     },
     {
@@ -1775,7 +1864,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T11:34:17.219Z",
+  "_savedAt": "2026-03-15T11:34:22.066Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
