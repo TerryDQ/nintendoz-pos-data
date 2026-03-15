@@ -1241,7 +1241,7 @@
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T09:06:43.459Z"
+      "updatedAt": "2026-03-15T09:07:01.956Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -1813,7 +1813,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T09:06:44.969Z",
+  "_savedAt": "2026-03-15T09:07:03.470Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
