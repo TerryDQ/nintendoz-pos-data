@@ -1379,8 +1379,8 @@
       "id": "dv-expo-1772994801785",
       "num": "DEV-STAND-2026-016",
       "date": "2026-03-15",
-      "validite": "2026-06-13",
-      "type": "prestation",
+      "validite": "2026-04-02",
+      "type": "exposant",
       "clientId": "cl-expo-1772994801785",
       "clientNom": "ANA Gravure Laser",
       "clientAdresse": "36 rue des Bergeronettes",
@@ -1394,14 +1394,14 @@
         {
           "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
           "qte": 1,
-          "pu": 15,
+          "pu": 5,
           "tva": 20,
           "remise": 0
         },
         {
           "nom": "🪑 Table 120 cm — Extérieur",
           "qte": 4,
-          "pu": 10,
+          "pu": 0,
           "tva": 20,
           "remise": 0
         },
@@ -1415,7 +1415,7 @@
         {
           "nom": "🔲 Grille d'exposition — Extérieur",
           "qte": 2,
-          "pu": 0,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         }
@@ -1438,16 +1438,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 58,
+      "totalHTLignes": 12,
       "totalHTServices": 0,
-      "totalHT": 58,
-      "totalTTC": 58,
+      "totalHT": 12,
+      "totalTTC": 12,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Sébastien RITARD\nOuverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00\nATTENTION : Aucune sécurité la nuit du samedi au dimanche en extérieur.",
-      "statut": "envoye",
+      "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T15:31:32.834Z"
+      "updatedAt": "2026-03-15T15:46:46.036Z"
     }
   ],
   "dbClients": [
@@ -1634,7 +1634,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-15T15:46:24.102Z",
+  "_savedAt": "2026-03-15T15:46:47.554Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
