@@ -874,10 +874,11 @@
     },
     {
       "wizId": "WIZ0011",
+      "statut": "BENEVOLE",
       "nom": "Thomas",
       "prenom": "Erwan",
       "ville": "Falleron",
-      "statut": "Conseil d'Administration"
+      "org": ""
     },
     {
       "wizId": "WIZ0055",
@@ -1929,7 +1930,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-16T07:25:54.284Z",
+  "_savedAt": "2026-03-16T07:25:57.592Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
