@@ -919,10 +919,11 @@
     },
     {
       "wizId": "WIZ0301",
+      "statut": "BENEVOLE",
       "nom": "Greg",
       "prenom": "",
       "ville": "",
-      "statut": "Membres actifs"
+      "org": ""
     },
     {
       "wizId": "WIZ0302",
@@ -1932,7 +1933,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-16T07:26:35.593Z",
+  "_savedAt": "2026-03-16T07:26:43.150Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
