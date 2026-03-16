@@ -889,10 +889,11 @@
     },
     {
       "wizId": "WIZ0200",
+      "statut": "BENEVOLE",
       "nom": "Pouclet",
       "prenom": "Raphaël",
       "ville": "Landevielle",
-      "statut": "Membres actifs"
+      "org": ""
     },
     {
       "wizId": "WIZ0201",
@@ -1930,7 +1931,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-16T07:25:57.592Z",
+  "_savedAt": "2026-03-16T07:26:13.212Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
