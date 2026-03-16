@@ -941,10 +941,11 @@
     },
     {
       "wizId": "WIZ0306",
+      "statut": "BENEVOLE",
       "nom": "Ibrahim",
       "prenom": "",
       "ville": "Évry-Courcouronnes",
-      "statut": "Membres actifs"
+      "org": ""
     },
     {
       "wizId": "WIZ0307",
@@ -1933,7 +1934,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-16T07:26:43.150Z",
+  "_savedAt": "2026-03-16T07:26:51.165Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
