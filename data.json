@@ -223,26 +223,26 @@
           "cp": "85710",
           "ville": "La Garnache",
           "type": "commercial",
-          "option_stand": "",
+          "option_stand": "option2",
           "zone": "exterieur-village",
           "zonesExtra": [],
           "edition": "haru",
           "surface": "",
           "email": "lesgourmandisesdebiscotte@gmail.com",
           "tel": "06.95.66.51.83",
-          "montant": 0,
+          "montant": 15,
           "paiement": "en_attente",
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
-          "notes": "",
+          "notes": "Eclairage à prévoir en cas de jour \"sombre\" .",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
-            "table120": 0,
+            "table120": 3,
             "table150": 0,
             "elec": 0,
-            "tonnelle": 0,
+            "tonnelle": 1,
             "grilles": 0,
             "paperboard": 0
           },
@@ -1874,7 +1874,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-17T19:32:05.156Z",
+  "_savedAt": "2026-03-17T19:32:10.885Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2137,6 +2137,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-17T19:32:09.377Z",
+      "action": "Exposant",
+      "detail": "MG — \"Les gourmandises de Biscottes\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-17T13:06:12.677Z",
       "action": "Exposant",
