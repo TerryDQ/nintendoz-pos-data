@@ -210,6 +210,48 @@
           "ville": "Bretignolles-sur-Mer",
           "option_stand": "option1",
           "zonesExtra": []
+        },
+        {
+          "id": 1773752772664,
+          "nom": "Les gourmandises de Biscottes",
+          "prenom": "Maëva",
+          "nomContact": "SAGEAT",
+          "activite": "Patisserie fine",
+          "siret": "91391008900022",
+          "web": "https://www.instagram.com/lesgourmandisesdebiscotte",
+          "adresse": "350 Chemin de la Basse Fouasserie",
+          "cp": "85710",
+          "ville": "La Garnache",
+          "type": "commercial",
+          "option_stand": "",
+          "zone": "exterieur-village",
+          "zonesExtra": [],
+          "edition": "haru",
+          "surface": "",
+          "email": "lesgourmandisesdebiscotte@gmail.com",
+          "tel": "06.95.66.51.83",
+          "montant": 0,
+          "paiement": "en_attente",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null,
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 0,
+            "table150": 0,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 0,
+            "paperboard": 0
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit"
         }
       ],
       "anims": [],
@@ -1832,7 +1874,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-17T13:06:05.206Z",
+  "_savedAt": "2026-03-17T13:06:14.181Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2095,6 +2137,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-17T13:06:12.677Z",
+      "action": "Exposant",
+      "detail": "MG — \"Les gourmandises de Biscottes\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-15T15:47:51.830Z",
       "action": "Exposant",
