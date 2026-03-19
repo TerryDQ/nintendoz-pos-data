@@ -254,6 +254,50 @@
           "statut": "inscrit",
           "clientId": "cl-expo-1773752772664",
           "devisId": "dv-expo-1773752772664"
+        },
+        {
+          "id": 1773929448927,
+          "nom": "Grand Finale",
+          "prenom": "Steward",
+          "nomContact": "SOUPPAYA",
+          "activite": "Atelier Doublage",
+          "siret": "",
+          "web": "",
+          "adresse": "",
+          "cp": "",
+          "ville": "Saint-Jean-de-Monts",
+          "type": "asso",
+          "option_stand": "option1",
+          "zone": "interieur-marie",
+          "zonesExtra": [],
+          "edition": "haru",
+          "surface": "",
+          "email": "steward.souppaya@grandfinale.fr",
+          "tel": "",
+          "montant": 0,
+          "paiement": "en_attente",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null,
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 1,
+            "table150": 0,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 0,
+            "paperboard": 0
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit",
+          "clientId": "cl-expo-1773929448927",
+          "devisId": "dv-expo-1773929448927"
         }
       ],
       "anims": [],
@@ -1824,6 +1868,44 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-18T13:19:03.093Z"
+    },
+    {
+      "id": "dv-expo-1773929448927",
+      "num": "DEV-STAND-2026-021",
+      "titre": "Proposition de stand — Grand Finale",
+      "date": "2026-03-19",
+      "validite": "2026-06-17",
+      "type": "prestation",
+      "clientId": "cl-expo-1773929448927",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Atelier Doublage · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Steward SOUPPAYA\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1773929448927,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-19T14:10:49.144Z"
     }
   ],
   "dbClients": [
@@ -1886,6 +1968,18 @@
       "cp": "85710",
       "ville": "La Garnache",
       "notes": "Prénom : Maëva · Responsable : SAGEAT · Activité : Patisserie fine"
+    },
+    {
+      "id": "cl-expo-1773929448927",
+      "nom": "Grand Finale",
+      "type": "autre",
+      "siret": "",
+      "email": "steward.souppaya@grandfinale.fr",
+      "tel": "",
+      "adresse": "",
+      "cp": "",
+      "ville": "Saint-Jean-de-Monts",
+      "notes": "Prénom : Steward · Responsable : SOUPPAYA · Activité : Atelier Doublage"
     }
   ],
   "dbProduits": [
@@ -2022,7 +2116,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-19T14:15:01.649Z",
+  "_savedAt": "2026-03-19T14:15:05.662Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2285,6 +2379,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-19T14:10:48.940Z",
+      "action": "Exposant",
+      "detail": "MG — \"Grand Finale\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-17T19:32:09.377Z",
       "action": "Exposant",
