@@ -1782,6 +1782,13 @@
           "pu": 0,
           "tva": 20,
           "remise": 0
+        },
+        {
+          "nom": "Remise Frais de Gestion",
+          "qte": 1,
+          "pu": -3.78,
+          "tva": 8,
+          "remise": 0
         }
       ],
       "services": {
@@ -1802,16 +1809,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 15,
+      "totalHTLignes": 11.22,
       "totalHTServices": 0,
-      "totalHT": 15,
-      "totalTTC": 15,
+      "totalHT": 11.22,
+      "totalTTC": 11.22,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-17T19:33:01.821Z"
+      "updatedAt": "2026-03-20T09:08:23.225Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2224,7 +2231,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-20T09:08:12.702Z",
+  "_savedAt": "2026-03-20T09:08:24.734Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
