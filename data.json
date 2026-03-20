@@ -1809,9 +1809,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
+      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-20T09:09:38.281Z"
+      "updatedAt": "2026-03-20T09:12:18.436Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2224,7 +2224,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-20T09:12:12.715Z",
+  "_savedAt": "2026-03-20T09:12:19.949Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
