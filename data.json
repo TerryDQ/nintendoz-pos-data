@@ -1814,73 +1814,6 @@
       "updatedAt": "2026-03-20T09:12:18.436Z"
     },
     {
-      "id": "dv-expo-1773244610006",
-      "num": "DEV-STAND-2026-020",
-      "date": "2026-03-18",
-      "validite": "2026-06-16",
-      "type": "prestation",
-      "clientId": "cl-expo-1773244610006",
-      "clientNom": "Maquette",
-      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
-      "clientCP": "85470",
-      "clientVille": "Bretignolles-sur-Mer",
-      "clientEmail": "",
-      "clientTel": "",
-      "clientSiret": "92891048800016",
-      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
-          "qte": 1,
-          "pu": 10,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
-          "qte": 4,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Remise association ",
-          "qte": 1,
-          "pu": -10,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "services": {
-        "animJours": 0,
-        "animNb": 0,
-        "hebNuits": 0,
-        "hebNb": 0,
-        "restAnim": 0,
-        "restRepas": 0,
-        "restMatin": false,
-        "restMidi": false,
-        "restSoir": false,
-        "kmNb": 0,
-        "essence": false
-      },
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 0,
-      "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain Houit\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-03-18T13:19:03.093Z"
-    },
-    {
       "id": "dv-expo-1773929448927",
       "num": "DEV-STAND-2026-021",
       "titre": "Proposition de stand — Grand Finale",
@@ -2224,7 +2157,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-20T12:09:42.528Z",
+  "_savedAt": "2026-03-20T12:10:14.412Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
