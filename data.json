@@ -1455,7 +1455,7 @@
       "num": "DEV-STAND-2026-012",
       "date": "2026-03-14",
       "validite": "2026-04-02",
-      "type": "exposant",
+      "type": "prestation",
       "clientId": "cl-expo-1771518403900",
       "clientNom": "La Fabric de Graphismea",
       "clientAdresse": "27 rue Hervé de Mareuil",
@@ -1529,7 +1529,7 @@
       "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-20T20:37:01.056Z"
+      "updatedAt": "2026-03-15T15:30:11.934Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -2157,7 +2157,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-20T20:38:34.838Z",
+  "_savedAt": "2026-03-20T20:39:01.573Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
