@@ -2075,13 +2075,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "dbTaskboard": {
-    "mg": [],
-    "wf": [],
-    "gare": [],
-    "autre": []
-  },
-  "_savedAt": "2026-03-21T14:38:59.560Z",
+  "_savedAt": "2026-03-21T14:39:45.445Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
