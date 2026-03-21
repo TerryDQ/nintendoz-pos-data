@@ -1474,16 +1474,23 @@
           "remise": 0
         },
         {
-          "nom": "📍 Location stand  nu  (3 m²) — 🍂 Édition Aki — Minato Geek",
-          "qte": 1,
-          "pu": 5,
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 2,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         },
         {
-          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
-          "qte": 2,
-          "pu": 2,
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand  nu  (3 m²) — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 5,
           "tva": 20,
           "remise": 0
         },
@@ -1529,7 +1536,7 @@
       "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-15T15:30:11.934Z"
+      "updatedAt": "2026-03-20T20:51:22.778Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -1747,6 +1754,73 @@
       "updatedAt": "2026-03-15T15:46:54.441Z"
     },
     {
+      "id": "dv-expo-1773752772664",
+      "num": "DEV-STAND-2026-019",
+      "date": "2026-03-17",
+      "validite": "2026-04-02",
+      "type": "exposant",
+      "clientId": "cl-expo-1773752772664",
+      "clientNom": "Les gourmandises de Biscottes",
+      "clientAdresse": "350 Chemin de la Basse Fouasserie",
+      "clientCP": "85710",
+      "clientVille": "La Garnache",
+      "clientEmail": "lesgourmandisesdebiscotte@gmail.com",
+      "clientTel": "06.95.66.51.83",
+      "clientSiret": "91391008900022",
+      "objet": "1 tonnelle(s) · Stand commercial · 🌿 Ext. Village · 🌸 Édition Haru · Patisserie fine · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Tonnelle 3×3 m · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 3,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⛺ Tonnelle 3×3 m — Extérieur ✓ inclus dans le forfait",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 15,
+      "totalHTServices": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "envoye",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-20T09:12:18.436Z"
+    },
+    {
       "id": "dv-expo-1773929448927",
       "num": "DEV-STAND-2026-021",
       "titre": "Proposition de stand — Grand Finale",
@@ -1787,54 +1861,37 @@
     {
       "id": "dv-expo-1773752772664",
       "num": "DEV-STAND-2026-022",
+      "titre": "Proposition de stand — Les gourmandises de Biscottes",
       "date": "2026-03-20",
       "validite": "2026-06-18",
-      "type": "exposant",
+      "type": "prestation",
       "clientId": "cl-expo-1773752772664",
-      "clientNom": "Les gourmandises de Biscottes",
-      "clientAdresse": "350 Chemin de la Basse Fouasserie",
-      "clientCP": "85710",
-      "clientVille": "La Garnache",
-      "clientEmail": "lesgourmandisesdebiscotte@gmail.com",
-      "clientTel": "06.95.66.51.83",
-      "clientSiret": "91391008900022",
       "objet": "1 tonnelle(s) · Stand commercial · 🌿 Ext. Village · 🌸 Édition Haru · Patisserie fine · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location emplacement stand — Tonnelle 3×3 m · Extérieur — Minato Geek",
           "qte": 1,
           "pu": 15,
-          "tva": 20,
+          "tva": 0,
           "remise": 0
         },
         {
           "nom": "🪑 Table 120 cm — Extérieur",
           "qte": 3,
           "pu": 10,
-          "tva": 20,
+          "tva": 0,
           "remise": 0
         },
         {
           "nom": "⛺ Tonnelle 3×3 m — Extérieur ✓ inclus dans le forfait",
           "qte": 1,
           "pu": 0,
-          "tva": 20,
-          "remise": 0
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
         }
       ],
-      "services": {
-        "animJours": 0,
-        "animNb": 0,
-        "hebNuits": 0,
-        "hebNb": 0,
-        "restAnim": 0,
-        "restRepas": 0,
-        "restMatin": false,
-        "restMidi": false,
-        "restSoir": false,
-        "kmNb": 0,
-        "essence": false
-      },
+      "services": {},
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1846,10 +1903,12 @@
       "totalTTC": 45,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .",
-      "statut": "envoye",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-03-21T09:59:48.944Z"
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1773752772664,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-20T08:55:31.395Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2111,7 +2170,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-21T10:03:40.811Z",
+  "_savedAt": "2026-03-21T10:03:59.597Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
