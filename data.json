@@ -1809,11 +1809,10 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
       "_expoId": 1771518403900,
       "_expoCtx": "mg",
       "createdBy": "auto",
-      "updatedAt": "2026-03-21T10:06:01.164Z"
+      "updatedAt": "2026-03-21T10:06:12.337Z"
     },
     {
       "id": "dv-expo-1773752772664",
@@ -2082,7 +2081,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-21T10:06:02.664Z",
+  "_savedAt": "2026-03-21T10:06:13.842Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
