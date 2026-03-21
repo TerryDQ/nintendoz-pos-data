@@ -1474,23 +1474,16 @@
           "remise": 0
         },
         {
-          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
-          "qte": 2,
-          "pu": 2,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Badge exposant (par personne)",
-          "qte": 1,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
           "nom": "📍 Location stand  nu  (3 m²) — 🍂 Édition Aki — Minato Geek",
           "qte": 1,
           "pu": 5,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 2,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         },
@@ -1536,7 +1529,7 @@
       "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-20T20:51:22.778Z"
+      "updatedAt": "2026-03-15T15:30:11.934Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -2164,13 +2157,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "dbTaskboard": {
-    "mg": [],
-    "wf": [],
-    "gare": [],
-    "autre": []
-  },
-  "_savedAt": "2026-03-21T08:06:59.613Z",
+  "_savedAt": "2026-03-21T08:07:18.601Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
