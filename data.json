@@ -1452,94 +1452,6 @@
   "dbDevis": [
     {
       "id": "dv-expo-1771518403900",
-      "num": "DEV-STAND-2026-012",
-      "date": "2026-03-14",
-      "validite": "2026-04-02",
-      "type": "prestation",
-      "clientId": "cl-expo-1771518403900",
-      "clientNom": "La Fabric de Graphismea",
-      "clientAdresse": "27 rue Hervé de Mareuil",
-      "clientCP": "85320",
-      "clientVille": "Mareuil-sur-Lay-Dissais",
-      "clientEmail": "graphismea06@gmail.com",
-      "clientTel": "0683849388",
-      "clientSiret": "879 122 158",
-      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location stand nu (3 m²) — 🌸 Édition Haru — Minato Geek",
-          "qte": 1,
-          "pu": 5,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
-          "qte": 2,
-          "pu": 2,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Badge exposant (par personne)",
-          "qte": 2,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "📍 Location stand  nu  (3 m²) — 🍂 Édition Aki — Minato Geek",
-          "qte": 1,
-          "pu": 5,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
-          "qte": 2,
-          "pu": 2,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Badge exposant (par personne)",
-          "qte": 1,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "services": {
-        "animJours": 0,
-        "animNb": 0,
-        "hebNuits": 0,
-        "hebNb": 0,
-        "restAnim": 0,
-        "restRepas": 0,
-        "restMatin": false,
-        "restMidi": false,
-        "restSoir": false,
-        "kmNb": 0,
-        "essence": false
-      },
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 18,
-      "totalHTServices": 0,
-      "totalHT": 18,
-      "totalTTC": 18,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "Ouverture du stand possible dès le samedi 15h00\nOuverture de la salle aux exposants le dimanche à 8h00 , ouverture public de 11h00 à 18h00",
-      "statut": "brouillon",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-03-21T10:05:35.139Z"
-    },
-    {
-      "id": "dv-expo-1771518403900",
       "num": "DEV-STAND-2026-013",
       "titre": "Proposition de stand — La Fabric de Graphismea",
       "date": "2026-03-15",
@@ -2118,7 +2030,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-21T10:05:40.811Z",
+  "_savedAt": "2026-03-21T10:05:47.516Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
