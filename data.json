@@ -718,13 +718,7 @@
   "agrementsNotes": {},
   "dbCR": {
     "pin": "2025",
-    "permissions": [
-      "evt-minato",
-      "inventaire",
-      "evt-nouveau",
-      "juridique",
-      "juridique-litiges"
-    ],
+    "permissions": [],
     "evtSections": {},
     "membres": [
       {
@@ -751,7 +745,7 @@
           "2lives",
           "litige"
         ],
-        "created": "2026-03-03T10:13:51.278Z"
+        "created": "2026-03-21T09:40:31.065Z"
       }
     ],
     "litiges": [
@@ -785,18 +779,13 @@
             "date": "2025-05-01",
             "auteur": "Système",
             "texte": "Litige créé — Mobilier Cougar mis à la benne"
-          },
-          {
-            "date": "03/03/2026",
-            "auteur": "Bureau",
-            "texte": "Litige mis à jour"
           }
         ],
-        "confidentiel": false,
         "pahekoUrl": "",
         "doc2Url": "",
         "doc3Url": "",
-        "noteConf": ""
+        "noteConf": "Note Bureau : Litige créé suite à la mise à la benne du mobilier Cougar lors de l'événement 2-Lives en mai 2025. Le DJ Julien Balanan Sonorisation n'ayant pas payé sa prestation pour le DJ Summer Tour — La Barbâtre 2024, Nintend'Oz retient le solde dû à 2-Lives. Documenter les échanges et relances.",
+        "confidentiel": false
       }
     ]
   },
@@ -807,636 +796,16 @@
         "nom": "Comité Régional",
         "detail": "Pays-de-la-Loire-du-Jeu-Vidéo",
         "type": "cr",
-        "pin": "2026",
+        "pin": "2025",
         "couleur": "#3b82f6",
-        "pages": {
-          "pg-minato": {
-            "visible": true,
-            "tabs": [
-              "mgt-exposants",
-              "mgt-benevoles",
-              "mgt-animations",
-              "mgt-espaces",
-              "mgt-materiel",
-              "mgt-planning",
-              "mgt-budget",
-              "mgt-postes",
-              "mgt-frais"
-            ]
-          },
-          "pg-inventaire": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-projets": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-wizard": {
-            "visible": false,
-            "tabs": []
-          },
-          "pg-ext": {
-            "visible": true,
-            "tabs": [
-              "ext-t-festivals",
-              "ext-t-frais",
-              "ext-t-materiel",
-              "ext-t-benevoles",
-              "ext-t-checklist",
-              "ext-t-retours",
-              "ext-t-plans"
-            ]
-          },
-          "pg-subventions": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-communication": {
-            "visible": false,
-            "tabs": []
-          },
-          "pg-securite": {
-            "visible": false,
-            "tabs": []
-          },
-          "pg-transport": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-assurance": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-dates": {
-            "visible": true,
-            "tabs": []
-          }
-        }
-      },
-      {
-        "id": "acl-1772554209291",
-        "nom": "Nintend'Oz Occitanie",
-        "pin": "1980",
-        "type": "partenaire",
-        "couleur": "#fb923c",
-        "detail": "Antenne Nintend'Oz-Event en occitanie",
-        "typeLabel": "Partenaire",
-        "pages": {
-          "pg-dashboard": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-projets": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-ext": {
-            "visible": true,
-            "tabs": [
-              "ext-t-festivals",
-              "ext-t-frais",
-              "ext-t-materiel",
-              "ext-t-benevoles",
-              "ext-t-checklist",
-              "ext-t-retours",
-              "ext-t-plans"
-            ]
-          },
-          "pg-subventions": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-communication": {
-            "visible": true,
-            "tabs": [
-              "comm-t-listes",
-              "comm-t-campagnes",
-              "comm-t-modeles"
-            ]
-          },
-          "pg-securite": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-dates": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-bilan": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-antennes": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-inventaire": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-transport": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-devis": {
-            "visible": true,
-            "tabs": [
-              "dv-t-clients",
-              "dv-t-catalogue",
-              "dv-t-config",
-              "dv-t-facturation",
-              "dv-t-devis"
-            ]
-          },
-          "pg-fournisseurs": {
-            "visible": true,
-            "tabs": []
-          },
-          "pg-assurance": {
-            "visible": true,
-            "tabs": []
-          }
-        }
+        "pages": {}
       }
     ]
   },
   "dbFichesIntervention": [],
   "dbQuizResults": [],
-  "dbMembreWiz": [
-    {
-      "wizId": "WIZ0010",
-      "nom": "Chevrier",
-      "prenom": "Nathan",
-      "ville": "Saint Jean de Monts",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0011",
-      "statut": "Membres actifs",
-      "nom": "Thomas",
-      "prenom": "Erwan",
-      "ville": "Falleron",
-      "org": ""
-    },
-    {
-      "wizId": "WIZ0055",
-      "statut": "Membres actifs",
-      "nom": "Vilvandré",
-      "prenom": "Noé",
-      "ville": "Coëx",
-      "org": ""
-    },
-    {
-      "wizId": "WIZ0200",
-      "statut": "Membres actifs",
-      "nom": "Pouclet",
-      "prenom": "Raphaël",
-      "ville": "Landevielle",
-      "org": ""
-    },
-    {
-      "wizId": "WIZ0201",
-      "nom": "Pouclet",
-      "prenom": "Nathan",
-      "ville": "Landevielle",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0202",
-      "nom": "Pouclet",
-      "prenom": "Valentin",
-      "ville": "Landevielle",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0204",
-      "nom": "Chevrier",
-      "prenom": "Maxime",
-      "ville": "Saint-Jean-de-Monts",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0301",
-      "statut": "BENEVOLE",
-      "nom": "Greg",
-      "prenom": "",
-      "ville": "",
-      "org": ""
-    },
-    {
-      "wizId": "WIZ0302",
-      "nom": "Baptiste",
-      "prenom": "G.HB",
-      "ville": "",
-      "statut": "BENEVOLE"
-    },
-    {
-      "wizId": "WIZ0305",
-      "nom": "Godonou",
-      "prenom": "Florent",
-      "ville": "",
-      "statut": "BENEVOLE"
-    },
-    {
-      "wizId": "WIZ0306",
-      "statut": "BENEVOLE",
-      "nom": "Ibrahim",
-      "prenom": "",
-      "ville": "Évry-Courcouronnes",
-      "org": ""
-    },
-    {
-      "wizId": "WIZ0307",
-      "nom": "Philippe",
-      "prenom": "Binet",
-      "ville": "",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0308",
-      "nom": "Richard",
-      "prenom": "Léa",
-      "ville": "Blois",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ0309",
-      "nom": "BARY",
-      "prenom": "MARION",
-      "ville": "",
-      "statut": "Conseil d'Administration"
-    },
-    {
-      "wizId": "WIZ0310",
-      "nom": "PROUVOST",
-      "prenom": "Marie",
-      "ville": "",
-      "statut": "Conseil d'Administration"
-    },
-    {
-      "wizId": "WIZ0311",
-      "nom": "AYMARD",
-      "prenom": "Alix",
-      "ville": "Paris 14ème",
-      "statut": "Conseil d'Administration"
-    },
-    {
-      "wizId": "WIZ0601",
-      "nom": "Chastagnier",
-      "prenom": "Fabien",
-      "ville": "Le Fenouiller",
-      "statut": "Administrateurs"
-    },
-    {
-      "wizId": "WIZ0602",
-      "nom": "Maillard",
-      "prenom": "Rachelle",
-      "ville": "Angers",
-      "statut": "Conseil d'Administration",
-      "org": "Yumi Vision EI"
-    },
-    {
-      "wizId": "WIZ0603",
-      "nom": "Jenny",
-      "prenom": "",
-      "ville": "La Chaise Le Vicomte",
-      "statut": "Conseil d'Administration"
-    },
-    {
-      "wizId": "WIZ0604",
-      "nom": "Cano",
-      "prenom": "Charline",
-      "ville": "Lyon",
-      "statut": "Conseil d'Administration"
-    },
-    {
-      "wizId": "WIZ0606",
-      "nom": "Dove",
-      "prenom": "",
-      "ville": "",
-      "statut": "Administrateurs"
-    },
-    {
-      "wizId": "WIZ0701",
-      "nom": "Crédit Agricole",
-      "prenom": "",
-      "ville": "",
-      "statut": "Fournisseurs"
-    },
-    {
-      "wizId": "WIZ0702",
-      "nom": "Gagery",
-      "prenom": "Jérome",
-      "ville": "",
-      "statut": "Membres actifs",
-      "org": "Crédit Agricole"
-    },
-    {
-      "wizId": "WIZ0703",
-      "nom": "Ludothèque La Tranche sur Mer",
-      "prenom": "",
-      "ville": "La Tranche sur Mer",
-      "statut": "CLIENTS"
-    },
-    {
-      "wizId": "WIZ0704",
-      "nom": "Beck",
-      "prenom": "Jérémy",
-      "ville": "",
-      "statut": "PARTENAIRES",
-      "org": "Japonais Facile"
-    },
-    {
-      "wizId": "WIZ0901",
-      "nom": "Janick",
-      "prenom": "",
-      "ville": "",
-      "statut": "Conseil d'Administration",
-      "org": "Président CR PDL Jeu Vidéo"
-    },
-    {
-      "wizId": "WIZ1002",
-      "nom": "Thibout",
-      "prenom": "Dorian",
-      "ville": "",
-      "statut": "BENEVOLE"
-    },
-    {
-      "wizId": "WIZ1005",
-      "nom": "Mathéo",
-      "prenom": "",
-      "ville": "",
-      "statut": "BENEVOLE"
-    },
-    {
-      "wizId": "WIZ1199",
-      "nom": "BROCHARD",
-      "prenom": "Camille",
-      "ville": "Le Fenouiller",
-      "statut": "Membres actifs"
-    },
-    {
-      "wizId": "WIZ1201",
-      "nom": "JapaNantes",
-      "prenom": "",
-      "ville": "Saint-Herblain",
-      "statut": "CLIENTS"
-    },
-    {
-      "wizId": "WIZ1202",
-      "nom": "Nagomi",
-      "prenom": "",
-      "ville": "SAINT-MARS-LA-REORTHE",
-      "statut": "PARTENAIRES"
-    }
-  ],
-  "dbFormationParcours": [
-    {
-      "id": "parcours-benevole",
-      "titre": "Formation Bénévole",
-      "icon": "🙋",
-      "color": "#34d399",
-      "profils": [
-        "BENEVOLE",
-        "Membres actifs"
-      ],
-      "desc": "Parcours de formation obligatoire pour tous les bénévoles Nintend'Oz-Event.",
-      "modules": [
-        {
-          "id": "m1",
-          "type": "lecture",
-          "ordre": 1,
-          "titre": "Tenue vestimentaire & hygiène",
-          "contenu": "<h3>1. Tenue vestimentaire</h3>\n<p>En tant que représentant de Nintend'Oz-Event, votre apparence est importante.</p>\n<ul>\n<li><strong>T-shirt de l'association</strong> : Le port du T-shirt Nintend'Oz-Event est <strong>OBLIGATOIRE</strong> pour tous les bénévoles.</li>\n<li><strong>Badge ou tour de cou</strong> : En plus ou à la place du T-shirt, vous devez porter un badge ou un tour de cou identifiant de l'association.</li>\n<li><strong>Exception SNU</strong> : Les participants au Service National Universel peuvent porter leur T-shirt SNU officiel avec tour de cou ou badge.</li>\n<li><strong>Bas</strong> : Pas de jogging autorisé. Privilégiez un pantalon ou un jean propre.</li>\n<li><strong>Été</strong> : Pour les événements Summer Gaming Tour, le port d'un short est autorisé.</li>\n</ul>\n<h3>2. Hygiène personnelle</h3>\n<ul>\n<li>Prenez une douche avant votre shift et utilisez un déodorant.</li>\n<li>Lavez-vous régulièrement les mains, en particulier avant de manipuler de la nourriture ou du matériel partagé.</li>\n</ul>\n<h3>3. Posture pendant le service</h3>\n<p><strong>Rester debout</strong> pendant vos heures de service est obligatoire (hors pauses officielles). Après trois rappels du responsable, des sanctions pourront être appliquées.</p>"
-        },
-        {
-          "id": "m2",
-          "type": "quiz",
-          "ordre": 2,
-          "titre": "Quiz — Tenue & comportement",
-          "questions": [
-            {
-              "id": "q1",
-              "q": "Le port du T-shirt Nintend'Oz-Event est :",
-              "opts": [
-                "Recommandé mais optionnel",
-                "Obligatoire pour tous les bénévoles",
-                "Obligatoire uniquement le premier jour",
-                "Réservé aux responsables"
-              ],
-              "r": 1,
-              "expl": "Le T-shirt est OBLIGATOIRE. Les SNU peuvent porter leur T-shirt SNU officiel avec badge."
-            },
-            {
-              "id": "q2",
-              "q": "En dehors des pauses officielles, quelle posture est attendue ?",
-              "opts": [
-                "Assis si fatigué",
-                "Debout, vigilant et disponible",
-                "Au choix selon les tâches",
-                "Assis à la billetterie uniquement"
-              ],
-              "r": 1,
-              "expl": "Rester debout est obligatoire pendant toutes les heures de service, sauf pendant les pauses officielles."
-            },
-            {
-              "id": "q3",
-              "q": "Combien de rappels avant sanction pour un bénévole assis sans autorisation ?",
-              "opts": [
-                "1",
-                "2",
-                "3",
-                "5"
-              ],
-              "r": 2,
-              "expl": "3 rappels : 1er verbal, 2ème formel au dossier, 3ème dernier avertissement, puis sanction."
-            },
-            {
-              "id": "q4",
-              "q": "Les joggings sont-ils autorisés ?",
-              "opts": [
-                "Oui, si propres",
-                "Oui, uniquement le dimanche",
-                "Non, ils sont interdits",
-                "Oui, en événement outdoor"
-              ],
-              "r": 2,
-              "expl": "Les joggings ne sont pas autorisés. Privilégiez un pantalon ou un jean propre."
-            },
-            {
-              "id": "q5",
-              "q": "Qui peut autoriser un bénévole à s'asseoir temporairement ?",
-              "opts": [
-                "N'importe quel autre bénévole",
-                "Uniquement le responsable de secteur",
-                "Le bénévole lui-même si fatigué",
-                "Tout membre du bureau"
-              ],
-              "r": 1,
-              "expl": "Seul le responsable peut autoriser un bénévole à s'asseoir temporairement."
-            }
-          ],
-          "passScore": 3,
-          "maxTries": 3
-        },
-        {
-          "id": "m3",
-          "type": "lecture",
-          "ordre": 3,
-          "titre": "Vente de billets & sécurité",
-          "contenu": "<h3>1. Vente de billets</h3>\n<p>En tant que bénévole à l'entrée, vous gérez la billetterie :</p>\n<ul>\n<li>Utilisez l'application <strong>SQUARE</strong> pour les paiements par carte.</li>\n<li>En fin de shift, effectuez un <strong>compte de caisse avec un responsable</strong>.</li>\n<li>En cas de doute sur un billet, <strong>appelez un responsable</strong> — ne gérez jamais seul une fraude.</li>\n</ul>\n<h3>2. Files d'attente</h3>\n<p>Organisez <strong>deux files distinctes</strong> : une pour l'achat sur place, une pour les billets achetés en ligne.</p>\n<h3>3. Plan Vigipirate</h3>\n<p>Conformément au plan Vigipirate en vigueur, vous devez effectuer un <strong>contrôle visuel des sacs</strong> de tous les visiteurs. Soyez courtois mais ferme.</p>\n<h3>4. Temps de pause</h3>\n<p>Des pauses de <strong>30 minutes</strong> sont prévues le matin, à midi et l'après-midi. Assurez-vous que votre poste est couvert avant de partir.</p>"
-        },
-        {
-          "id": "m4",
-          "type": "quiz",
-          "ordre": 4,
-          "titre": "Quiz — Billetterie & sécurité",
-          "questions": [
-            {
-              "id": "q1",
-              "q": "Quelle application est utilisée pour les paiements par carte ?",
-              "opts": [
-                "PayPal",
-                "SumUp",
-                "Square",
-                "Lydia"
-              ],
-              "r": 2,
-              "expl": "L'application SQUARE est installée sur téléphone. Les identifiants vous sont communiqués avant l'événement."
-            },
-            {
-              "id": "q2",
-              "q": "Que faire en fin de shift à la billetterie ?",
-              "opts": [
-                "Laisser la caisse telle quelle",
-                "Effectuer un compte de caisse avec un responsable",
-                "Remettre l'argent au visiteur suivant",
-                "Déposer dans le coffre sans vérification"
-              ],
-              "r": 1,
-              "expl": "Un compte de caisse avec un responsable est obligatoire à chaque fin de shift."
-            },
-            {
-              "id": "q3",
-              "q": "Combien de files d'attente à l'entrée ?",
-              "opts": [
-                "Une seule",
-                "Deux (achat sur place + billets en ligne)",
-                "Trois minimum",
-                "Selon l'affluence"
-              ],
-              "r": 1,
-              "expl": "Deux files : une pour l'achat sur place, une pour les billets achetés en ligne."
-            },
-            {
-              "id": "q4",
-              "q": "En cas de suspicion de faux billet, vous devez :",
-              "opts": [
-                "Accepter pour éviter le conflit",
-                "Déchirer le billet",
-                "Appeler un responsable",
-                "Refuser sans explication"
-              ],
-              "r": 2,
-              "expl": "Appelez immédiatement un responsable. Ne gérez jamais seul une situation de fraude."
-            },
-            {
-              "id": "q5",
-              "q": "Quelle est la durée standard d'une pause bénévole ?",
-              "opts": [
-                "15 minutes",
-                "30 minutes",
-                "45 minutes",
-                "1 heure"
-              ],
-              "r": 1,
-              "expl": "30 minutes le matin, à midi et l'après-midi. La coupure midi en événement externe peut monter à 45 min."
-            }
-          ],
-          "passScore": 3,
-          "maxTries": 3
-        },
-        {
-          "id": "m5",
-          "type": "lecture",
-          "ordre": 5,
-          "titre": "Code de conduite & situations difficiles",
-          "contenu": "<h3>1. Règles de conduite</h3>\n<p>Vous représentez Nintend'Oz-Event. Maintenez un comportement exemplaire en toutes circonstances.</p>\n<h3>2. Gestion des conflits</h3>\n<ul>\n<li><strong>Restez calme</strong> : Évitez toute escalade verbale ou physique.</li>\n<li><strong>Écoutez</strong> : Laissez le visiteur exprimer son problème sans l'interrompre.</li>\n<li><strong>Escalade</strong> : Si vous ne pouvez pas résoudre, faites appel à un responsable.</li>\n<li><strong>Sécurité</strong> : En cas de menace physique, contactez immédiatement la sécurité.</li>\n</ul>\n<h3>3. Tolérance zéro</h3>\n<p>Nintend'Oz-Event a une <strong>politique de tolérance zéro</strong> envers le harcèlement (verbal, physique ou sexuel). Tout incident doit être signalé immédiatement à un responsable.</p>\n<h3>4. Engagement</h3>\n<ul>\n<li>Confirmez votre présence dans les délais impartis.</li>\n<li>Prévenez au moins <strong>7 jours avant</strong> en cas d'empêchement.</li>\n<li>Pénalité de <strong>50€</strong> pour absence non justifiée (bénévoles majeurs ayant signé l'engagement).</li>\n</ul>\n<h3>5. Smartphone</h3>\n<p>L'utilisation du smartphone personnel est <strong>strictement interdite</strong> pendant les heures de mission, sauf appel d'urgence ou prise de photos avec autorisation.</p>"
-        },
-        {
-          "id": "m6",
-          "type": "quiz",
-          "ordre": 6,
-          "titre": "Quiz — Code de conduite",
-          "questions": [
-            {
-              "id": "q1",
-              "q": "Nintend'Oz-Event a une politique de tolérance zéro envers :",
-              "opts": [
-                "Les retards uniquement",
-                "Le harcèlement et comportements inappropriés",
-                "L'utilisation de smartphones",
-                "Les cosplays"
-              ],
-              "r": 1,
-              "expl": "Tolérance zéro pour le harcèlement verbal, physique ou sexuel. Tout incident doit être rapporté."
-            },
-            {
-              "id": "q2",
-              "q": "Délai minimum pour prévenir d'une absence à un événement :",
-              "opts": [
-                "24h",
-                "3 jours",
-                "7 jours",
-                "La veille"
-              ],
-              "r": 2,
-              "expl": "Au moins 7 jours avant l'événement pour permettre de trouver un remplaçant."
-            },
-            {
-              "id": "q3",
-              "q": "Pénalité pour absence non justifiée d'un bénévole majeur :",
-              "opts": [
-                "20€",
-                "50€",
-                "100€",
-                "Aucune"
-              ],
-              "r": 1,
-              "expl": "50€ de pénalité. Un justificatif valable (certificat médical, etc.) permet d'éviter la pénalité."
-            },
-            {
-              "id": "q4",
-              "q": "En cas de conflit avec un visiteur, que faire en premier ?",
-              "opts": [
-                "Appeler la sécurité",
-                "Rester calme et écouter le visiteur",
-                "Demander au visiteur de partir",
-                "Ignorer et continuer"
-              ],
-              "r": 1,
-              "expl": "Restez calme, écoutez, proposez des solutions. Si échec, faites appel à un responsable."
-            },
-            {
-              "id": "q5",
-              "q": "Le smartphone personnel est autorisé pendant le service :",
-              "opts": [
-                "Oui, librement",
-                "Oui, discrètement",
-                "Non, sauf urgence ou autorisation",
-                "Oui, pendant les rotations"
-              ],
-              "r": 2,
-              "expl": "Strictement interdit sauf appels d'urgence au responsable ou photos avec autorisation préalable."
-            }
-          ],
-          "passScore": 3,
-          "maxTries": 3
-        }
-      ]
-    }
-  ],
+  "dbMembreWiz": [],
+  "dbFormationParcours": [],
   "dbFormationProgress": {},
   "dbUsers": [
     {
@@ -1913,47 +1282,69 @@
     {
       "id": "dv-expo-1773244610006",
       "num": "DEV-STAND-2026-023",
-      "titre": "Proposition de stand — Maquettes et Figurines 85",
       "date": "2026-03-20",
       "validite": "2026-06-18",
       "type": "prestation",
       "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquette",
+      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
+      "clientCP": "85470",
+      "clientVille": "Bretignolles-sur-Mer",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "92891048800016",
       "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
           "qte": 1,
           "pu": 10,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
           "qte": 4,
           "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise association",
+          "qte": 1,
+          "pu": -10,
+          "tva": 20,
+          "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 10,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 10,
-      "totalTTC": 10,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain Houit\n⚠️ Vérifiez les tarifs avant validation.",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain Houit\n⚠️ Vérifiez les tarifs avant validation.\n\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "brouillon",
-      "_expoId": 1773244610006,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-20T08:55:33.841Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-21T09:59:22.809Z"
     }
   ],
   "dbClients": [
@@ -2170,7 +1561,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-21T10:01:59.601Z",
+  "_savedAt": "2026-03-21T10:02:03.724Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2432,110 +1823,7 @@
   "dbBilans": [],
   "dbInventaire": [],
   "dbSorties": [],
-  "dbAudit": [
-    {
-      "ts": "2026-03-19T14:10:48.940Z",
-      "action": "Exposant",
-      "detail": "MG — \"Grand Finale\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-17T19:32:09.377Z",
-      "action": "Exposant",
-      "detail": "MG — \"Les gourmandises de Biscottes\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-17T13:06:12.677Z",
-      "action": "Exposant",
-      "detail": "MG — \"Les gourmandises de Biscottes\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T15:47:51.830Z",
-      "action": "Exposant",
-      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T11:54:52.284Z",
-      "action": "Exposant",
-      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T11:47:25.821Z",
-      "action": "Exposant",
-      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T11:34:11.611Z",
-      "action": "Exposant",
-      "detail": "MG — \"Zabz & Yakujo\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T11:17:28.589Z",
-      "action": "Exposant",
-      "detail": "MG — \"Zabz & Yakujo\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T09:08:15.743Z",
-      "action": "Exposant",
-      "detail": "MG — \"ANA Gravure Laser\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T09:03:51.473Z",
-      "action": "Exposant",
-      "detail": "MG — \"ANA Gravure Laser\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-15T08:02:52.692Z",
-      "action": "Exposant",
-      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-14T16:49:43.025Z",
-      "action": "Exposant",
-      "detail": "MG — \"La Fabric de Graphismea\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-14T14:24:36.380Z",
-      "action": "Exposant",
-      "detail": "MG — \"La Fabric de Graphismea\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-14T08:44:50.771Z",
-      "action": "Fréquentation",
-      "detail": "Données visiteurs mises à jour",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-13T19:52:22.922Z",
-      "action": "Exposant",
-      "detail": "MG — \"La Fabric de Graphismea\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-13T19:51:22.006Z",
-      "action": "Exposant",
-      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
-      "who": "Bureau"
-    },
-    {
-      "ts": "2026-03-08T18:28:01.345Z",
-      "action": "Fusion",
-      "detail": "Exposant \"Zabz & Yakujo\" fusionné",
-      "who": "Bureau"
-    }
-  ],
+  "dbAudit": [],
   "dbFrequentation": {
     "mg": {
       "ps": 0,
@@ -2545,8 +1833,8 @@
       "jauge": 500
     },
     "wf": {
-      "s": 110,
-      "d": 54,
+      "s": 0,
+      "d": 0,
       "jauge": 300
     },
     "gh": {
