@@ -1789,7 +1789,7 @@
       "num": "DEV-STAND-2026-022",
       "date": "2026-03-20",
       "validite": "2026-06-18",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1773752772664",
       "clientNom": "Les gourmandises de Biscottes",
       "clientAdresse": "350 Chemin de la Basse Fouasserie",
@@ -1849,7 +1849,7 @@
       "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .",
       "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-21T09:59:37.741Z"
+      "updatedAt": "2026-03-21T09:59:48.944Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2111,7 +2111,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-21T09:59:39.245Z",
+  "_savedAt": "2026-03-21T09:59:50.447Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
