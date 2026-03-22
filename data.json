@@ -949,8 +949,7 @@
               "dv-t-clients",
               "dv-t-catalogue",
               "dv-t-config",
-              "dv-t-facturation",
-              "dv-t-devis"
+              "dv-t-facturation"
             ]
           },
           "pg-fournisseurs": {
@@ -1802,6 +1801,64 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-21T10:06:01.164Z"
+    },
+    {
+      "id": "dv-expo-1771518403900",
+      "num": "DEV-STAND-2026-026",
+      "titre": "Proposition de stand — La Fabric de Graphismea",
+      "date": "2026-03-22",
+      "validite": "2026-06-20",
+      "type": "prestation",
+      "clientId": "cl-expo-1771518403900",
+      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 14,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 14.01,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 28.01,
+      "totalHTServices": 0,
+      "totalHT": 28.01,
+      "totalTTC": 28.01,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1771518403900,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-22T14:25:25.802Z"
     }
   ],
   "dbClients": [
@@ -2012,7 +2069,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T14:25:21.595Z",
+  "_savedAt": "2026-03-22T14:25:28.668Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
