@@ -363,6 +363,26 @@
           "duree": "60",
           "intervenant": "ZabzYakujo",
           "public": "tout"
+        },
+        {
+          "id": 1774193298014,
+          "nom": "Initiation dessin Manga",
+          "cat": "atelier",
+          "espace": "marie",
+          "debut": "16:00",
+          "duree": "60",
+          "intervenant": "Initiation dessin Manga",
+          "public": "tout"
+        },
+        {
+          "id": 1774193339772,
+          "nom": "Initiation dessin Manga",
+          "cat": "atelier",
+          "espace": "marie",
+          "debut": "17:00",
+          "duree": "60",
+          "intervenant": "ZabzYakujo",
+          "public": "tout"
         }
       ],
       "emplacements": [],
@@ -2255,7 +2275,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:28:09.165Z",
+  "_savedAt": "2026-03-22T15:29:09.168Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
