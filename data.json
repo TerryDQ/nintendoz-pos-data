@@ -1805,43 +1805,61 @@
     {
       "id": "dv-expo-1771518403900",
       "num": "DEV-STAND-2026-026",
-      "titre": "Proposition de stand — La Fabric de Graphismea",
       "date": "2026-03-22",
       "validite": "2026-06-20",
       "type": "prestation",
       "clientId": "cl-expo-1771518403900",
+      "clientNom": "La Fabric de Graphismea",
+      "clientAdresse": "27 rue Hervé de Mareuil",
+      "clientCP": "85320",
+      "clientVille": "Mareuil-sur-Lay-Dissais",
+      "clientEmail": "graphismea06@gmail.com",
+      "clientTel": "0683849388",
+      "clientSiret": "879 122 158",
       "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
           "qte": 1,
           "pu": 14,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
           "qte": 1,
           "pu": 14.01,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
           "qte": 2,
           "pu": 0,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
           "qte": 2,
           "pu": 0,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1855,10 +1873,8 @@
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1771518403900,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-22T14:25:25.802Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-22T14:28:09.826Z"
     }
   ],
   "dbClients": [
@@ -2069,7 +2085,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T14:27:31.670Z",
+  "_savedAt": "2026-03-22T14:28:11.329Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
