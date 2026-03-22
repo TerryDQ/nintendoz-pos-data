@@ -1821,28 +1821,35 @@
         {
           "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
           "qte": 1,
-          "pu": 14,
+          "pu": 5,
           "tva": 20,
           "remise": 0
         },
         {
           "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
           "qte": 1,
-          "pu": 14.01,
+          "pu": 5,
           "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
-          "qte": 2,
-          "pu": 0,
+          "qte": 1,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
-          "qte": 2,
-          "pu": 0,
+          "qte": 1,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🎖️ Remise fidélité ⭐ Fidèle (1 édition) — −5%",
+          "qte": 1,
+          "pu": -2,
           "tva": 20,
           "remise": 0
         }
@@ -1865,16 +1872,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 28.01,
+      "totalHTLignes": 12,
       "totalHTServices": 0,
-      "totalHT": 28.01,
-      "totalTTC": 28.01,
+      "totalHT": 12,
+      "totalTTC": 12,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
+      "notes": "Emplacement intérieur contre le mur \n-------------------------------------\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-22T14:28:09.826Z"
+      "updatedAt": "2026-03-22T14:50:08.901Z"
     }
   ],
   "dbClients": [
@@ -2085,7 +2092,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T14:49:17.668Z",
+  "_savedAt": "2026-03-22T14:50:10.409Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
