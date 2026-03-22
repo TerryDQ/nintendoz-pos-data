@@ -302,7 +302,18 @@
       ],
       "anims": [],
       "emplacements": [],
-      "volunteers": []
+      "volunteers": [
+        {
+          "id": 1774192412201,
+          "nom": "DE SOUSA",
+          "prenom": "Charline",
+          "statut": "snu",
+          "poste": "A définir",
+          "email": "chloe.bernard33@wanadoo.fr",
+          "tel": "0670700378",
+          "edition": "printemps"
+        }
+      ]
     },
     "wf": {
       "exposants": [],
@@ -2123,7 +2134,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:13:09.679Z",
+  "_savedAt": "2026-03-22T15:14:09.155Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2451,6 +2462,12 @@
   ],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-22T15:13:32.212Z",
+      "action": "Bénévole",
+      "detail": "MG — \"DE SOUSA\" ajouté",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-22T14:25:20.079Z",
       "action": "Exposant",
