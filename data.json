@@ -501,6 +501,16 @@
           "adherents": 4,
           "visiteurs": 0,
           "note": "Formation Esport Brawl Star (Première séance 2026)"
+        },
+        {
+          "id": 1774194057368,
+          "date": "2026-03-21",
+          "statut": "ouvert",
+          "type": "atelier",
+          "horaire": "14:00 - 18:00",
+          "adherents": 0,
+          "visiteurs": 7,
+          "note": "Initiation au dessin Manga avec Zabz Yakujo\nSéance : 14:00 - 5 visiteurs dont 4 ~ 6 ans et 1 jeune de 14 ans"
         }
       ]
     }
@@ -2319,7 +2329,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:40:09.160Z",
+  "_savedAt": "2026-03-22T15:40:58.873Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
