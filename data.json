@@ -709,7 +709,11 @@
       "notes": ""
     }
   ],
-  "subvStatutsFixed": {},
+  "subvStatutsFixed": {
+    "sgcv": "vote_attente",
+    "shdr": "vote_attente",
+    "fenouiller": "vote_attente"
+  },
   "subvNotes": {},
   "dbAgrements": [],
   "agrementsStatutsFixed": {
@@ -2075,7 +2079,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T09:15:57.718Z",
+  "_savedAt": "2026-03-22T09:16:44.709Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2141,7 +2145,7 @@
       "bic": "CMCIFR2A",
       "banque": "Crédit Mutuel St Gilles Croix de Vie",
       "cat": "sono",
-      "note": 4.5,
+      "note": 3,
       "tags": "mobilier,tente,sono,lumière,scène,événementiel",
       "cgv": {
         "acompte": 30,
@@ -2153,7 +2157,7 @@
       },
       "ville": "",
       "notes": "",
-      "updatedAt": "2026-02-25T16:58:16.239Z"
+      "updatedAt": "2026-03-22T09:10:08.862Z"
     }
   ],
   "dbPrestations": [],
