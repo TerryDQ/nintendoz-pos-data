@@ -452,6 +452,19 @@
           "formule": "standard",
           "dateAdhesion": "2025-10-22",
           "dateExpiration": "2026-10-22"
+        },
+        {
+          "id": 1774214115039,
+          "wizId": "WIZ0055",
+          "nom": "Vilvandré",
+          "prenom": "Noé",
+          "email": "",
+          "tel": "",
+          "cotis": 50,
+          "statut": "en_attente",
+          "formule": "standard",
+          "dateAdhesion": "2025-11-22",
+          "dateExpiration": "2026-11-22"
         }
       ],
       "volunteers": [],
@@ -1166,7 +1179,14 @@
       "nom": "Vilvandré",
       "prenom": "Noé",
       "ville": "Coëx",
-      "org": ""
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "standard",
+      "cotisGH": 50,
+      "cotisStatutGH": "en_attente",
+      "dateAdhesionGH": "2025-11-22",
+      "dateExpirationGH": "2026-11-22"
     },
     {
       "wizId": "WIZ0200",
@@ -2371,7 +2391,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T21:15:02.731Z",
+  "_savedAt": "2026-03-22T21:15:16.552Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
