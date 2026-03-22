@@ -465,6 +465,19 @@
           "formule": "standard",
           "dateAdhesion": "2025-11-22",
           "dateExpiration": "2026-11-22"
+        },
+        {
+          "id": 1774214149300,
+          "wizId": "WIZ0200",
+          "nom": "Pouclet",
+          "prenom": "Raphaël",
+          "email": "",
+          "tel": "",
+          "cotis": 0,
+          "statut": "en_attente",
+          "formule": "famille",
+          "dateAdhesion": "2025-10-22",
+          "dateExpiration": "2026-10-22"
         }
       ],
       "volunteers": [],
@@ -1194,7 +1207,14 @@
       "nom": "Pouclet",
       "prenom": "Raphaël",
       "ville": "Landevielle",
-      "org": ""
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "famille",
+      "cotisGH": 0,
+      "cotisStatutGH": "en_attente",
+      "dateAdhesionGH": "2025-10-22",
+      "dateExpirationGH": "2026-10-22"
     },
     {
       "wizId": "WIZ0201",
@@ -2391,7 +2411,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T21:15:16.552Z",
+  "_savedAt": "2026-03-22T21:15:50.802Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
