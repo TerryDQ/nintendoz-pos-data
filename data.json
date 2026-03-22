@@ -1879,9 +1879,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Emplacement intérieur contre le mur \n-------------------------------------\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "brouillon",
+      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-22T14:50:08.901Z"
+      "updatedAt": "2026-03-22T14:59:25.532Z"
     }
   ],
   "dbClients": [
@@ -2092,7 +2092,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T14:59:09.667Z",
+  "_savedAt": "2026-03-22T14:59:27.047Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
