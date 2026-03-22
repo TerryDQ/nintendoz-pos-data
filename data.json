@@ -2079,7 +2079,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T13:58:29.987Z",
+  "_savedAt": "2026-03-22T13:59:10.702Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2339,7 +2339,40 @@
   },
   "dbAntennes": [],
   "dbBilans": [],
-  "dbInventaire": [],
+  "dbInventaire": [
+    {
+      "id": 1774187949195,
+      "nom": "Tableau Blanc Magnétique",
+      "ref": "",
+      "cat": "pedagogie",
+      "type": "",
+      "marque": "Amazon Basics",
+      "annee": 2025,
+      "stock": 1,
+      "seuil": 1,
+      "etat": "bon",
+      "numSerie": "",
+      "imei": "",
+      "seriesMulti": "",
+      "poids": 2.58,
+      "long": 60,
+      "larg": 0,
+      "haut": 90,
+      "prixAchat": 39,
+      "valeur": 0,
+      "fournisseur": "Amazon",
+      "tarifLoc": 0,
+      "caution": 0,
+      "desc": "",
+      "evts": [
+        "gh",
+        "wf",
+        "ext",
+        "gare"
+      ],
+      "createdAt": "2026-03-22T13:59:09.195Z"
+    }
+  ],
   "dbSorties": [],
   "dbAudit": [
     {
