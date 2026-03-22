@@ -2329,7 +2329,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T16:03:46.512Z",
+  "_savedAt": "2026-03-22T16:04:15.165Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2626,15 +2626,15 @@
       "id": 1774189923518,
       "nom": "Astérix & Obélix - Mission Babylone + Baffez les Tous",
       "ref": "B0FK57GQFT",
-      "cat": "console",
-      "type": "Nintendo Switch Edition",
+      "cat": "jeu_video",
+      "type": "",
       "marque": "Microids",
       "annee": 2025,
       "stock": 1,
       "seuil": 1,
       "etat": "bon",
-      "numSerie": "",
-      "imei": "",
+      "numSerie": "TSA-HAC-BNVRA-FRA",
+      "imei": "3701529520181",
       "seriesMulti": "",
       "poids": 0.5,
       "long": 16.9,
@@ -2652,7 +2652,9 @@
         "ext",
         "gare"
       ],
-      "createdAt": "2026-03-22T14:32:03.518Z"
+      "createdAt": "2026-03-22T14:32:03.518Z",
+      "licence": "Astérix & Obélix",
+      "updatedAt": "2026-03-22T16:04:13.651Z"
     }
   ],
   "dbSorties": [],
