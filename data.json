@@ -343,7 +343,28 @@
           "devisId": "dv-expo-1774192876398"
         }
       ],
-      "anims": [],
+      "anims": [
+        {
+          "id": 1774193255998,
+          "nom": "Initiation au dessin Manga",
+          "cat": "atelier",
+          "espace": "marie",
+          "debut": "14:00",
+          "duree": "60",
+          "intervenant": "ZabzYakujo",
+          "public": "tout"
+        },
+        {
+          "id": 1774193284565,
+          "nom": "Initiation dessin Manga",
+          "cat": "atelier",
+          "espace": "marie",
+          "debut": "15:00",
+          "duree": "60",
+          "intervenant": "ZabzYakujo",
+          "public": "tout"
+        }
+      ],
       "emplacements": [],
       "volunteers": [
         {
@@ -2234,7 +2255,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:27:09.162Z",
+  "_savedAt": "2026-03-22T15:28:09.165Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
