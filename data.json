@@ -426,7 +426,21 @@
       "encaissements": []
     },
     "gh": {
-      "adherents": [],
+      "adherents": [
+        {
+          "id": 1774214017318,
+          "wizId": "WIZ0010",
+          "nom": "Chevrier",
+          "prenom": "Nathan",
+          "email": "",
+          "tel": "",
+          "cotis": 50,
+          "statut": "paye",
+          "formule": "standard",
+          "dateAdhesion": "2025-10-22",
+          "dateExpiration": "2026-10-22"
+        }
+      ],
       "volunteers": [],
       "intervenants": [
         {
@@ -1108,7 +1122,15 @@
       "nom": "Chevrier",
       "prenom": "Nathan",
       "ville": "Saint Jean de Monts",
-      "statut": "Membres actifs"
+      "statut": "Membres actifs",
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "standard",
+      "cotisGH": 50,
+      "cotisStatutGH": "paye",
+      "dateAdhesionGH": "2025-10-22",
+      "dateExpirationGH": "2026-10-22"
     },
     {
       "wizId": "WIZ0011",
@@ -2329,7 +2351,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T21:13:02.731Z",
+  "_savedAt": "2026-03-22T21:13:38.818Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
