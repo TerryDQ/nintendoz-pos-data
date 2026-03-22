@@ -428,7 +428,17 @@
     "gh": {
       "adherents": [],
       "volunteers": [],
-      "intervenants": [],
+      "intervenants": [
+        {
+          "id": 1774193940960,
+          "nom": "ZabzYakujo",
+          "type": "prestataire",
+          "creneau": "Samedi 21 mars - 14h00 à 18h00",
+          "prestation": "Atelier initiation au dessin",
+          "remun": "15",
+          "conv": "non"
+        }
+      ],
       "activites": [],
       "creneaux": [],
       "jours": [
@@ -2309,7 +2319,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:38:09.168Z",
+  "_savedAt": "2026-03-22T15:39:09.164Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
