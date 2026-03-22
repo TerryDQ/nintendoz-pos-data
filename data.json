@@ -439,6 +439,19 @@
           "formule": "standard",
           "dateAdhesion": "2025-10-22",
           "dateExpiration": "2026-10-22"
+        },
+        {
+          "id": 1774214057098,
+          "wizId": "WIZ0011",
+          "nom": "Thomas",
+          "prenom": "Erwan",
+          "email": "",
+          "tel": "",
+          "cotis": 50,
+          "statut": "paye",
+          "formule": "standard",
+          "dateAdhesion": "2025-10-22",
+          "dateExpiration": "2026-10-22"
         }
       ],
       "volunteers": [],
@@ -1138,7 +1151,14 @@
       "nom": "Thomas",
       "prenom": "Erwan",
       "ville": "Falleron",
-      "org": ""
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "standard",
+      "cotisGH": 50,
+      "cotisStatutGH": "paye",
+      "dateAdhesionGH": "2025-10-22",
+      "dateExpirationGH": "2026-10-22"
     },
     {
       "wizId": "WIZ0055",
@@ -2351,7 +2371,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T21:14:02.739Z",
+  "_savedAt": "2026-03-22T21:14:18.599Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
