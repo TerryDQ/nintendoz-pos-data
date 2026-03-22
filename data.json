@@ -383,6 +383,16 @@
           "duree": "60",
           "intervenant": "ZabzYakujo",
           "public": "tout"
+        },
+        {
+          "id": 1774193387669,
+          "nom": "Initiation au Jeu de Rôle",
+          "cat": "jdr",
+          "espace": "marie",
+          "debut": "14:00",
+          "duree": "",
+          "intervenant": "D'Rôle de Canard",
+          "public": "tout"
         }
       ],
       "emplacements": [],
@@ -2275,7 +2285,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:29:09.168Z",
+  "_savedAt": "2026-03-22T15:30:09.167Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
