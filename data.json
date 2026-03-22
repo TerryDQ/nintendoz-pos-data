@@ -1754,69 +1754,97 @@
     {
       "id": "dv-expo-1771518403900",
       "num": "DEV-STAND-2026-024",
-      "titre": "Proposition de stand — La Fabric de Graphismea",
       "date": "2026-03-21",
       "validite": "2026-06-19",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1771518403900",
+      "clientNom": "La Fabric de Graphismea",
+      "clientAdresse": "27 rue Hervé de Mareuil",
+      "clientCP": "85320",
+      "clientVille": "Mareuil-sur-Lay-Dissais",
+      "clientEmail": "graphismea06@gmail.com",
+      "clientTel": "0683849388",
+      "clientSiret": "879 122 158",
       "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
-          "qte": 3,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Prix à définir"
+          "qte": 1,
+          "pu": 5,
+          "tva": 20,
+          "remise": 0
         },
         {
           "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
-          "qte": 3,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Prix à définir"
-        },
-        {
-          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
-          "qte": 2,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "qte": 1,
+          "pu": 5,
+          "tva": 20,
+          "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
-          "qte": 4,
-          "pu": 0,
-          "tva": 0,
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
-          "qte": 4,
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)   [🌸 Haru]",
+          "qte": 2,
           "pu": 0,
-          "tva": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)   [🌸 Aki]",
+          "qte": 2,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise fidélité Minato Geek ",
+          "qte": 1,
+          "pu": -5,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 13,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 13,
+      "totalTTC": 13,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
-      "_expoId": 1771518403900,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-21T10:06:12.337Z"
+      "notes": "Emplacement : Mur du bâtiment (intérieur)\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-22T14:12:18.366Z"
     },
     {
       "id": "dv-expo-1773752772664",
@@ -2079,7 +2107,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T14:11:29.975Z",
+  "_savedAt": "2026-03-22T14:12:19.871Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
