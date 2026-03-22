@@ -298,6 +298,49 @@
           "statut": "inscrit",
           "clientId": "cl-expo-1773929448927",
           "devisId": "dv-expo-1773929448927"
+        },
+        {
+          "id": 1774192876398,
+          "nom": "D'Rôle de Canard",
+          "prenom": "Pierre",
+          "nomContact": "BRICOUT",
+          "activite": "Jeu de Rôle",
+          "siret": "99109142200014",
+          "web": "",
+          "adresse": "39 RUE MAURICE FILLONNEAU",
+          "cp": "85300",
+          "ville": "CHALLANS",
+          "type": "asso",
+          "option_stand": "option1",
+          "zone": "interieur-marie",
+          "edition": "haru",
+          "surface": "",
+          "email": "",
+          "tel": "",
+          "montant": 0,
+          "paiement": "solde",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null,
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 2,
+            "table150": 0,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 0,
+            "paperboard": 1
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit",
+          "clientId": "cl-expo-1774192876398",
+          "devisId": "dv-expo-1774192876398"
         }
       ],
       "anims": [],
@@ -1924,6 +1967,51 @@
       "statut": "envoye",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-22T14:59:25.532Z"
+    },
+    {
+      "id": "dv-expo-1774192876398",
+      "num": "DEV-STAND-2026-027",
+      "titre": "Proposition de stand — D'Rôle de Canard",
+      "date": "2026-03-22",
+      "validite": "2026-06-20",
+      "type": "prestation",
+      "clientId": "cl-expo-1774192876398",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Jeu de Rôle · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        },
+        {
+          "nom": "📋 Chevalet paperboard",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Pierre BRICOUT\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1774192876398,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-22T15:21:16.621Z"
     }
   ],
   "dbClients": [
@@ -1998,6 +2086,18 @@
       "cp": "",
       "ville": "Saint-Jean-de-Monts",
       "notes": "Prénom : Steward · Responsable : SOUPPAYA · Activité : Atelier Doublage"
+    },
+    {
+      "id": "cl-expo-1774192876398",
+      "nom": "D'Rôle de Canard",
+      "type": "autre",
+      "siret": "99109142200014",
+      "email": "",
+      "tel": "",
+      "adresse": "39 RUE MAURICE FILLONNEAU",
+      "cp": "85300",
+      "ville": "CHALLANS",
+      "notes": "Prénom : Pierre · Responsable : BRICOUT · Activité : Jeu de Rôle"
     }
   ],
   "dbProduits": [
@@ -2134,7 +2234,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-22T15:21:10.666Z",
+  "_savedAt": "2026-03-22T15:21:18.128Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2462,6 +2562,12 @@
   ],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-22T15:21:16.418Z",
+      "action": "Exposant",
+      "detail": "MG — \"D'Rôle de Canard\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-22T15:13:32.212Z",
       "action": "Bénévole",
