@@ -324,6 +324,19 @@
           "formule": "",
           "dateAdhesion": "",
           "dateExpirationGH": ""
+        },
+        {
+          "id": 1774293355615,
+          "wizId": "WIZ0055",
+          "nom": "Vilvandré",
+          "prenom": "Noé",
+          "email": "",
+          "tel": "",
+          "cotis": 0,
+          "statut": "en_attente",
+          "formule": "",
+          "dateAdhesion": "",
+          "dateExpirationGH": ""
         }
       ],
       "volunteers": [],
@@ -843,7 +856,8 @@
       "nom": "Vilvandré",
       "prenom": "Noé",
       "ville": "Coëx",
-      "statut": "BENEVOLE"
+      "statut": "BENEVOLE",
+      "org": ""
     },
     {
       "wizId": "WIZ0200",
@@ -1789,7 +1803,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-23T19:15:25.645Z",
+  "_savedAt": "2026-03-23T19:15:57.120Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
