@@ -311,7 +311,21 @@
       "encaissements": []
     },
     "gh": {
-      "adherents": [],
+      "adherents": [
+        {
+          "id": 1774292801696,
+          "wizId": "WIZ0010",
+          "nom": "Chevrier",
+          "prenom": "Nathan",
+          "email": "",
+          "tel": "",
+          "cotis": 0,
+          "statut": "en_attente",
+          "formule": "",
+          "dateAdhesion": "",
+          "dateExpirationGH": ""
+        }
+      ],
       "volunteers": [],
       "intervenants": [],
       "activites": [],
@@ -814,7 +828,8 @@
       "nom": "Chevrier",
       "prenom": "Nathan",
       "ville": "Saint Jean de Monts",
-      "statut": "Membres actifs"
+      "statut": "Membres actifs",
+      "org": "Nintend'Oz Vendée"
     },
     {
       "wizId": "WIZ0011",
@@ -1774,7 +1789,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-23T19:06:25.640Z",
+  "_savedAt": "2026-03-23T19:06:43.204Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
