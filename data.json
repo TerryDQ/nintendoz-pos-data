@@ -298,6 +298,67 @@
           "statut": "inscrit",
           "clientId": "cl-expo-1773929448927",
           "devisId": "dv-expo-1773929448927"
+        },
+        {
+          "id": 1774297688125,
+          "nom": "Vendée Crêpe",
+          "prenom": "Hélène",
+          "nomContact": "",
+          "activite": "Vente de Crêpe et Galette",
+          "siret": "",
+          "web": "",
+          "adresse": "",
+          "cp": "",
+          "ville": "",
+          "type": "foodtruck",
+          "option_stand": "option3",
+          "zone": "exterieur-village",
+          "edition": "haru-aki",
+          "surface": "",
+          "email": "",
+          "tel": "",
+          "montant": {
+            "_biEdition": true,
+            "haru": 8,
+            "aki": 0
+          },
+          "paiement": "en_attente",
+          "contrepartie": "Repas équipe organisation",
+          "valeurService": 0,
+          "ftRepas": {
+            "jours": {},
+            "beneficiaires": []
+          },
+          "notes": "Prévoir branchement extérieur",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit",
+          "clientId": "cl-expo-1774297688125",
+          "devisId": "dv-expo-1774297688125"
         }
       ],
       "anims": [],
@@ -1607,6 +1668,43 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-22T17:25:20.148Z"
+    },
+    {
+      "id": "dv-expo-1774297688125",
+      "num": "DEV-STAND-2026-026",
+      "titre": "Proposition de stand — Vendée Crêpe",
+      "date": "2026-03-23",
+      "validite": "2026-06-21",
+      "type": "prestation",
+      "clientId": "cl-expo-1774297688125",
+      "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Vente de Crêpe et Galette · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 8,
+      "totalHTServices": 0,
+      "totalHT": 8,
+      "totalTTC": 8,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Hélène\nNotes exposant : Prévoir branchement extérieur\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1774297688125,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-23T20:28:08.348Z"
     }
   ],
   "dbClients": [
@@ -1681,6 +1779,18 @@
       "cp": "",
       "ville": "Saint-Jean-de-Monts",
       "notes": "Prénom : Steward · Responsable : SOUPPAYA · Activité : Atelier Doublage"
+    },
+    {
+      "id": "cl-expo-1774297688125",
+      "nom": "Vendée Crêpe",
+      "type": "autre",
+      "siret": "",
+      "email": "",
+      "tel": "",
+      "adresse": "",
+      "cp": "",
+      "ville": "",
+      "notes": "Prénom : Hélène · Activité : Vente de Crêpe et Galette"
     }
   ],
   "dbProduits": [
@@ -1817,7 +1927,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-23T20:27:33.940Z",
+  "_savedAt": "2026-03-23T20:28:09.848Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2079,7 +2189,14 @@
   "dbBilans": [],
   "dbInventaire": [],
   "dbSorties": [],
-  "dbAudit": [],
+  "dbAudit": [
+    {
+      "ts": "2026-03-23T20:28:08.139Z",
+      "action": "Exposant",
+      "detail": "MG — \"Vendée Crêpe\" ajouté/modifié",
+      "who": "Bureau"
+    }
+  ],
   "dbFrequentation": {
     "mg": {
       "ps": 0,
