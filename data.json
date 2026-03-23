@@ -808,7 +808,229 @@
   },
   "dbFichesIntervention": [],
   "dbQuizResults": [],
-  "dbMembreWiz": [],
+  "dbMembreWiz": [
+    {
+      "wizId": "WIZ0010",
+      "nom": "Chevrier",
+      "prenom": "Nathan",
+      "ville": "Saint Jean de Monts",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0011",
+      "nom": "Thomas",
+      "prenom": "Erwan",
+      "ville": "Falleron",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0055",
+      "nom": "Vilvandré",
+      "prenom": "Noé",
+      "ville": "Coëx",
+      "statut": "BENEVOLE"
+    },
+    {
+      "wizId": "WIZ0200",
+      "nom": "Pouclet",
+      "prenom": "Raphaël",
+      "ville": "Landevielle",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0201",
+      "nom": "Pouclet",
+      "prenom": "Nathan",
+      "ville": "Landevielle",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0202",
+      "nom": "Pouclet",
+      "prenom": "Valentin",
+      "ville": "Landevielle",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0204",
+      "nom": "Chevrier",
+      "prenom": "Maxime",
+      "ville": "Saint-Jean-de-Monts",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0301",
+      "nom": "Greg",
+      "prenom": "",
+      "ville": "",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0302",
+      "nom": "Baptiste",
+      "prenom": "G.HB",
+      "ville": "",
+      "statut": "BENEVOLE"
+    },
+    {
+      "wizId": "WIZ0305",
+      "nom": "Godonou",
+      "prenom": "Florent",
+      "ville": "",
+      "statut": "BENEVOLE"
+    },
+    {
+      "wizId": "WIZ0306",
+      "nom": "Ibrahim",
+      "prenom": "",
+      "ville": "Évry-Courcouronnes",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0307",
+      "nom": "Philippe",
+      "prenom": "Binet",
+      "ville": "",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0308",
+      "nom": "Richard",
+      "prenom": "Léa",
+      "ville": "Blois",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ0309",
+      "nom": "BARY",
+      "prenom": "MARION",
+      "ville": "",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0310",
+      "nom": "PROUVOST",
+      "prenom": "Marie",
+      "ville": "",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0311",
+      "nom": "AYMARD",
+      "prenom": "Alix",
+      "ville": "Paris 14ème",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0601",
+      "nom": "Chastagnier",
+      "prenom": "Fabien",
+      "ville": "Le Fenouiller",
+      "statut": "Administrateurs"
+    },
+    {
+      "wizId": "WIZ0602",
+      "nom": "Maillard",
+      "prenom": "Rachelle",
+      "ville": "Angers",
+      "statut": "Conseil d'Administration",
+      "org": "Yumi Vision EI"
+    },
+    {
+      "wizId": "WIZ0603",
+      "nom": "Jenny",
+      "prenom": "",
+      "ville": "La Chaise Le Vicomte",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0604",
+      "nom": "Cano",
+      "prenom": "Charline",
+      "ville": "Lyon",
+      "statut": "Conseil d'Administration"
+    },
+    {
+      "wizId": "WIZ0606",
+      "nom": "Dove",
+      "prenom": "",
+      "ville": "",
+      "statut": "Administrateurs"
+    },
+    {
+      "wizId": "WIZ0701",
+      "nom": "Crédit Agricole",
+      "prenom": "",
+      "ville": "",
+      "statut": "Fournisseurs"
+    },
+    {
+      "wizId": "WIZ0702",
+      "nom": "Gagery",
+      "prenom": "Jérome",
+      "ville": "",
+      "statut": "Membres actifs",
+      "org": "Crédit Agricole"
+    },
+    {
+      "wizId": "WIZ0703",
+      "nom": "Ludothèque La Tranche sur Mer",
+      "prenom": "",
+      "ville": "La Tranche sur Mer",
+      "statut": "CLIENTS"
+    },
+    {
+      "wizId": "WIZ0704",
+      "nom": "Beck",
+      "prenom": "Jérémy",
+      "ville": "",
+      "statut": "PARTENAIRES",
+      "org": "Japonais Facile"
+    },
+    {
+      "wizId": "WIZ0901",
+      "nom": "Janick",
+      "prenom": "",
+      "ville": "",
+      "statut": "Conseil d'Administration",
+      "org": "Président CR PDL Jeu Vidéo"
+    },
+    {
+      "wizId": "WIZ1002",
+      "nom": "Thibout",
+      "prenom": "Dorian",
+      "ville": "",
+      "statut": "BENEVOLE"
+    },
+    {
+      "wizId": "WIZ1005",
+      "nom": "Mathéo",
+      "prenom": "",
+      "ville": "",
+      "statut": "BENEVOLE"
+    },
+    {
+      "wizId": "WIZ1199",
+      "nom": "BROCHARD",
+      "prenom": "Camille",
+      "ville": "Le Fenouiller",
+      "statut": "Membres actifs"
+    },
+    {
+      "wizId": "WIZ1201",
+      "nom": "JapaNantes",
+      "prenom": "",
+      "ville": "Saint-Herblain",
+      "statut": "CLIENTS"
+    },
+    {
+      "wizId": "WIZ1202",
+      "nom": "Nagomi",
+      "prenom": "",
+      "ville": "SAINT-MARS-LA-REORTHE",
+      "statut": "PARTENAIRES"
+    }
+  ],
   "dbFormationParcours": [],
   "dbFormationProgress": {},
   "dbUsers": [
@@ -1552,7 +1774,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-23T19:04:57.884Z",
+  "_savedAt": "2026-03-23T19:06:25.640Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
