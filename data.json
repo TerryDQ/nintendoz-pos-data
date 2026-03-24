@@ -1463,23 +1463,40 @@
     {
       "id": "dv-expo-1773929448927",
       "num": "DEV-STAND-2026-021",
-      "titre": "Proposition de stand — Grand Finale",
       "date": "2026-03-19",
       "validite": "2026-06-17",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1773929448927",
+      "clientNom": "Grand Finale",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Saint-Jean-de-Monts",
+      "clientEmail": "steward.souppaya@grandfinale.fr",
+      "clientTel": "",
+      "clientSiret": "",
       "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Atelier Doublage · Minato Geek",
       "lignes": [
         {
           "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
           "qte": 1,
           "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "tva": 20,
+          "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1493,10 +1510,8 @@
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Steward SOUPPAYA\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1773929448927,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-19T14:10:49.144Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-24T12:36:00.157Z"
     },
     {
       "id": "dv-expo-1773752772664",
@@ -1553,30 +1568,47 @@
     {
       "id": "dv-expo-1773244610006",
       "num": "DEV-STAND-2026-024",
-      "titre": "Proposition de stand — Maquettes et Figurines 85",
       "date": "2026-03-21",
       "validite": "2026-06-19",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquette",
+      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
+      "clientCP": "85470",
+      "clientVille": "Bretignolles-sur-Mer",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "92891048800016",
       "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
           "qte": 1,
           "pu": 10,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
           "qte": 4,
           "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "tva": 20,
+          "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1589,11 +1621,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain Houit\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
-      "_expoId": 1773244610006,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-21T10:41:07.675Z"
+      "statut": "envoye",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-24T12:36:25.385Z"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -1672,22 +1702,40 @@
     {
       "id": "dv-expo-1774297688125",
       "num": "DEV-STAND-2026-026",
-      "titre": "Proposition de stand — Vendée Crêpe",
       "date": "2026-03-23",
       "validite": "2026-06-21",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1774297688125",
+      "clientNom": "Vendée Crêpe",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "",
       "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Vente de Crêpe et Galette · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
           "qte": 1,
           "pu": 8,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1701,10 +1749,8 @@
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Hélène\nNotes exposant : Prévoir branchement extérieur\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1774297688125,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-23T20:28:08.348Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-24T12:36:12.856Z"
     }
   ],
   "dbClients": [
@@ -1927,7 +1973,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-24T12:46:16.253Z",
+  "_savedAt": "2026-03-24T12:47:04.258Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
