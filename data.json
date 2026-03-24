@@ -1463,23 +1463,40 @@
     {
       "id": "dv-expo-1773929448927",
       "num": "DEV-STAND-2026-021",
-      "titre": "Proposition de stand — Grand Finale",
       "date": "2026-03-19",
       "validite": "2026-06-17",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1773929448927",
+      "clientNom": "Grand Finale",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Saint-Jean-de-Monts",
+      "clientEmail": "steward.souppaya@grandfinale.fr",
+      "clientTel": "",
+      "clientSiret": "",
       "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Atelier Doublage · Minato Geek",
       "lignes": [
         {
           "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
           "qte": 1,
           "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "tva": 20,
+          "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1493,10 +1510,8 @@
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Steward SOUPPAYA\n⚠️ Vérifiez les tarifs avant validation.",
       "statut": "brouillon",
-      "_expoId": 1773929448927,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-19T14:10:49.144Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-24T12:36:00.157Z"
     },
     {
       "id": "dv-expo-1773752772664",
@@ -1927,7 +1942,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-24T12:35:58.367Z",
+  "_savedAt": "2026-03-24T12:36:01.669Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
