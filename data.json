@@ -359,6 +359,49 @@
           "statut": "inscrit",
           "clientId": "cl-expo-1774297688125",
           "devisId": "dv-expo-1774297688125"
+        },
+        {
+          "id": 1774356480345,
+          "nom": "JenKry",
+          "prenom": "",
+          "nomContact": "Jenny",
+          "activite": "Artiste",
+          "siret": "",
+          "web": "",
+          "adresse": "",
+          "cp": "",
+          "ville": "",
+          "type": "asso",
+          "option_stand": "option3",
+          "zone": "exterieur-village",
+          "edition": "haru",
+          "surface": "",
+          "email": "",
+          "tel": "",
+          "montant": 8,
+          "paiement": "en_attente",
+          "contrepartie": "",
+          "valeurService": 0,
+          "ftRepas": null,
+          "notes": "",
+          "accessibilite": "aucun",
+          "besoins": "",
+          "materiel": {
+            "table120": 0,
+            "table150": 0,
+            "elec": 0,
+            "tonnelle": 0,
+            "grilles": 0,
+            "paperboard": 0
+          },
+          "docs": {
+            "rc": null,
+            "kbis": null,
+            "dossier": null
+          },
+          "statut": "inscrit",
+          "clientId": "cl-expo-1774356480345",
+          "devisId": "dv-expo-1774356480345"
         }
       ],
       "anims": [],
@@ -1705,6 +1748,43 @@
       "_expoCtx": "mg",
       "createdBy": "auto",
       "updatedAt": "2026-03-23T20:28:08.348Z"
+    },
+    {
+      "id": "dv-expo-1774356480345",
+      "num": "DEV-STAND-2026-027",
+      "titre": "Proposition de stand — JenKry",
+      "date": "2026-03-24",
+      "validite": "2026-06-22",
+      "type": "prestation",
+      "clientId": "cl-expo-1774356480345",
+      "objet": "Stand associatif · 🌿 Ext. Village · 🌸 Édition Haru · Artiste · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 8,
+      "totalHTServices": 0,
+      "totalHT": 8,
+      "totalTTC": 8,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Jenny\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1774356480345,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-24T12:48:00.572Z"
     }
   ],
   "dbClients": [
@@ -1791,6 +1871,18 @@
       "cp": "",
       "ville": "",
       "notes": "Prénom : Hélène · Activité : Vente de Crêpe et Galette"
+    },
+    {
+      "id": "cl-expo-1774356480345",
+      "nom": "JenKry",
+      "type": "autre",
+      "siret": "",
+      "email": "",
+      "tel": "",
+      "adresse": "",
+      "cp": "",
+      "ville": "",
+      "notes": "Responsable : Jenny · Activité : Artiste"
     }
   ],
   "dbProduits": [
@@ -1927,7 +2019,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-24T12:47:55.902Z",
+  "_savedAt": "2026-03-24T12:48:02.072Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2190,6 +2282,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-24T12:48:00.360Z",
+      "action": "Exposant",
+      "detail": "MG — \"JenKry\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-23T20:28:08.139Z",
       "action": "Exposant",
