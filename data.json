@@ -301,26 +301,26 @@
         },
         {
           "id": 1774297688125,
-          "nom": "Vendée Crêpe",
+          "nom": "Vent des Crêpes",
           "prenom": "Hélène",
-          "nomContact": "",
+          "nomContact": "DALIGAULT",
           "activite": "Vente de Crêpe et Galette",
           "siret": "",
           "web": "",
-          "adresse": "",
-          "cp": "",
-          "ville": "",
+          "adresse": "12 rue Auguste Idier",
+          "cp": "85800",
+          "ville": "Saint-Gilles-Croix-de-Vie",
           "type": "foodtruck",
           "option_stand": "option3",
           "zone": "exterieur-village",
           "edition": "haru-aki",
           "surface": "",
-          "email": "",
-          "tel": "",
+          "email": "contact@leventdescrepes.fr",
+          "tel": "0788143175",
           "montant": {
             "_biEdition": true,
             "haru": 8,
-            "aki": 0
+            "aki": 8
           },
           "paiement": "en_attente",
           "contrepartie": "Repas équipe organisation",
@@ -329,7 +329,7 @@
             "jours": {},
             "beneficiaires": []
           },
-          "notes": "Prévoir branchement extérieur",
+          "notes": "Prévoir branchement extérieur 1500 KW et Frigo auprès de l'organisation",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
@@ -2019,7 +2019,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-24T19:44:47.595Z",
+  "_savedAt": "2026-03-24T19:45:08.390Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2282,6 +2282,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-24T19:45:06.878Z",
+      "action": "Exposant",
+      "detail": "MG — \"Vent des Crêpes\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-24T12:48:00.360Z",
       "action": "Exposant",
