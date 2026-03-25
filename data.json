@@ -803,7 +803,163 @@
       }
     ]
   },
-  "dbKoban": [],
+  "dbKoban": [
+    {
+      "wizId": "WIZ0010",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0011",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0055",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0200",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0201",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0202",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0204",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0301",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0302",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0305",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0306",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0307",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0308",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0309",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0310",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0311",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0601",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0602",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0603",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0604",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0606",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0701",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0702",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0703",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0704",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ0901",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ1002",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ1005",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ1199",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ1201",
+      "solde": 0,
+      "transactions": []
+    },
+    {
+      "wizId": "WIZ1202",
+      "solde": 0,
+      "transactions": []
+    }
+  ],
   "dbACL": {
     "profiles": [
       {
@@ -1785,7 +1941,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-25T19:45:53.150Z",
+  "_savedAt": "2026-03-25T19:47:58.169Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
