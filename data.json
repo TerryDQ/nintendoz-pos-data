@@ -1731,64 +1731,6 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-22T17:25:20.148Z"
-    },
-    {
-      "id": "dv-expo-1772994801785",
-      "num": "DEV-STAND-2026-026",
-      "titre": "Proposition de stand — ANA Gravure Laser",
-      "date": "2026-03-25",
-      "validite": "2026-06-23",
-      "type": "prestation",
-      "clientId": "cl-expo-1772994801785",
-      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
-          "qte": 1,
-          "pu": 15,
-          "tva": 0,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 120 cm — Extérieur",
-          "qte": 4,
-          "pu": 10,
-          "tva": 0,
-          "remise": 0
-        },
-        {
-          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
-          "qte": 1,
-          "pu": 3,
-          "tva": 0,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition — Extérieur",
-          "qte": 2,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0
-        }
-      ],
-      "services": {},
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 58,
-      "totalHTServices": 0,
-      "totalHT": 58,
-      "totalTTC": 58,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Sébastien RITARD\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
-      "_expoId": 1772994801785,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-25T19:50:35.847Z"
     }
   ],
   "dbClients": [
@@ -1999,7 +1941,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-25T19:55:25.160Z",
+  "_savedAt": "2026-03-25T19:55:57.157Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
