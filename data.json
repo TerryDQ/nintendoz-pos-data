@@ -803,163 +803,6 @@
       }
     ]
   },
-  "dbKoban": [
-    {
-      "wizId": "WIZ0010",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0011",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0055",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0200",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0201",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0202",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0204",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0301",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0302",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0305",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0306",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0307",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0308",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0309",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0310",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0311",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0601",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0602",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0603",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0604",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0606",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0701",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0702",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0703",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0704",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ0901",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ1002",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ1005",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ1199",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ1201",
-      "solde": 0,
-      "transactions": []
-    },
-    {
-      "wizId": "WIZ1202",
-      "solde": 0,
-      "transactions": []
-    }
-  ],
   "dbACL": {
     "profiles": [
       {
@@ -1731,6 +1574,64 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-03-22T17:25:20.148Z"
+    },
+    {
+      "id": "dv-expo-1772994801785",
+      "num": "DEV-STAND-2026-026",
+      "titre": "Proposition de stand — ANA Gravure Laser",
+      "date": "2026-03-25",
+      "validite": "2026-06-23",
+      "type": "prestation",
+      "clientId": "cl-expo-1772994801785",
+      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 58,
+      "totalHTServices": 0,
+      "totalHT": 58,
+      "totalTTC": 58,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Sébastien RITARD\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1772994801785,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-25T19:57:57.180Z"
     }
   ],
   "dbClients": [
@@ -1941,7 +1842,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-25T20:20:21.144Z",
+  "_savedAt": "2026-03-25T20:20:42.153Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
