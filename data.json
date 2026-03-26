@@ -311,7 +311,21 @@
       "encaissements": []
     },
     "gh": {
-      "adherents": [],
+      "adherents": [
+        {
+          "id": 1774522837337,
+          "wizId": "WIZ0010",
+          "nom": "Chevrier",
+          "prenom": "Nathan",
+          "email": "",
+          "tel": "",
+          "cotis": 0,
+          "statut": "paye",
+          "formule": "standard",
+          "dateAdhesion": "2026-03-26",
+          "dateExpirationGH": "2027-03-26"
+        }
+      ],
       "volunteers": [],
       "intervenants": [],
       "activites": [],
@@ -824,7 +838,15 @@
       "nom": "Chevrier",
       "prenom": "Nathan",
       "ville": "Saint Jean de Monts",
-      "statut": "Membres actifs"
+      "statut": "Membres actifs",
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "standard",
+      "cotisGH": 0,
+      "cotisStatutGH": "paye",
+      "dateAdhesionGH": "2026-03-26",
+      "dateExpirationGH": "2027-03-26"
     },
     {
       "wizId": "WIZ0011",
@@ -1856,7 +1878,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-26T11:02:44.102Z",
+  "_savedAt": "2026-03-26T11:03:06.727Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
