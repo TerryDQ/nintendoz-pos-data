@@ -1865,7 +1865,18 @@
     }
   ],
   "dbScanSorties": [],
-  "dbKobans": [],
+  "dbKobans": [
+    {
+      "wizId": "WIZ0001",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    }
+  ],
   "dbTaskboard": {
     "mg": [],
     "wf": [],
@@ -1878,7 +1889,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-26T11:03:06.727Z",
+  "_savedAt": "2026-03-26T11:04:59.115Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
