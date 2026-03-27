@@ -321,6 +321,27 @@
           },
           "notes": "",
           "participants": []
+        },
+        {
+          "id": 1774610340583,
+          "nom": "Atelier doublage",
+          "cat": "atelier",
+          "espace": "marie",
+          "public": "tout",
+          "creneau": "apmidi",
+          "debut": "14:00",
+          "duree": 3,
+          "renouvellement": 5,
+          "intervenant": "Grand Finale",
+          "capacite": 40,
+          "tariType": "gratuit",
+          "prix": 0,
+          "commission": {
+            "actif": false,
+            "seuil": 10
+          },
+          "notes": "",
+          "participants": []
         }
       ],
       "emplacements": [],
@@ -2406,7 +2427,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T11:18:17.427Z",
+  "_savedAt": "2026-03-27T11:19:02.099Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
