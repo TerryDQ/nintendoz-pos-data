@@ -326,6 +326,21 @@
           "dateExpirationGH": "2027-03-26",
           "sexe": "M",
           "genre": "M"
+        },
+        {
+          "id": 1774605789940,
+          "wizId": "WIZ0011",
+          "nom": "Thomas",
+          "prenom": "Erwan",
+          "email": "",
+          "tel": "",
+          "sexe": "M",
+          "genre": "M",
+          "cotis": 0,
+          "statut": "en_attente",
+          "formule": "",
+          "dateAdhesion": "2026-03-27",
+          "dateExpirationGH": ""
         }
       ],
       "volunteers": [],
@@ -873,7 +888,16 @@
       "nom": "Thomas",
       "prenom": "Erwan",
       "ville": "Falleron",
-      "statut": "Conseil d'Administration"
+      "statut": "Conseil d'Administration",
+      "genre": "M",
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "",
+      "cotisGH": 0,
+      "cotisStatutGH": "en_attente",
+      "dateAdhesionGH": "2026-03-27",
+      "dateExpirationGH": ""
     },
     {
       "wizId": "WIZ0055",
@@ -2227,7 +2251,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:02:52.578Z",
+  "_savedAt": "2026-03-27T10:03:11.441Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
