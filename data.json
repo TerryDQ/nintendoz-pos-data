@@ -323,7 +323,9 @@
           "statut": "paye",
           "formule": "standard",
           "dateAdhesion": "2026-03-26",
-          "dateExpirationGH": "2027-03-26"
+          "dateExpirationGH": "2027-03-26",
+          "sexe": "M",
+          "genre": "M"
         }
       ],
       "volunteers": [],
@@ -856,14 +858,15 @@
       "prenom": "Nathan",
       "ville": "Saint Jean de Monts",
       "statut": "Membres actifs",
-      "org": "",
+      "org": "Nintend'Oz-Event",
       "email": "",
       "tel": "",
       "formuleGH": "standard",
       "cotisGH": 0,
       "cotisStatutGH": "paye",
       "dateAdhesionGH": "2026-03-26",
-      "dateExpirationGH": "2027-03-26"
+      "dateExpirationGH": "2027-03-26",
+      "genre": "M"
     },
     {
       "wizId": "WIZ0011",
@@ -2224,7 +2227,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:01:45.095Z",
+  "_savedAt": "2026-03-27T10:02:24.716Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
