@@ -1612,9 +1612,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "envoye",
+      "statut": "accepte",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-20T09:12:18.436Z"
+      "updatedAt": "2026-03-27T12:51:30.604Z"
     },
     {
       "id": "dv-expo-1773929448927",
@@ -2448,7 +2448,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T12:50:20.224Z",
+  "_savedAt": "2026-03-27T12:51:32.113Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
