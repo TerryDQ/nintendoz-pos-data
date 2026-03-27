@@ -356,6 +356,21 @@
           "formule": "standard",
           "dateAdhesion": "2026-03-27",
           "dateExpirationGH": "2027-03-27"
+        },
+        {
+          "id": 1774605833424,
+          "wizId": "WIZ0200",
+          "nom": "Pouclet",
+          "prenom": "Raphaël",
+          "email": "",
+          "tel": "",
+          "sexe": "M",
+          "genre": "M",
+          "cotis": 0,
+          "statut": "paye",
+          "formule": "famille",
+          "dateAdhesion": "2026-03-27",
+          "dateExpirationGH": "2027-03-27"
         }
       ],
       "volunteers": [],
@@ -935,7 +950,16 @@
       "nom": "Pouclet",
       "prenom": "Raphaël",
       "ville": "Landevielle",
-      "statut": "Membres actifs"
+      "statut": "Membres actifs",
+      "genre": "M",
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "famille",
+      "cotisGH": 0,
+      "cotisStatutGH": "paye",
+      "dateAdhesionGH": "2026-03-27",
+      "dateExpirationGH": "2027-03-27"
     },
     {
       "wizId": "WIZ0201",
@@ -2275,7 +2299,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:03:52.579Z",
+  "_savedAt": "2026-03-27T10:03:54.929Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
