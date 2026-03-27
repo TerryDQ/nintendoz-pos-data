@@ -342,6 +342,27 @@
           },
           "notes": "",
           "participants": []
+        },
+        {
+          "id": 1774610458662,
+          "nom": "Archéologie Pokémon",
+          "cat": "atelier",
+          "espace": "village",
+          "public": "tout",
+          "creneau": "journee",
+          "debut": "14:00",
+          "duree": 3,
+          "renouvellement": 5,
+          "intervenant": "Nintend'Oz-Event",
+          "capacite": 0,
+          "tariType": "gratuit",
+          "prix": 0,
+          "commission": {
+            "actif": false,
+            "seuil": 10
+          },
+          "notes": "Cage de sable avec les fossiles",
+          "participants": []
         }
       ],
       "emplacements": [],
@@ -2427,7 +2448,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T11:20:17.428Z",
+  "_savedAt": "2026-03-27T11:21:00.175Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
