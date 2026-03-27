@@ -300,7 +300,29 @@
           "devisId": "dv-expo-1773929448927"
         }
       ],
-      "anims": [],
+      "anims": [
+        {
+          "id": 1774610266822,
+          "nom": "Atelier dessin manga",
+          "cat": "atelier",
+          "espace": "marie",
+          "public": "tout",
+          "creneau": "apmidi",
+          "debut": "14:00",
+          "duree": 60,
+          "renouvellement": 60,
+          "intervenant": "Zabz Yakuko",
+          "capacite": 10,
+          "tariType": "payant",
+          "prix": 10,
+          "commission": {
+            "actif": true,
+            "seuil": 10
+          },
+          "notes": "",
+          "participants": []
+        }
+      ],
       "emplacements": [],
       "volunteers": []
     },
@@ -2384,7 +2406,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T11:17:17.426Z",
+  "_savedAt": "2026-03-27T11:17:48.341Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
