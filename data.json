@@ -401,6 +401,21 @@
           "formule": "standard",
           "dateAdhesion": "2026-03-27",
           "dateExpirationGH": "2027-03-27"
+        },
+        {
+          "id": 1774606477942,
+          "wizId": "WIZ0204",
+          "nom": "Chevrier",
+          "prenom": "Maxime",
+          "email": "",
+          "tel": "",
+          "sexe": "M",
+          "genre": "M",
+          "cotis": 0,
+          "statut": "paye",
+          "formule": "standard",
+          "dateAdhesion": "2026-03-27",
+          "dateExpirationGH": "2027-03-27"
         }
       ],
       "volunteers": [],
@@ -1028,7 +1043,16 @@
       "nom": "Chevrier",
       "prenom": "Maxime",
       "ville": "Saint-Jean-de-Monts",
-      "statut": "Membres actifs"
+      "statut": "Membres actifs",
+      "genre": "M",
+      "org": "",
+      "email": "",
+      "tel": "",
+      "formuleGH": "standard",
+      "cotisGH": 0,
+      "cotisStatutGH": "paye",
+      "dateAdhesionGH": "2026-03-27",
+      "dateExpirationGH": "2027-03-27"
     },
     {
       "wizId": "WIZ0301",
@@ -2347,7 +2371,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:13:53.055Z",
+  "_savedAt": "2026-03-27T10:14:39.455Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
