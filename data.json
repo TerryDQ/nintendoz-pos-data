@@ -337,10 +337,10 @@
           "sexe": "M",
           "genre": "M",
           "cotis": 0,
-          "statut": "en_attente",
-          "formule": "",
+          "statut": "paye",
+          "formule": "standard",
           "dateAdhesion": "2026-03-27",
-          "dateExpirationGH": ""
+          "dateExpirationGH": "2027-03-27"
         },
         {
           "id": 1774605799411,
@@ -908,11 +908,11 @@
       "org": "",
       "email": "",
       "tel": "",
-      "formuleGH": "",
+      "formuleGH": "standard",
       "cotisGH": 0,
-      "cotisStatutGH": "en_attente",
+      "cotisStatutGH": "paye",
       "dateAdhesionGH": "2026-03-27",
-      "dateExpirationGH": ""
+      "dateExpirationGH": "2027-03-27"
     },
     {
       "wizId": "WIZ0055",
@@ -2275,7 +2275,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:03:20.924Z",
+  "_savedAt": "2026-03-27T10:03:31.026Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
