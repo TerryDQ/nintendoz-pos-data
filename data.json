@@ -354,7 +354,7 @@
           "duree": 3,
           "renouvellement": 5,
           "intervenant": "Nintend'Oz-Event",
-          "capacite": 0,
+          "capacite": 30,
           "tariType": "gratuit",
           "prix": 0,
           "commission": {
@@ -2448,7 +2448,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T11:21:00.175Z",
+  "_savedAt": "2026-03-27T11:21:13.522Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
