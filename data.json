@@ -336,6 +336,14 @@
           "recur": "ponctuel",
           "resp": "Zabz Yakujo",
           "mat": "Feuille A4 ; Crayon papier"
+        },
+        {
+          "id": 1774598345827,
+          "nom": "Esport - Brawlstar",
+          "cat": "jv",
+          "recur": "mercredi",
+          "resp": "CHASTAGNIER Fabien",
+          "mat": "Tableau blanc"
         }
       ],
       "creneaux": [],
@@ -2216,7 +2224,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T07:58:57.291Z",
+  "_savedAt": "2026-03-27T07:59:57.294Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
