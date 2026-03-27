@@ -2366,12 +2366,25 @@
     "autre": []
   },
   "dbAffichage": {
-    "mg": [],
+    "mg": [
+      {
+        "id": "aff-1774606693779-b9z0b",
+        "ctx": "mg",
+        "titre": "Centre Socio-culturel Saint-Gilles-Croix-de-Vie",
+        "type": "flyer",
+        "adresse": "35 Rue du Maréchal Leclerc de Hautecloque, 85800 Saint-Gilles-Croix-de-Vie",
+        "date": "2026-03-26",
+        "note": "Vu avec le secrétariat, le responsable de l'espace jeunes et la vice présidente)",
+        "qte": 10,
+        "photo": null,
+        "createdAt": "2026-03-27T10:18:13.779Z"
+      }
+    ],
     "wf": [],
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T10:18:03.202Z",
+  "_savedAt": "2026-03-27T10:18:15.282Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
