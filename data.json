@@ -231,7 +231,7 @@
           "email": "lesgourmandisesdebiscotte@gmail.com",
           "tel": "06.95.66.51.83",
           "montant": 15,
-          "paiement": "en_attente",
+          "paiement": "solde",
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
@@ -251,9 +251,12 @@
             "kbis": null,
             "dossier": null
           },
-          "statut": "inscrit",
+          "statut": "paye",
           "clientId": "cl-expo-1773752772664",
-          "devisId": "dv-expo-1773752772664"
+          "devisId": "dv-expo-1773752772664",
+          "datePaiement": "2026-03-23",
+          "modePaiement": "Virement",
+          "refPaiement": ""
         },
         {
           "id": 1773929448927,
@@ -1700,11 +1703,14 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
+      "statut": "paye",
       "_expoId": 1773752772664,
       "_expoCtx": "mg",
       "createdBy": "auto",
-      "updatedAt": "2026-03-20T08:55:31.395Z"
+      "updatedAt": "2026-03-20T08:55:31.395Z",
+      "datePaiement": "2026-03-23",
+      "modePaiement": "Virement",
+      "refPaiement": ""
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2448,7 +2454,7 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-27T13:01:42.256Z",
+  "_savedAt": "2026-03-27T13:02:37.564Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
