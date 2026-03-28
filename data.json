@@ -1653,9 +1653,8 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:43:08.270Z"
+      "updatedAt": "2026-03-28T09:43:26.206Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2341,7 +2340,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:43:18.255Z",
+  "_savedAt": "2026-03-28T09:43:27.713Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
