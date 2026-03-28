@@ -866,7 +866,7 @@
       "config": {
         "scale": 20,
         "grille": 50,
-        "env": "exterieur",
+        "env": "mixte",
         "largeur": 2400,
         "hauteur": 1600
       }
@@ -2622,7 +2622,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T12:57:15.183Z",
+  "_savedAt": "2026-03-28T12:57:37.635Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
