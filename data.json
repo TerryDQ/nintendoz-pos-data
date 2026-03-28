@@ -1657,9 +1657,9 @@
       "paiementCond": "jour_evt",
       "paiementModal": "",
       "notes": "Contact : Christelle Degras\nNotes exposant : [Stand 1 : Zone Marier] [Stand 2: village extérieur]\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00\n⚠️ Paiement en contre-service — montant = 50 €\n• Commission de 10% sur le chiffre d'affaires réalisé pendant l'événement\n• Commission appliquée UNIQUEMENT si votre CA dépasse 50 € sur la journée\n• Déclaration du CA en fin de journée (18h00) au stand organisation\n• Options électricité (3 €) et grille (2 €) disponibles si besoin\nExemples : atelier dessin manga payant (10 €/participant), cours de calligraphie payant, escape game mobile payant, initiation\nphotographie payante...\n🤝 POURQUOI CETTE POLITIQUE ?\nLa règle est simple : si le public paye pour votre activité, vous versez 10% à l'organisation (seulement si CA >\n50 €). Si votre activité est gratuite pour le public (démo, initiation, playtest, présentation...), votre participation\nest entièrement gratuite, quel que soit votre statut (club asso, studio indé, auto-entrepreneur...). Exemples : un\nstudio indé qui fait tester gratuitement son jeu = GRATUIT. Un prof de manga qui vend des cours à 10 € =\ncommission 10% si CA > 50 €.",
-      "statut": "envoye",
+      "statut": "accepte",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T10:39:34.413Z"
+      "updatedAt": "2026-03-28T10:39:45.837Z"
     },
     {
       "id": "dv-expo-1773929448927",
@@ -2572,7 +2572,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T10:39:35.919Z",
+  "_savedAt": "2026-03-28T10:39:47.342Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
