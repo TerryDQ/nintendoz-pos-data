@@ -2454,7 +2454,8 @@
     "gare": [],
     "autre": []
   },
-  "_savedAt": "2026-03-28T08:18:52.178Z",
+  "dbDemandeOccupation": [],
+  "_savedAt": "2026-03-28T08:19:23.187Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2532,7 +2533,8 @@
       "chaises": 3,
       "champignon": 20,
       "stand_japonais": 150
-    }
+    },
+    "dateMG2": "2026-10-18"
   },
   "dbFactures": [],
   "dbReglements": [],
