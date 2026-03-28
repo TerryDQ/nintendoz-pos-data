@@ -845,7 +845,21 @@
           "label": "📝 Annotations",
           "visible": true,
           "locked": false,
-          "elements": []
+          "elements": [
+            {
+              "x": -540,
+              "y": -170,
+              "w": 40,
+              "h": 40,
+              "fill": "#94a3b8",
+              "calque": "annotations",
+              "label": "Flèche",
+              "ico": "→",
+              "showDim": true,
+              "type": "rect",
+              "id": 24
+            }
+          ]
         }
       ],
       "modeEdition": "evt",
@@ -2608,7 +2622,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T12:52:15.185Z",
+  "_savedAt": "2026-03-28T12:52:37.490Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
