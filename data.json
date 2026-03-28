@@ -1945,7 +1945,7 @@
     {
       "id": "cl-expo-1773244610006",
       "nom": "Maquettes & Figurines 85",
-      "type": "autre",
+      "type": "association",
       "siret": "92891048800016",
       "email": "",
       "tel": "",
@@ -2470,7 +2470,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:35:54.602Z",
+  "_savedAt": "2026-03-28T09:36:00.841Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
