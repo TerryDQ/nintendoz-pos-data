@@ -1724,7 +1724,7 @@
       "validite": "2026-06-19",
       "type": "exposant",
       "clientId": "cl-expo-1773244610006",
-      "clientNom": "Maquette",
+      "clientNom": "Maquettes & Figurines 85",
       "clientAdresse": "27 RUE SAINTE-VERONIQUE",
       "clientCP": "85470",
       "clientVille": "Bretignolles-sur-Mer",
@@ -1744,6 +1744,13 @@
           "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
           "qte": 4,
           "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise Association",
+          "qte": 1,
+          "pu": -10,
           "tva": 20,
           "remise": 0
         }
@@ -1766,16 +1773,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 10,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 10,
-      "totalTTC": 10,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Romain Houit\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "accepte",
+      "notes": "Contact : Romain Houit\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:57:56.552Z"
+      "updatedAt": "2026-03-28T09:58:31.458Z"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -2517,7 +2524,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:58:18.256Z",
+  "_savedAt": "2026-03-28T09:58:32.966Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
