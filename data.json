@@ -727,6 +727,19 @@
               "showDim": true,
               "type": "rect",
               "id": 21
+            },
+            {
+              "x": 190,
+              "y": 230,
+              "w": 200,
+              "h": 20,
+              "fill": "#94a3b8",
+              "calque": "structure",
+              "label": "Mur",
+              "ico": "▬",
+              "showDim": true,
+              "type": "rect",
+              "id": 22
             }
           ]
         },
@@ -2598,7 +2611,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T12:51:15.186Z",
+  "_savedAt": "2026-03-28T12:51:52.828Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
