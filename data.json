@@ -429,7 +429,19 @@
           "participants": []
         }
       ],
-      "emplacements": [],
+      "emplacements": [
+        {
+          "id": 20,
+          "ref": "01",
+          "zone": "Salle",
+          "surface": "10.0m × 1.0m",
+          "equipement": "",
+          "affecte": "",
+          "statut": "disponible",
+          "fromPlan": true,
+          "elId": 13
+        }
+      ],
       "volunteers": []
     },
     "wf": {
@@ -2585,7 +2597,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T11:17:18.256Z",
+  "_savedAt": "2026-03-28T11:17:36.693Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
