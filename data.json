@@ -1780,9 +1780,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Romain Houit\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "brouillon",
+      "statut": "accepte",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:58:31.458Z"
+      "updatedAt": "2026-03-28T09:58:39.241Z"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -2524,7 +2524,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:58:32.966Z",
+  "_savedAt": "2026-03-28T09:58:40.747Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
