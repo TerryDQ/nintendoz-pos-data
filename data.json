@@ -1969,12 +1969,12 @@
     {
       "id": "cl-expo-1773929448927",
       "nom": "Grand Finale",
-      "type": "autre",
+      "type": "association",
       "siret": "",
       "email": "steward.souppaya@grandfinale.fr",
       "tel": "",
       "adresse": "",
-      "cp": "",
+      "cp": "85160",
       "ville": "Saint-Jean-de-Monts",
       "notes": "Prénom : Steward · Responsable : SOUPPAYA · Activité : Atelier Doublage"
     }
@@ -2470,7 +2470,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:37:18.255Z",
+  "_savedAt": "2026-03-28T09:37:20.465Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
