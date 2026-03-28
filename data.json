@@ -755,8 +755,8 @@
               "id": 23
             },
             {
-              "x": 1430,
-              "y": 510,
+              "x": 88360,
+              "y": 48810,
               "w": 200,
               "h": 20,
               "fill": "#94a3b8",
@@ -2635,7 +2635,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T13:07:26.575Z",
+  "_savedAt": "2026-03-28T13:07:34.040Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
