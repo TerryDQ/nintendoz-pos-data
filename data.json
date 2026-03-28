@@ -154,7 +154,7 @@
             "kbis": null,
             "dossier": null
           },
-          "statut": "inscrit",
+          "statut": "paye",
           "clientId": "cl-expo-1772994801785",
           "devisId": "dv-expo-1772994801785",
           "prenom": "Sébastien",
@@ -2693,7 +2693,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T13:18:22.618Z",
+  "_savedAt": "2026-03-28T13:18:32.199Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
