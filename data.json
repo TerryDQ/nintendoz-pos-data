@@ -1839,7 +1839,7 @@
       "num": "DEV-STAND-2026-027",
       "date": "2026-03-28",
       "validite": "2026-06-26",
-      "type": "prestation",
+      "type": "exposant",
       "clientId": "cl-expo-1774691340723",
       "clientNom": "Le vent des crêpes",
       "clientAdresse": "12 Rue Auguste Idier",
@@ -1918,9 +1918,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "brouillon",
+      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:52:26.060Z"
+      "updatedAt": "2026-03-28T09:52:37.794Z"
     }
   ],
   "dbClients": [
@@ -2500,7 +2500,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:52:27.568Z",
+  "_savedAt": "2026-03-28T09:52:39.302Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
