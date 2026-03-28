@@ -1935,7 +1935,7 @@
         {
           "nom": "🔲 Grille d'exposition — Extérieur",
           "qte": 2,
-          "pu": 0,
+          "pu": 2,
           "tva": 20,
           "remise": 0
         }
@@ -1958,16 +1958,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 11,
+      "totalHTLignes": 15,
       "totalHTServices": 0,
-      "totalHT": 11,
-      "totalTTC": 11,
+      "totalHT": 15,
+      "totalTTC": 15,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "envoye",
+      "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:57:43.856Z"
+      "updatedAt": "2026-03-28T13:17:44.437Z"
     },
     {
       "id": "dv-expo-1774691340723",
@@ -2693,7 +2693,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T13:17:22.619Z",
+  "_savedAt": "2026-03-28T13:17:45.946Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
