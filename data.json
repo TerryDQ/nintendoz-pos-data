@@ -831,23 +831,7 @@
           "label": "🪑 Tables & Stands",
           "visible": true,
           "locked": false,
-          "elements": [
-            {
-              "x": -570,
-              "y": -1820,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "01",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 13,
-              "ref": "01",
-              "fontSize": 9
-            }
-          ]
+          "elements": []
         },
         {
           "id": "exposants",
@@ -2624,7 +2608,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T12:52:09.741Z",
+  "_savedAt": "2026-03-28T12:52:13.031Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
