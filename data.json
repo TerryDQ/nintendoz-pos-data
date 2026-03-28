@@ -1837,43 +1837,61 @@
     {
       "id": "dv-expo-1774691340723",
       "num": "DEV-STAND-2026-027",
-      "titre": "Proposition de stand — Le vent des crêpes",
       "date": "2026-03-28",
       "validite": "2026-06-26",
       "type": "prestation",
       "clientId": "cl-expo-1774691340723",
+      "clientNom": "Le vent des crêpes",
+      "clientAdresse": "12 Rue Auguste Idier",
+      "clientCP": "85800",
+      "clientVille": "Saint-Gilles-Croix-de-Vie",
+      "clientEmail": "helene@leventdescrepes.fr",
+      "clientTel": "07 88 14 31 75",
+      "clientSiret": "95222909400018",
       "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Restauration · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
           "qte": 1,
           "pu": 8,
-          "tva": 0,
-          "remise": 0
-        },
-        {
-          "nom": "📍 Location stand — 🍂 Édition Aki — Minato Geek",
-          "qte": 1,
-          "pu": 8,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "⚡ Alimentation électrique (prise) — Extérieur [🌸 Haru]",
           "qte": 1,
           "pu": 3,
-          "tva": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "⚡ Alimentation électrique (prise) — Extérieur [🍂 Aki]",
           "qte": 1,
           "pu": 3,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
@@ -1885,12 +1903,10 @@
       "totalTTC": 22,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n⚠️ Vérifiez les tarifs avant validation.",
+      "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "brouillon",
-      "_expoId": 1774691340723,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-28T09:49:18.313Z"
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-28T09:50:50.642Z"
     }
   ],
   "dbClients": [
@@ -2470,7 +2486,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:50:18.255Z",
+  "_savedAt": "2026-03-28T09:50:52.149Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
