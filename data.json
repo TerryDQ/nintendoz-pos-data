@@ -1909,7 +1909,7 @@
     {
       "id": "cl-expo-1771518403900",
       "nom": "La Fabric de Graphismea",
-      "type": "autre",
+      "type": "exposant",
       "siret": "879 122 158",
       "email": "graphismea06@gmail.com",
       "tel": "0683849388",
@@ -2470,7 +2470,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:35:18.257Z",
+  "_savedAt": "2026-03-28T09:35:41.747Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
