@@ -1942,9 +1942,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "envoye",
+      "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:52:37.794Z"
+      "updatedAt": "2026-03-28T09:58:55.741Z"
     }
   ],
   "dbClients": [
@@ -2524,7 +2524,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:58:40.747Z",
+  "_savedAt": "2026-03-28T09:58:57.248Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
