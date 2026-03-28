@@ -755,7 +755,7 @@
               "id": 23
             },
             {
-              "x": 120,
+              "x": -30,
               "y": 30,
               "w": 200,
               "h": 20,
@@ -766,32 +766,6 @@
               "showDim": true,
               "type": "rect",
               "id": 25
-            },
-            {
-              "x": 230,
-              "y": -20,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 26
-            },
-            {
-              "x": -124750,
-              "y": -14320,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 27
             }
           ]
         },
@@ -901,7 +875,7 @@
           ]
         }
       ],
-      "modeEdition": "tout",
+      "modeEdition": "fixe",
       "config": {
         "scale": 20,
         "grille": 50,
@@ -2661,7 +2635,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T13:07:06.166Z",
+  "_savedAt": "2026-03-28T13:07:22.620Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
