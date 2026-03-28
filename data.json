@@ -1965,9 +1965,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T13:17:44.437Z"
+      "updatedAt": "2026-03-28T13:18:11.056Z"
     },
     {
       "id": "dv-expo-1774691340723",
@@ -2693,7 +2693,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T13:17:45.946Z",
+  "_savedAt": "2026-03-28T13:18:12.568Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
