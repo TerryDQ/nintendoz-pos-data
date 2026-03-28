@@ -1593,57 +1593,69 @@
     {
       "id": "dv-expo-1773752772664",
       "num": "DEV-STAND-2026-022",
-      "titre": "Proposition de stand — Les gourmandises de Biscottes",
       "date": "2026-03-20",
       "validite": "2026-06-18",
       "type": "prestation",
       "clientId": "cl-expo-1773752772664",
+      "clientNom": "Les gourmandises de Biscottes",
+      "clientAdresse": "350 Chemin de la Basse Fouasserie",
+      "clientCP": "85710",
+      "clientVille": "La Garnache",
+      "clientEmail": "lesgourmandisesdebiscotte@gmail.com",
+      "clientTel": "06.95.66.51.83",
+      "clientSiret": "91391008900022",
       "objet": "1 tonnelle(s) · Stand commercial · 🌿 Ext. Village · 🌸 Édition Haru · Patisserie fine · Minato Geek",
       "lignes": [
         {
           "nom": "📍 Location emplacement stand — Tonnelle 3×3 m · Extérieur — Minato Geek",
           "qte": 1,
           "pu": 15,
-          "tva": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "🪑 Table 120 cm — Extérieur",
           "qte": 3,
-          "pu": 10,
-          "tva": 0,
+          "pu": 0,
+          "tva": 20,
           "remise": 0
         },
         {
           "nom": "⛺ Tonnelle 3×3 m — Extérieur ✓ inclus dans le forfait",
           "qte": 1,
           "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "_note": "Inclus"
+          "tva": 20,
+          "remise": 0
         }
       ],
-      "services": {},
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
       "remiseGlobale": 0,
       "fraisGestion": 0,
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 45,
+      "totalHTLignes": 15,
       "totalHTServices": 0,
-      "totalHT": 45,
-      "totalTTC": 45,
+      "totalHT": 15,
+      "totalTTC": 15,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "accepte",
-      "_expoId": 1773752772664,
-      "_expoCtx": "mg",
-      "createdBy": "auto",
-      "updatedAt": "2026-03-28T09:42:28.144Z",
-      "datePaiement": "2026-03-23",
-      "modePaiement": "Virement",
-      "refPaiement": ""
+      "statut": "envoye",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-28T09:43:08.270Z"
     },
     {
       "id": "dv-expo-1773244610006",
@@ -2329,7 +2341,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:42:29.649Z",
+  "_savedAt": "2026-03-28T09:43:09.778Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
