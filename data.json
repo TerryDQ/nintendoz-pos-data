@@ -173,7 +173,7 @@
           "type": "asso",
           "zone": "interieur-marie",
           "edition": "haru",
-          "surface": "",
+          "surface": "12",
           "email": "",
           "tel": "",
           "montant": 10,
@@ -1798,7 +1798,7 @@
       "validite": "2026-06-19",
       "type": "exposant",
       "clientId": "cl-expo-1773244610006",
-      "clientNom": "Maquettes & Figurines 85",
+      "clientNom": "Maquettes et Figurines 85",
       "clientAdresse": "27 RUE SAINTE-VERONIQUE",
       "clientCP": "85470",
       "clientVille": "Bretignolles-sur-Mer",
@@ -2060,7 +2060,7 @@
     },
     {
       "id": "cl-expo-1773244610006",
-      "nom": "Maquettes & Figurines 85",
+      "nom": "Maquettes et Figurines 85",
       "type": "association",
       "siret": "92891048800016",
       "email": "",
@@ -2598,7 +2598,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T11:21:18.257Z",
+  "_savedAt": "2026-03-28T11:21:23.456Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2894,6 +2894,12 @@
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
+    {
+      "ts": "2026-03-28T11:21:21.954Z",
+      "action": "Exposant",
+      "detail": "MG — \"Maquettes et Figurines 85\" ajouté/modifié",
+      "who": "Bureau"
+    },
     {
       "ts": "2026-03-28T09:49:00.744Z",
       "action": "Exposant",
