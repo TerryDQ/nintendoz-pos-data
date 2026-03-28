@@ -429,7 +429,17 @@
           "participants": []
         }
       ],
-      "emplacements": [],
+      "emplacements": [
+        {
+          "id": 1774696450843,
+          "ref": "fo01",
+          "zone": "village",
+          "surf": "",
+          "equip": "elec",
+          "affecte": "Le Vent des Crêpes",
+          "statut": "reserve"
+        }
+      ],
       "volunteers": []
     },
     "wf": {
@@ -2572,7 +2582,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T11:13:18.257Z",
+  "_savedAt": "2026-03-28T11:14:18.256Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
