@@ -1933,7 +1933,7 @@
     {
       "id": "cl-expo-1772994801785",
       "nom": "ANA Gravure Laser",
-      "type": "autre",
+      "type": "exposant",
       "siret": "",
       "email": "anagravurelaser@gmail.com",
       "tel": "06 71 06 36 81",
@@ -2470,7 +2470,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-28T09:36:00.841Z",
+  "_savedAt": "2026-03-28T09:36:14.881Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
