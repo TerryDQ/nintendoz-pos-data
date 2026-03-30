@@ -1894,11 +1894,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Romain Houit\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "facture",
+      "statut": "accepte",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:58:39.241Z",
-      "factureId": 1774864458584,
-      "factureNum": "FAC-2026-0001"
+      "updatedAt": "2026-03-28T09:58:39.241Z"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -1972,7 +1970,7 @@
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T13:18:11.056Z"
+      "updatedAt": "2026-03-30T09:59:05.005Z"
     },
     {
       "id": "dv-expo-1774691340723",
@@ -2344,7 +2342,364 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-30T09:58:59.175Z",
+  "dbScanSorties": [],
+  "dbKobans": [
+    {
+      "wizId": "WIZ0001",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0010",
+      "solde": 10,
+      "historique": [
+        {
+          "date": "2026-03-26T18:11:49.596Z",
+          "type": "credit",
+          "montant": 10,
+          "motif": "Nouvelle adhésion",
+          "ctx": "bureau"
+        }
+      ],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0011",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0055",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0200",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0204",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0301",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0302",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0305",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0306",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0307",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0308",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0309",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0310",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0311",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0601",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0602",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0603",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0604",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0606",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0701",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0702",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0703",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0704",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0901",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1002",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1005",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1199",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    }
+  ],
+  "dbTaskboard": {
+    "mg": [],
+    "wf": [],
+    "gare": [],
+    "autre": []
+  },
+  "dbAffichage": {
+    "mg": [
+      {
+        "id": "aff-1774606693779-b9z0b",
+        "ctx": "mg",
+        "titre": "Centre Socio-culturel Saint-Gilles-Croix-de-Vie",
+        "type": "flyer",
+        "adresse": "35 Rue du Maréchal Leclerc de Hautecloque, 85800 Saint-Gilles-Croix-de-Vie",
+        "date": "2026-03-26",
+        "note": "Vu avec le secrétariat, le responsable de l'espace jeunes et la vice présidente)",
+        "qte": 10,
+        "photo": null,
+        "createdAt": "2026-03-27T10:18:13.779Z"
+      }
+    ],
+    "wf": [],
+    "gare": [],
+    "autre": []
+  },
+  "dbDemandeOccupation": [],
+  "_savedAt": "2026-03-30T09:59:06.523Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2377,20 +2732,6 @@
     "clauseRetard": "Pas d'escompte pour règlement anticipé. En cas de retard de paiement, une pénalité égale à 12% sera exigible (Article L 441-6, alinéa 12 du Code de Commerce). Pour tout professionnel, en sus des indemnités de retard, toute somme, y compris l'acompte, non payée à sa date d'exigibilité produira de plein droit le paiement d'une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem).",
     "tvaDefaut": false,
     "tvaTaux": 20,
-    "fraisGestionMG": false,
-    "fraisGestionWF": false,
-    "fraisGestionAutre": true,
-    "expoTarifs": {
-      "table120": 10,
-      "table150": 12,
-      "elec": 15,
-      "tonnelle": 25,
-      "grilles": 5,
-      "paperboard": 8,
-      "chaises": 3,
-      "champignon": 20,
-      "stand_japonais": 150
-    },
     "kobanTaux": 1,
     "kobanNom": "金 Koban",
     "kobanSymbol": "🪙",
@@ -2423,59 +2764,23 @@
         "prix": 20
       }
     ],
+    "fraisGestionMG": false,
+    "fraisGestionWF": false,
+    "fraisGestionAutre": true,
+    "expoTarifs": {
+      "table120": 10,
+      "table150": 12,
+      "elec": 15,
+      "tonnelle": 25,
+      "grilles": 5,
+      "paperboard": 8,
+      "chaises": 3,
+      "champignon": 20,
+      "stand_japonais": 150
+    },
     "dateMG2": "2026-10-18"
   },
-  "dbFactures": [
-    {
-      "id": 1774864458584,
-      "num": "FAC-2026-0001",
-      "devisId": "dv-expo-1773244610006",
-      "devisNum": "DEV-STAND-2026-024",
-      "clientId": "cl-expo-1773244610006",
-      "clientNom": "Maquettes et Figurines 85",
-      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
-      "clientCP": "85470",
-      "clientVille": "Bretignolles-sur-Mer",
-      "clientEmail": "",
-      "clientTel": "",
-      "clientSiret": "92891048800016",
-      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
-          "qte": 1,
-          "pu": 10,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
-          "qte": 4,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Remise Association",
-          "qte": 1,
-          "pu": -10,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "totalHT": 0,
-      "tauxTVA": 20,
-      "totalTVA": 0,
-      "totalTTC": 0,
-      "dateEmission": "2026-03-30",
-      "dateEcheance": "2026-04-29",
-      "statut": "emise",
-      "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "",
-      "createdAt": "2026-03-30T09:54:18.584Z"
-    }
-  ],
+  "dbFactures": [],
   "dbReglements": [],
   "dbFournisseurs": [
     {
