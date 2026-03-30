@@ -2126,6 +2126,114 @@
       "refPaiement": ""
     }
   ],
+  "dbFactures": [
+    {
+      "id": 1774864458584,
+      "num": "FAC-2026-0001",
+      "devisId": "dv-expo-1773244610006",
+      "devisNum": "DEV-STAND-2026-024",
+      "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquettes et Figurines 85",
+      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
+      "clientCP": "85470",
+      "clientVille": "Bretignolles-sur-Mer",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "92891048800016",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise Association",
+          "qte": 1,
+          "pu": -10,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-03-30",
+      "dateEcheance": "2026-04-29",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "",
+      "createdAt": "2026-03-30T09:54:18.584Z"
+    },
+    {
+      "id": 1774887637028,
+      "num": "FAC-2026-0002",
+      "devisId": "dv-expo-1772994801785",
+      "devisNum": "DEV-STAND-2026-026",
+      "clientId": "cl-expo-1772994801785",
+      "clientNom": "ANA Gravure Laser",
+      "clientAdresse": "36 rue des Bergeronettes",
+      "clientCP": "40160",
+      "clientVille": "Gastes",
+      "clientEmail": "anagravurelaser@gmail.com",
+      "clientTel": "06 71 06 36 81",
+      "clientSiret": "",
+      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-03-30",
+      "dateEcheance": "2026-04-29",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 15,
+      "notes": "",
+      "createdAt": "2026-03-30T16:20:37.028Z"
+    }
+  ],
+  "dbReglements": [],
   "dbClients": [
     {
       "id": "cl-expo-1771518403900",
@@ -2702,54 +2810,7 @@
     "gare": [],
     "autre": []
   },
-  "dbDemandeOccupation": [
-    {
-      "id": 1774888113982,
-      "evt": "mg",
-      "statut": "accepte",
-      "dateDepot": null,
-      "data": {
-        "org_nom": "Fabien CHASTAGNIER",
-        "org_repr": "Nintend'Oz-Event",
-        "org_adresse": "35 Rue du Maréchal Leclerc de Hautecloque — 85800 — Saint-Gilles-Croix-de-Vie",
-        "org_tel": "06 98 25 21 59",
-        "org_email": "contact@nintendoz-event.com",
-        "secu_nom": "",
-        "secu_tel": "",
-        "evt_nature": "Culturel",
-        "evt_nom": "Minato Geek",
-        "evt_date": "2026-04-12",
-        "evt_lieu": "Salle Marie de Beaucaire — Saint-Gilles-Croix-de-Vie",
-        "evt_hdebut": "08:00",
-        "evt_hfin": "20:00",
-        "public_total": "200",
-        "public_instant": "200",
-        "public_statique": false,
-        "public_deambulant": true,
-        "acces_public": "moins1h",
-        "assurance": "oui",
-        "install": "oui",
-        "install_detail": "10 Tonelles, Tables, Mange-debout, 1 Food Truck de Crêpe & galette",
-        "danger": "non",
-        "buvette": "oui",
-        "eclaire": "non",
-        "pcs": "non",
-        "barrieres": "non",
-        "agents": "non",
-        "benev_secu": "oui",
-        "parking": "non",
-        "circ": "non",
-        "circ_notes": "",
-        "portee_locale": false,
-        "portee_departementale": false,
-        "portee_regionale": false,
-        "portee_nationale": false,
-        "portee_internationale": false,
-        "comm_moyens": "Distribution de flyers et affiches dans les centres socio-culturels du Pays-de-Saint-Gilles, dans les boulangeries, les tabacs, médiathèques, salle de pause du collèges et lycée",
-        "comm_site": "https://www.instagram.com/nintendoz85/"
-      }
-    }
-  ],
+  "dbDemandeOccupation": [],
   "NWO_CONFIG": {
     "nom": "Nintend'Oz-Event",
     "forme": "Association déclarée",
@@ -2828,7 +2889,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-03-30T16:42:19.225Z",
+  "_savedAt": "2026-03-30T16:43:50.678Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2909,114 +2970,6 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "dbFactures": [
-    {
-      "id": 1774864458584,
-      "num": "FAC-2026-0001",
-      "devisId": "dv-expo-1773244610006",
-      "devisNum": "DEV-STAND-2026-024",
-      "clientId": "cl-expo-1773244610006",
-      "clientNom": "Maquettes et Figurines 85",
-      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
-      "clientCP": "85470",
-      "clientVille": "Bretignolles-sur-Mer",
-      "clientEmail": "",
-      "clientTel": "",
-      "clientSiret": "92891048800016",
-      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
-          "qte": 1,
-          "pu": 10,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
-          "qte": 4,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "Remise Association",
-          "qte": 1,
-          "pu": -10,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "totalHT": 0,
-      "tauxTVA": 20,
-      "totalTVA": 0,
-      "totalTTC": 0,
-      "dateEmission": "2026-03-30",
-      "dateEcheance": "2026-04-29",
-      "statut": "emise",
-      "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "",
-      "createdAt": "2026-03-30T09:54:18.584Z"
-    },
-    {
-      "id": 1774887637028,
-      "num": "FAC-2026-0002",
-      "devisId": "dv-expo-1772994801785",
-      "devisNum": "DEV-STAND-2026-026",
-      "clientId": "cl-expo-1772994801785",
-      "clientNom": "ANA Gravure Laser",
-      "clientAdresse": "36 rue des Bergeronettes",
-      "clientCP": "40160",
-      "clientVille": "Gastes",
-      "clientEmail": "anagravurelaser@gmail.com",
-      "clientTel": "06 71 06 36 81",
-      "clientSiret": "",
-      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
-      "lignes": [
-        {
-          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
-          "qte": 1,
-          "pu": 8,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🪑 Table 120 cm — Extérieur",
-          "qte": 4,
-          "pu": 0,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
-          "qte": 1,
-          "pu": 3,
-          "tva": 20,
-          "remise": 0
-        },
-        {
-          "nom": "🔲 Grille d'exposition — Extérieur",
-          "qte": 2,
-          "pu": 2,
-          "tva": 20,
-          "remise": 0
-        }
-      ],
-      "totalHT": 15,
-      "tauxTVA": 20,
-      "totalTVA": 0,
-      "totalTTC": 15,
-      "dateEmission": "2026-03-30",
-      "dateEcheance": "2026-04-29",
-      "statut": "emise",
-      "montantRegle": 0,
-      "soldeRestant": 15,
-      "notes": "",
-      "createdAt": "2026-03-30T16:20:37.028Z"
-    }
-  ],
-  "dbReglements": [],
   "dbFournisseurs": [
     {
       "id": 1,
