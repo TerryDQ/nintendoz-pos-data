@@ -1970,7 +1970,7 @@
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-30T09:59:05.005Z"
+      "updatedAt": "2026-03-30T10:17:39.885Z"
     },
     {
       "id": "dv-expo-1774691340723",
@@ -2699,7 +2699,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-30T10:10:07.266Z",
+  "_savedAt": "2026-03-30T10:17:41.402Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
