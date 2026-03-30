@@ -2828,7 +2828,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-03-30T16:32:17.234Z",
+  "_savedAt": "2026-03-30T16:32:53.246Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -3052,7 +3052,7 @@
       "createdAt": "2026-03-30T16:19:44.608Z",
       "nom": "Centre Socioculturel La P'tite Gare",
       "forme": "Association",
-      "cat": "location",
+      "cat": "autre",
       "adresse": "Centre Socioculturel — La P'tite Gare",
       "ville": "85800 Saint-Gilles-Croix-de-Vie",
       "tel": "02 51 26 92 29",
@@ -3126,7 +3126,13 @@
           "qteStock": 1,
           "unite": "u"
         }
-      ]
+      ],
+      "siret": "31079185000160",
+      "tva": "FR19310791850",
+      "iban": "",
+      "bic": "",
+      "banque": "",
+      "updatedAt": "2026-03-30T16:32:51.736Z"
     }
   ],
   "dbPrestations": [],
