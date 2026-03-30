@@ -2706,7 +2706,7 @@
     {
       "id": 1774888113982,
       "evt": "mg",
-      "statut": "brouillon",
+      "statut": "accepte",
       "dateDepot": null,
       "data": {
         "org_nom": "Fabien CHASTAGNIER",
@@ -2828,7 +2828,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-03-30T16:28:36.964Z",
+  "_savedAt": "2026-03-30T16:28:50.179Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
