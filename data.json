@@ -1972,7 +1972,7 @@
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-30T16:20:37.023Z",
+      "updatedAt": "2026-03-30T17:12:08.393Z",
       "factureId": 1774887637028,
       "factureNum": "FAC-2026-0002"
     },
@@ -3202,7 +3202,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-03-30T17:12:01.450Z",
+  "_savedAt": "2026-03-30T17:12:09.914Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
