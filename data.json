@@ -1520,7 +1520,7 @@
       "paiementModal": "virement",
       "notes": "Horaire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-21T10:18:09.324Z"
+      "updatedAt": "2026-03-30T10:20:16.678Z"
     },
     {
       "id": "dv-expo-1771518403900",
@@ -2699,7 +2699,7 @@
     "autre": []
   },
   "dbDemandeOccupation": [],
-  "_savedAt": "2026-03-30T10:19:51.564Z",
+  "_savedAt": "2026-03-30T10:20:18.199Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
