@@ -1037,9 +1037,9 @@
     }
   ],
   "subvStatutsFixed": {
-    "sgcv": "vote_attente",
-    "shdr": "vote_attente",
-    "fenouiller": "vote_attente"
+    "sgcv": "non_recu",
+    "shdr": "non_recu",
+    "fenouiller": "non_recu"
   },
   "subvNotes": {},
   "dbAgrements": [],
@@ -2344,7 +2344,7 @@
       "desc": "Frais de transport matériel"
     }
   ],
-  "_savedAt": "2026-03-31T08:35:57.893Z",
+  "_savedAt": "2026-04-01T16:55:39.054Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
