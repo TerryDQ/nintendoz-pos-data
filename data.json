@@ -2773,7 +2773,318 @@
     }
   ],
   "dbScanSorties": [],
-  "dbKobans": [],
+  "dbKobans": [
+    {
+      "wizId": "WIZ0010",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0011",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0055",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0200",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0204",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0301",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0302",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0305",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0306",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0307",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0308",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0309",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0310",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0311",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0601",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0602",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0603",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0604",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0606",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0701",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0702",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0703",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0704",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0901",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1002",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1005",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1199",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    }
+  ],
   "dbTaskboard": {
     "mg": [],
     "wf": [],
@@ -2865,7 +3176,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-02T14:35:16.420Z",
+  "_savedAt": "2026-04-02T14:40:12.165Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
