@@ -1667,138 +1667,7 @@
       ]
     }
   ],
-  "dbFormationProgress": {
-    "WIZ0010": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0011": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0055": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0200": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0201": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0202": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0204": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0301": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0302": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0305": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0306": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0307": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0308": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0309": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0310": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0311": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0601": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0602": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0603": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0604": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0606": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0702": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0901": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1002": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1005": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1199": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    }
-  },
+  "dbFormationProgress": {},
   "dbUsers": [
     {
       "id": "erwan-thomas",
@@ -3128,20 +2997,6 @@
     "clauseRetard": "Pas d'escompte pour règlement anticipé. En cas de retard de paiement, une pénalité égale à 12% sera exigible (Article L 441-6, alinéa 12 du Code de Commerce). Pour tout professionnel, en sus des indemnités de retard, toute somme, y compris l'acompte, non payée à sa date d'exigibilité produira de plein droit le paiement d'une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem).",
     "tvaDefaut": false,
     "tvaTaux": 20,
-    "fraisGestionMG": false,
-    "fraisGestionWF": false,
-    "fraisGestionAutre": true,
-    "expoTarifs": {
-      "table120": 10,
-      "table150": 12,
-      "elec": 15,
-      "tonnelle": 25,
-      "grilles": 5,
-      "paperboard": 8,
-      "chaises": 3,
-      "champignon": 20,
-      "stand_japonais": 150
-    },
     "kobanTaux": 1,
     "kobanNom": "金 Koban",
     "kobanSymbol": "🪙",
@@ -3174,9 +3029,23 @@
         "prix": 20
       }
     ],
+    "fraisGestionMG": false,
+    "fraisGestionWF": false,
+    "fraisGestionAutre": true,
+    "expoTarifs": {
+      "table120": 10,
+      "table150": 12,
+      "elec": 15,
+      "tonnelle": 25,
+      "grilles": 5,
+      "paperboard": 8,
+      "chaises": 3,
+      "champignon": 20,
+      "stand_japonais": 150
+    },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-02T14:40:12.165Z",
+  "_savedAt": "2026-04-02T17:04:56.889Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -3209,20 +3078,6 @@
     "clauseRetard": "Pas d'escompte pour règlement anticipé. En cas de retard de paiement, une pénalité égale à 12% sera exigible (Article L 441-6, alinéa 12 du Code de Commerce). Pour tout professionnel, en sus des indemnités de retard, toute somme, y compris l'acompte, non payée à sa date d'exigibilité produira de plein droit le paiement d'une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem).",
     "tvaDefaut": false,
     "tvaTaux": 20,
-    "fraisGestionMG": false,
-    "fraisGestionWF": false,
-    "fraisGestionAutre": true,
-    "expoTarifs": {
-      "table120": 10,
-      "table150": 12,
-      "elec": 15,
-      "tonnelle": 25,
-      "grilles": 5,
-      "paperboard": 8,
-      "chaises": 3,
-      "champignon": 20,
-      "stand_japonais": 150
-    },
     "kobanTaux": 1,
     "kobanNom": "金 Koban",
     "kobanSymbol": "🪙",
@@ -3255,6 +3110,20 @@
         "prix": 20
       }
     ],
+    "fraisGestionMG": false,
+    "fraisGestionWF": false,
+    "fraisGestionAutre": true,
+    "expoTarifs": {
+      "table120": 10,
+      "table150": 12,
+      "elec": 15,
+      "tonnelle": 25,
+      "grilles": 5,
+      "paperboard": 8,
+      "chaises": 3,
+      "champignon": 20,
+      "stand_japonais": 150
+    },
     "dateMG2": "2026-10-18"
   },
   "dbFournisseurs": [
