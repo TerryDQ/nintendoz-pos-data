@@ -2217,7 +2217,9 @@
       "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T13:18:11.056Z"
+      "updatedAt": "2026-04-02T17:05:10.258Z",
+      "factureId": 1775149510264,
+      "factureNum": "FAC-2026-0002"
     },
     {
       "id": "dv-expo-1774691340723",
@@ -2418,6 +2420,62 @@
       "soldeRestant": 0,
       "notes": "",
       "createdAt": "2026-03-30T09:54:18.584Z"
+    },
+    {
+      "id": 1775149510264,
+      "num": "FAC-2026-0002",
+      "devisId": "dv-expo-1772994801785",
+      "devisNum": "DEV-STAND-2026-026",
+      "clientId": "cl-expo-1772994801785",
+      "clientNom": "ANA Gravure Laser",
+      "clientAdresse": "36 rue des Bergeronettes",
+      "clientCP": "40160",
+      "clientVille": "Gastes",
+      "clientEmail": "anagravurelaser@gmail.com",
+      "clientTel": "06 71 06 36 81",
+      "clientSiret": "",
+      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-04-02",
+      "dateEcheance": "2026-05-02",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 15,
+      "notes": "",
+      "createdAt": "2026-04-02T17:05:10.265Z"
     }
   ],
   "dbReglements": [],
@@ -3045,7 +3103,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-02T17:04:56.889Z",
+  "_savedAt": "2026-04-02T17:05:11.771Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
