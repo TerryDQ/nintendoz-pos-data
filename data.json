@@ -1667,7 +1667,138 @@
       ]
     }
   ],
-  "dbFormationProgress": {},
+  "dbFormationProgress": {
+    "WIZ0010": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0011": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0055": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0200": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0201": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0202": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0204": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0301": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0302": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0305": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0306": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0307": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0308": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0309": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0310": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0311": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0601": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0602": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0603": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0604": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0606": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0702": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ0901": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ1002": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ1005": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    },
+    "WIZ1199": {
+      "parcours-benevole": {
+        "modules": {}
+      }
+    }
+  },
   "dbUsers": [
     {
       "id": "erwan-thomas",
@@ -3103,7 +3234,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-03T15:00:47.237Z",
+  "_savedAt": "2026-04-03T15:01:47.236Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
