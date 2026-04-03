@@ -1667,138 +1667,7 @@
       ]
     }
   ],
-  "dbFormationProgress": {
-    "WIZ0010": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0011": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0055": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0200": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0201": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0202": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0204": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0301": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0302": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0305": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0306": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0307": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0308": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0309": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0310": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0311": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0601": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0602": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0603": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0604": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0606": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0702": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ0901": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1002": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1005": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    },
-    "WIZ1199": {
-      "parcours-benevole": {
-        "modules": {}
-      }
-    }
-  },
+  "dbFormationProgress": {},
   "dbUsers": [
     {
       "id": "erwan-thomas",
@@ -3155,6 +3024,116 @@
     "gare": [],
     "autre": []
   },
+  "dbRallyConfig": {
+    "grilleTaille": 8,
+    "lots": [
+      {
+        "id": "lot1",
+        "nom": "Bon achat / Goodies 5-10 EUR",
+        "grilles": 1,
+        "valeur": 8,
+        "type": "bon_achat",
+        "icone": "🎫",
+        "actif": true
+      },
+      {
+        "id": "lot2",
+        "nom": "Bon achat / Goodies ~30 EUR",
+        "grilles": 3,
+        "valeur": 24,
+        "type": "goodies",
+        "icone": "🎁",
+        "actif": true
+      },
+      {
+        "id": "lot3",
+        "nom": "Goodies premium / Expérience",
+        "grilles": 5,
+        "valeur": 40,
+        "type": "premium",
+        "icone": "⭐",
+        "actif": true
+      },
+      {
+        "id": "lot4",
+        "nom": "Voyage au Japon 🇯🇵",
+        "grilles": 0,
+        "valeur": 2500,
+        "type": "special",
+        "icone": "✈️",
+        "actif": true,
+        "tamponsRequis": 2500
+      }
+    ],
+    "sources": [
+      {
+        "id": "src1",
+        "nom": "Activité (Geek House)",
+        "valeur": 1,
+        "type": "activite",
+        "ctx": "gh",
+        "icone": "🎮"
+      },
+      {
+        "id": "src2",
+        "nom": "Activité (Minato Geek)",
+        "valeur": 1,
+        "type": "activite",
+        "ctx": "mg",
+        "icone": "🌸"
+      },
+      {
+        "id": "src3",
+        "nom": "Activité (Wizard Furusato)",
+        "valeur": 1,
+        "type": "activite",
+        "ctx": "wf",
+        "icone": "🎋"
+      },
+      {
+        "id": "src4",
+        "nom": "Événement Minato Geek Haru",
+        "valeur": 1,
+        "type": "evenement",
+        "ctx": "mg",
+        "icone": "🌸"
+      },
+      {
+        "id": "src5",
+        "nom": "Événement Minato Geek Aki",
+        "valeur": 1,
+        "type": "evenement",
+        "ctx": "mg",
+        "icone": "🍂"
+      },
+      {
+        "id": "src6",
+        "nom": "Événement Wizard Furusato",
+        "valeur": 1,
+        "type": "evenement",
+        "ctx": "wf",
+        "icone": "🎋"
+      },
+      {
+        "id": "src7",
+        "nom": "Atelier La P'tite Gare",
+        "valeur": 1,
+        "type": "activite",
+        "ctx": "gare",
+        "icone": "🏠"
+      },
+      {
+        "id": "src8",
+        "nom": "Autre activité partenaire",
+        "valeur": 1,
+        "type": "activite",
+        "ctx": "all",
+        "icone": "🎯"
+      }
+    ]
+  },
+  "dbRallyTampons": [],
+  "dbRallyLots": [],
   "dbDemandeOccupation": [],
   "NWO_CONFIG": {
     "nom": "Nintend'Oz-Event",
@@ -3234,7 +3213,7 @@
     },
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-03T15:08:49.231Z",
+  "_savedAt": "2026-04-03T15:10:04.455Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
