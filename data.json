@@ -328,7 +328,7 @@
             "haru": 8,
             "aki": 8
           },
-          "paiement": "en_attente",
+          "paiement": "solde",
           "contrepartie": "Repas équipe organisation",
           "valeurService": 0,
           "ftRepas": {
@@ -364,7 +364,10 @@
           },
           "statut": "paye",
           "clientId": "cl-expo-1774691340723",
-          "devisId": "dv-expo-1774691340723"
+          "devisId": "dv-expo-1774691340723",
+          "datePaiement": "2026-04-10",
+          "modePaiement": "Virement",
+          "refPaiement": ""
         }
       ],
       "anims": [
@@ -2504,11 +2507,14 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n⚠️ Vérifiez les tarifs avant validation.",
-      "statut": "brouillon",
+      "statut": "paye",
       "_expoId": 1774691340723,
       "_expoCtx": "mg",
       "createdBy": "auto",
-      "updatedAt": "2026-04-15T15:23:03.332Z"
+      "updatedAt": "2026-04-15T15:23:03.332Z",
+      "datePaiement": "2026-04-10",
+      "modePaiement": "Virement",
+      "refPaiement": ""
     }
   ],
   "dbFactures": [
@@ -3298,7 +3304,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T15:23:35.530Z",
+  "_savedAt": "2026-04-15T15:23:53.324Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
