@@ -646,8 +646,50 @@
   },
   "dbBudgets": {
     "mg": {
-      "recettes": [],
-      "depenses": []
+      "recettes": [
+        {
+          "id": "bill-haru2026",
+          "label": "Billetterie entrées Haru 2026 — 49 adultes × 2€ + 14 enfants (gratuit)",
+          "montant": 98,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": "49 adultes (2€) + 14 enfants (0€) = 63 visiteurs · 12 avril 2026"
+        },
+        {
+          "id": "buv-haru2026",
+          "label": "Buvette Haru 2026",
+          "montant": 11,
+          "cat": "buvette",
+          "statut": "encaisse",
+          "notes": "12 avril 2026"
+        },
+        {
+          "id": "jv-haru2026",
+          "label": "Vente jeu vidéo occasion Haru 2026",
+          "montant": 14,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": "Vente JV occasion · 12 avril 2026"
+        }
+      ],
+      "depenses": [
+        {
+          "id": "dessin-haru2026",
+          "label": "Cours de dessin Haru 2026 — perte encaissement carte",
+          "montant": 30,
+          "cat": "animation",
+          "statut": "reel",
+          "notes": "Perte -30€ non encaissé correctement par carte · 12 avril 2026"
+        },
+        {
+          "id": "tonelle-haru2026",
+          "label": "Location tonelles — La P'tite Gare",
+          "montant": 45,
+          "cat": "logistique",
+          "statut": "reel",
+          "notes": "Payé en espèces sur la recette du jour · 12 avril 2026 · La P'tite Gare"
+        }
+      ]
     },
     "wf": {
       "recettes": [],
@@ -2402,7 +2444,318 @@
     }
   ],
   "dbScanSorties": [],
-  "dbKobans": [],
+  "dbKobans": [
+    {
+      "wizId": "WIZ0010",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0011",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0055",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0200",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0204",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0301",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0302",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0305",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0306",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0307",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0308",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0309",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0310",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0311",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0601",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0602",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0603",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0604",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0606",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0701",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0702",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0703",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0704",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ0901",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1002",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1005",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1199",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1201",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    },
+    {
+      "wizId": "WIZ1202",
+      "solde": 0,
+      "historique": [],
+      "controleParental": {
+        "actif": false,
+        "plafondJour": 0,
+        "blocage": false
+      }
+    }
+  ],
   "dbTaskboard": {
     "mg": [],
     "wf": [],
@@ -2525,6 +2878,7 @@
   },
   "dbRallyTampons": [],
   "dbRallyLots": [],
+  "dbBilans": [],
   "dbDemandeOccupation": [],
   "NWO_CONFIG": {
     "nom": "Nintend'Oz-Event",
@@ -2604,7 +2958,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T07:47:38.348Z",
+  "_savedAt": "2026-04-15T07:50:05.061Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -2975,7 +3329,6 @@
     "ght-": []
   },
   "dbAntennes": [],
-  "dbBilans": [],
   "dbInventaire": [],
   "dbSorties": [],
   "dbAudit": [
