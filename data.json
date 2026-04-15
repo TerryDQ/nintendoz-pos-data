@@ -670,16 +670,6 @@
           "note": "",
           "adherents": 0,
           "visiteurs": 0
-        },
-        {
-          "id": 1776265644177,
-          "date": "2026-04-18",
-          "statut": "ferme",
-          "raison": "festival",
-          "raisonLabel": "Festival / Événement",
-          "note": "JapaNantes",
-          "adherents": 0,
-          "visiteurs": 0
         }
       ]
     }
@@ -851,45 +841,6 @@
               "showDim": true,
               "type": "rect",
               "id": 25
-            },
-            {
-              "x": -20,
-              "y": 30,
-              "w": 200,
-              "h": 20,
-              "fill": "#94a3b8",
-              "calque": "structure",
-              "label": "Mur",
-              "ico": "▬",
-              "showDim": true,
-              "type": "rect",
-              "id": 26
-            },
-            {
-              "x": 75,
-              "y": 75,
-              "w": 30,
-              "h": 30,
-              "fill": "#64748b",
-              "calque": "structure",
-              "label": "Pilier",
-              "ico": "⬛",
-              "showDim": true,
-              "type": "rect",
-              "id": 27
-            },
-            {
-              "x": 120,
-              "y": 5,
-              "w": 300,
-              "h": 150,
-              "fill": "#78716c",
-              "calque": "structure",
-              "label": "Scène / Estrade",
-              "ico": "🎭",
-              "showDim": true,
-              "type": "rect",
-              "id": 28
             }
           ]
         },
@@ -3061,7 +3012,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T15:13:35.529Z",
+  "_savedAt": "2026-04-15T15:14:33.950Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
