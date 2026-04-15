@@ -670,6 +670,16 @@
           "note": "",
           "adherents": 0,
           "visiteurs": 0
+        },
+        {
+          "id": 1776265644177,
+          "date": "2026-04-18",
+          "statut": "ferme",
+          "raison": "festival",
+          "raisonLabel": "Festival / Événement",
+          "note": "JapaNantes",
+          "adherents": 0,
+          "visiteurs": 0
         }
       ]
     }
@@ -3051,7 +3061,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T15:06:35.530Z",
+  "_savedAt": "2026-04-15T15:07:25.679Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
