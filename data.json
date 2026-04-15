@@ -1479,6 +1479,12 @@
         "livret-gh",
         "support-mg"
       ]
+    },
+    {
+      "id": "maëlis-1776252222879",
+      "nom": "Maëlis",
+      "pin": "2026",
+      "docs": []
     }
   ],
   "dbDevis": [
@@ -2958,7 +2964,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T11:22:12.220Z",
+  "_savedAt": "2026-04-15T11:24:02.258Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
