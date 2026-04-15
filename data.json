@@ -650,6 +650,16 @@
           "note": "",
           "adherents": 0,
           "visiteurs": 0
+        },
+        {
+          "id": 1776253217764,
+          "date": "2026-04-08",
+          "statut": "ferme",
+          "raison": "aucune_resa",
+          "raisonLabel": "Aucune réservation",
+          "note": "",
+          "adherents": 0,
+          "visiteurs": 0
         }
       ]
     }
@@ -2992,7 +3002,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-15T11:39:42.094Z",
+  "_savedAt": "2026-04-15T11:40:17.780Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
