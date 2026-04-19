@@ -442,16 +442,7 @@
       "exposants": [],
       "anims": [],
       "volunteers": [],
-      "encaissements": [
-        {
-          "id": "1776599052692ijaa2",
-          "cat": "divers",
-          "desc": "",
-          "moyen": "CB",
-          "montant": 0,
-          "note": ""
-        }
-      ]
+      "encaissements": []
     },
     "gh": {
       "adherents": [
@@ -3384,7 +3375,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T11:44:14.205Z",
+  "_savedAt": "2026-04-19T11:44:50.557Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
