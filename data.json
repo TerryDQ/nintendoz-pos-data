@@ -691,14 +691,6 @@
     "mg": {
       "recettes": [
         {
-          "id": "bill-haru2026",
-          "label": "Billetterie entrées Haru 2026 — 49 adultes × 2€ + 14 enfants (gratuit)",
-          "montant": 98,
-          "cat": "billetterie",
-          "statut": "encaisse",
-          "notes": "49 adultes (2€) + 14 enfants (0€) = 63 visiteurs · 12 avril 2026"
-        },
-        {
           "id": "buv-haru2026",
           "label": "Buvette Haru 2026",
           "montant": 11,
@@ -707,12 +699,12 @@
           "notes": "12 avril 2026"
         },
         {
-          "id": "jv-haru2026",
-          "label": "Vente jeu vidéo occasion Haru 2026",
-          "montant": 14,
+          "id": "bill-1776598561379",
+          "label": "Billetterie entrées — 49 adultes × 2€ + 14 enfants (gratuit)",
+          "montant": 98,
           "cat": "billetterie",
           "statut": "encaisse",
-          "notes": "Vente JV occasion · 12 avril 2026"
+          "notes": "49 adultes (2€) + 14 enfants (0€) = 63 visiteurs"
         }
       ],
       "depenses": [
@@ -3311,7 +3303,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T11:35:47.805Z",
+  "_savedAt": "2026-04-19T11:36:02.888Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
