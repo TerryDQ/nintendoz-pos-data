@@ -754,16 +754,7 @@
           "notes": ""
         }
       ],
-      "depenses": [
-        {
-          "id": 1776604416217,
-          "label": "Impression numérique Bureau Vallée",
-          "montant": 41.11,
-          "cat": "communication",
-          "statut": "encaisse",
-          "notes": "Facture n°I01170100012449"
-        }
-      ]
+      "depenses": []
     }
   },
   "dbPostes": {
@@ -3410,7 +3401,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T13:13:51.567Z",
+  "_savedAt": "2026-04-19T13:14:41.554Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
