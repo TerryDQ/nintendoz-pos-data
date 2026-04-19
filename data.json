@@ -2203,9 +2203,11 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-03-28T09:58:55.741Z"
+      "updatedAt": "2026-04-19T11:39:18.068Z",
+      "factureId": 1776598758073,
+      "factureNum": "FAC-2026-0002"
     },
     {
       "id": "dv-expo-1772994801785",
@@ -2558,6 +2560,76 @@
       "soldeRestant": 0,
       "notes": "",
       "createdAt": "2026-03-30T09:54:18.584Z"
+    },
+    {
+      "id": 1776598758073,
+      "num": "FAC-2026-0002",
+      "devisId": "dv-expo-1774691340723",
+      "devisNum": "DEV-STAND-2026-027",
+      "clientId": "cl-expo-1774691340723",
+      "clientNom": "Le vent des crêpes",
+      "clientAdresse": "12 Rue Auguste Idier",
+      "clientCP": "85800",
+      "clientVille": "Saint-Gilles-Croix-de-Vie",
+      "clientEmail": "helene@leventdescrepes.fr",
+      "clientTel": "07 88 14 31 75",
+      "clientSiret": "95222909400018",
+      "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Restauration · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🌸 Haru]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🍂 Aki]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 22,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 22,
+      "dateEmission": "2026-04-19",
+      "dateEcheance": "2026-05-19",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 22,
+      "notes": "",
+      "createdAt": "2026-04-19T11:39:18.073Z"
     }
   ],
   "dbReglements": [],
@@ -3303,7 +3375,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T11:38:47.812Z",
+  "_savedAt": "2026-04-19T11:39:19.587Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
