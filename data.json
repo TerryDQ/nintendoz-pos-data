@@ -3225,6 +3225,13 @@
   "dbRallyTampons": [],
   "dbRallyLots": [],
   "dbBilans": [],
+  "dbLinksCustom": {
+    "mg": [],
+    "wf": [],
+    "gare": [],
+    "gh": [],
+    "autre": []
+  },
   "dbDemandeOccupation": [],
   "NWO_CONFIG": {
     "nom": "Nintend'Oz-Event",
@@ -3304,7 +3311,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T10:20:01.562Z",
+  "_savedAt": "2026-04-19T10:20:29.567Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
