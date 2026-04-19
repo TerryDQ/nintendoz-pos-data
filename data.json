@@ -762,14 +762,6 @@
           "cat": "communication",
           "statut": "encaisse",
           "notes": "Facture n°I01170100012449"
-        },
-        {
-          "id": 1776604520074,
-          "label": "Specacle Fantasia - DuoTaku",
-          "montant": 800,
-          "cat": "animation",
-          "statut": "encaisse",
-          "notes": "Devis N°55"
         }
       ]
     }
@@ -3418,7 +3410,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T13:15:51.566Z",
+  "_savedAt": "2026-04-19T13:16:07.564Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
