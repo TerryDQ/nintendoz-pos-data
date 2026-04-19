@@ -762,46 +762,6 @@
           "cat": "communication",
           "statut": "encaisse",
           "notes": "Facture n°I01170100012449"
-        },
-        {
-          "id": 1776604520074,
-          "label": "Specacle Fantasia - DuoTaku",
-          "montant": 800,
-          "cat": "animation",
-          "statut": "encaisse",
-          "notes": "Devis N°55"
-        },
-        {
-          "id": 1776604613962,
-          "label": "Consomation péage - Janvier Rachelle",
-          "montant": 67.89,
-          "cat": "logistique",
-          "statut": "encaisse",
-          "notes": "LL02399690"
-        },
-        {
-          "id": 1776604704473,
-          "label": "Impression illustration Bureau Vallée",
-          "montant": 32.9,
-          "cat": "communication",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776604787421,
-          "label": "Fourniture papier",
-          "montant": 160,
-          "cat": "materiel",
-          "statut": "encaisse",
-          "notes": "Achat action - Jenny"
-        },
-        {
-          "id": 1776604858525,
-          "label": "Transport Jenny",
-          "montant": 40,
-          "cat": "logistique",
-          "statut": "encaisse",
-          "notes": "Essence"
         }
       ]
     }
@@ -3450,7 +3410,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T13:21:51.556Z",
+  "_savedAt": "2026-04-19T13:22:07.562Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
