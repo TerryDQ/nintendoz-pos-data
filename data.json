@@ -762,22 +762,6 @@
           "cat": "communication",
           "statut": "encaisse",
           "notes": "Facture n°I01170100012449"
-        },
-        {
-          "id": 1776604520074,
-          "label": "Specacle Fantasia - DuoTaku",
-          "montant": 800,
-          "cat": "animation",
-          "statut": "encaisse",
-          "notes": "Devis N°55"
-        },
-        {
-          "id": 1776604613962,
-          "label": "Consomation péage - Janvier Rachelle",
-          "montant": 67.89,
-          "cat": "logistique",
-          "statut": "encaisse",
-          "notes": "LL02399690"
         }
       ]
     }
@@ -3426,7 +3410,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T13:17:51.361Z",
+  "_savedAt": "2026-04-19T13:18:07.566Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
