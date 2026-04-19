@@ -754,7 +754,16 @@
           "notes": ""
         }
       ],
-      "depenses": []
+      "depenses": [
+        {
+          "id": "credit-wf2025",
+          "label": "Crédit Wizard Furusato 2025 — remboursement mensuel",
+          "montant": 171.43,
+          "cat": "autre",
+          "statut": "reel",
+          "notes": "Crédit 6000€ sur 35 mois (10/04/2025→10/03/2028) · Restant dû : 3927.25€ · Prochaine échéance : 10/05/2026 · Mensualité : 171.43€"
+        }
+      ]
     }
   },
   "dbPostes": {
@@ -3401,7 +3410,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T17:41:39.807Z",
+  "_savedAt": "2026-04-19T17:41:44.806Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
