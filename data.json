@@ -752,106 +752,9 @@
           "cat": "billetterie",
           "statut": "encaisse",
           "notes": ""
-        },
-        {
-          "id": 1776605007491,
-          "label": "Stand épicerie Asiatique",
-          "montant": 280,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776605050406,
-          "label": "Fyrials Art",
-          "montant": 45,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776605082253,
-          "label": "Isile et Mascha",
-          "montant": 150,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776605135279,
-          "label": "Japan Vibes",
-          "montant": 105,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776605201039,
-          "label": "Kaliart.illustration",
-          "montant": 45,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776605278637,
-          "label": "Kotokrodil",
-          "montant": 80,
-          "cat": "emplacement",
-          "statut": "encaisse",
-          "notes": ""
         }
       ],
-      "depenses": [
-        {
-          "id": 1776604416217,
-          "label": "Impression numérique Bureau Vallée",
-          "montant": 41.11,
-          "cat": "communication",
-          "statut": "encaisse",
-          "notes": "Facture n°I01170100012449"
-        },
-        {
-          "id": 1776604520074,
-          "label": "Specacle Fantasia - DuoTaku",
-          "montant": 800,
-          "cat": "animation",
-          "statut": "encaisse",
-          "notes": "Devis N°55"
-        },
-        {
-          "id": 1776604613962,
-          "label": "Consomation péage - Janvier Rachelle",
-          "montant": 67.89,
-          "cat": "logistique",
-          "statut": "encaisse",
-          "notes": "LL02399690"
-        },
-        {
-          "id": 1776604704473,
-          "label": "Impression illustration Bureau Vallée",
-          "montant": 32.9,
-          "cat": "communication",
-          "statut": "encaisse",
-          "notes": ""
-        },
-        {
-          "id": 1776604787421,
-          "label": "Fourniture papier",
-          "montant": 160,
-          "cat": "materiel",
-          "statut": "encaisse",
-          "notes": "Achat action - Jenny"
-        },
-        {
-          "id": 1776604858525,
-          "label": "Transport Jenny",
-          "montant": 40,
-          "cat": "logistique",
-          "statut": "encaisse",
-          "notes": "Essence"
-        }
-      ]
+      "depenses": []
     }
   },
   "dbPostes": {
@@ -3498,7 +3401,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T13:59:09.568Z",
+  "_savedAt": "2026-04-19T13:59:41.557Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
