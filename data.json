@@ -442,7 +442,16 @@
       "exposants": [],
       "anims": [],
       "volunteers": [],
-      "encaissements": []
+      "encaissements": [
+        {
+          "id": "1776599052692ijaa2",
+          "cat": "divers",
+          "desc": "",
+          "moyen": "CB",
+          "montant": 0,
+          "note": ""
+        }
+      ]
     },
     "gh": {
       "adherents": [
@@ -727,7 +736,24 @@
       ]
     },
     "wf": {
-      "recettes": [],
+      "recettes": [
+        {
+          "id": 1776599110264,
+          "label": "Billeterie du samedi 3 janvier 2026",
+          "montant": 448,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": ""
+        },
+        {
+          "id": 1776599131311,
+          "label": "Billeterie du dimanche  4 janvier 2026",
+          "montant": 287,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": ""
+        }
+      ],
       "depenses": []
     }
   },
@@ -3375,7 +3401,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T12:03:08.565Z",
+  "_savedAt": "2026-04-19T12:03:15.566Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
