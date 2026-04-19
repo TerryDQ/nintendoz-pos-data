@@ -39,7 +39,7 @@
               "paperboard": 0
             }
           },
-          "statut": "confirme",
+          "statut": "annule",
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
@@ -3311,7 +3311,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T11:34:50.627Z",
+  "_savedAt": "2026-04-19T11:35:07.895Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
