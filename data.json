@@ -301,7 +301,7 @@
             "kbis": null,
             "dossier": null
           },
-          "statut": "inscrit",
+          "statut": "annule",
           "clientId": "cl-expo-1773929448927",
           "devisId": "dv-expo-1773929448927"
         },
@@ -3311,7 +3311,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-19T11:34:47.809Z",
+  "_savedAt": "2026-04-19T11:34:50.627Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
