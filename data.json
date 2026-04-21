@@ -53,8 +53,7 @@
           "adresse": "27 rue Hervé de Mareuil",
           "cp": "85320",
           "ville": "Mareuil-sur-Lay-Dissais",
-          "option_stand": "option1",
-          "present": true
+          "option_stand": "option1"
         },
         {
           "id": 1772789306607,
@@ -3411,7 +3410,7 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-21T12:58:04.162Z",
+  "_savedAt": "2026-04-21T12:58:06.707Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
