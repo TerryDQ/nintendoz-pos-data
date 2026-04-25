@@ -3526,9 +3526,6 @@
     "dateMG2": "2026-10-18"
   },
   "dbFrequentation": {
-    "2025-2026": {
-      "events": []
-    },
     "mg": {
       "ps": 0,
       "pd": 0,
@@ -3543,9 +3540,12 @@
     },
     "gh": {
       "total": 0
+    },
+    "2025-2026": {
+      "events": []
     }
   },
-  "_savedAt": "2026-04-25T18:09:28.989Z",
+  "_savedAt": "2026-04-25T18:09:48.971Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
