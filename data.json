@@ -3412,7 +3412,24 @@
     ],
     "dateMG2": "2026-10-18"
   },
-  "_savedAt": "2026-04-25T15:32:40.965Z",
+  "dbFrequentation": {
+    "mg": {
+      "ps": 0,
+      "pd": 0,
+      "os": 0,
+      "od": 0,
+      "jauge": 500
+    },
+    "wf": {
+      "s": 0,
+      "d": 0,
+      "jauge": 300
+    },
+    "gh": {
+      "total": 0
+    }
+  },
+  "_savedAt": "2026-04-25T15:34:30.969Z",
   "_version": 3,
   "dvUsersExtra": [],
   "nwoConfig": {
@@ -3804,22 +3821,5 @@
       "detail": "MG — \"Le vent des crêpes\" ajouté/modifié",
       "who": "Bureau"
     }
-  ],
-  "dbFrequentation": {
-    "mg": {
-      "ps": 0,
-      "pd": 0,
-      "os": 0,
-      "od": 0,
-      "jauge": 500
-    },
-    "wf": {
-      "s": 0,
-      "d": 0,
-      "jauge": 300
-    },
-    "gh": {
-      "total": 0
-    }
-  }
+  ]
 }
