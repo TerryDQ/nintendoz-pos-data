@@ -225,8 +225,12 @@
     "tvaDefaut": false,
     "tvaTaux": 20
   },
-  "dbFrequentation": {},
-  "_savedAt": "2026-04-29T15:11:18.113Z",
+  "dbFrequentation": {
+    "2025-2026": {
+      "events": []
+    }
+  },
+  "_savedAt": "2026-04-29T15:19:39.826Z",
   "_version": 3,
   "dvUsersExtra": []
 }
