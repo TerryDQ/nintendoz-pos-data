@@ -129,7 +129,13 @@
   "agrementsNotes": "",
   "dbCR": {
     "sessions": [],
-    "pin": "2025"
+    "pin": "2025",
+    "membres": [],
+    "permissions": [],
+    "taches": [],
+    "litiges": [],
+    "evtSections": {},
+    "config": {}
   },
   "dbACL": {
     "profiles": [
@@ -164,9 +170,15 @@
   "dbAffichage": [],
   "dbRallyConfig": {
     "tailleGrille": 5,
+    "grilleSize": 5,
+    "sources": [],
+    "lots": [],
+    "regions": [],
     "autreConfig": {}
   },
-  "dbRallyTampons": {},
+  "dbRallyTampons": {
+    "length": 0
+  },
   "dbRallyLots": [],
   "dbBilans": [],
   "dbLinksCustom": [],
@@ -214,7 +226,7 @@
     "tvaTaux": 20
   },
   "dbFrequentation": {},
-  "_savedAt": "2026-04-29T14:46:14.918Z",
+  "_savedAt": "2026-04-29T15:03:09.217Z",
   "_version": 3,
   "dvUsersExtra": []
 }
