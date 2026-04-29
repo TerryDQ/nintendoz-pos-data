@@ -646,12 +646,63 @@
   },
   "dbBudgets": {
     "mg": {
-      "recettes": [],
-      "depenses": []
+      "recettes": [
+        {
+          "id": "bill-haru2026",
+          "label": "Billetterie entrées Haru 2026 — 49 adultes × 2€ + 14 enfants (gratuit)",
+          "montant": 98,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": "49 adultes (2€) + 14 enfants (0€) = 63 visiteurs · 12 avril 2026"
+        },
+        {
+          "id": "buv-haru2026",
+          "label": "Buvette Haru 2026",
+          "montant": 11,
+          "cat": "buvette",
+          "statut": "encaisse",
+          "notes": "12 avril 2026"
+        },
+        {
+          "id": "jv-haru2026",
+          "label": "Vente jeu vidéo occasion Haru 2026",
+          "montant": 14,
+          "cat": "billetterie",
+          "statut": "encaisse",
+          "notes": "Vente JV occasion · 12 avril 2026"
+        }
+      ],
+      "depenses": [
+        {
+          "id": "dessin-haru2026",
+          "label": "Cours de dessin Haru 2026 — perte encaissement carte",
+          "montant": 30,
+          "cat": "animation",
+          "statut": "reel",
+          "notes": "Perte -30€ non encaissé correctement par carte · 12 avril 2026"
+        },
+        {
+          "id": "tonelle-haru2026",
+          "label": "Location tonelles — La P'tite Gare",
+          "montant": 45,
+          "cat": "logistique",
+          "statut": "reel",
+          "notes": "Payé en espèces sur la recette du jour · 12 avril 2026 · La P'tite Gare"
+        }
+      ]
     },
     "wf": {
       "recettes": [],
-      "depenses": []
+      "depenses": [
+        {
+          "id": "credit-wf2025",
+          "label": "Crédit Wizard Furusato 2025 — remboursement mensuel",
+          "montant": 171.43,
+          "cat": "autre",
+          "statut": "reel",
+          "notes": "Crédit 6000€ sur 35 mois (10/04/2025→10/03/2028) · Restant dû : 3927.25€ · Prochaine échéance : 10/05/2026 · Mensualité : 171.43€"
+        }
+      ]
     },
     "gh": {
       "recettes": [],
@@ -695,17 +746,17 @@
     "zones": [],
     "options": [],
     "tarifs": [],
-    "table_ext": "—",
     "table_int": "10",
+    "tonnelle_ext": "15",
+    "stand_nu_ext": "8",
+    "stand_nu_int": "5",
+    "table_ext": "—",
     "table150_ext": "—",
     "table150_int": "-",
-    "stand_nu_ext": "8",
-    "tonnelle_ext": "15",
     "grille_ext": "2",
     "grille_int": "2",
     "elec_ext": "3",
-    "elec_int": "3",
-    "stand_nu_int": "5"
+    "elec_int": "3"
   },
   "wfTarifs": {
     "tarifs": [],
@@ -730,11 +781,14 @@
       "montant": 2000,
       "accorde": 0,
       "financeur": "Saint-Gilles-Croix-de-Vie",
-      "statut": "attente_virement",
+      "statut": "recu",
       "dateDepot": "2025-11-29",
       "dateReponse": "2025-12-01",
       "resp": "Fabien",
-      "notes": ""
+      "notes": "",
+      "montantFinal": 1000,
+      "dateReception": "2026-04-02",
+      "notesReception": "Reçu avec du retard et 1000 € de mois sur la demande initiale"
     },
     {
       "id": 1771592966440,
@@ -2216,7 +2270,9 @@
     "autreConfig": {},
     "grilleTaille": 8
   },
-  "dbRallyTampons": {},
+  "dbRallyTampons": {
+    "length": 0
+  },
   "dbRallyLots": [],
   "dbBilans": [],
   "dbLinksCustom": [],
@@ -2422,6 +2478,9 @@
     "dateMG2": "2026-10-18"
   },
   "dbFrequentation": {
+    "2025-2026": {
+      "events": []
+    },
     "mg": {
       "ps": 0,
       "pd": 0,
@@ -2438,7 +2497,7 @@
       "total": 0
     }
   },
-  "_savedAt": "2026-04-29T18:12:05.903Z",
+  "_savedAt": "2026-04-29T18:31:33.445Z",
   "_version": 3,
   "dvUsersExtra": []
 }
