@@ -53,7 +53,8 @@
           "adresse": "27 rue Hervé de Mareuil",
           "cp": "85320",
           "ville": "Mareuil-sur-Lay-Dissais",
-          "option_stand": "option1"
+          "option_stand": "option1",
+          "annee": "2025-2026"
         },
         {
           "id": 1772789306607,
@@ -122,7 +123,8 @@
               "option_stand": "option2",
               "montant": 30
             }
-          ]
+          ],
+          "annee": "2025-2026"
         },
         {
           "id": 1772994801785,
@@ -168,7 +170,8 @@
           "option_stand": "option3",
           "datePaiement": "2026-03-23",
           "modePaiement": "Virement",
-          "refPaiement": ""
+          "refPaiement": "",
+          "annee": "2025-2026"
         },
         {
           "id": 1773244610006,
@@ -212,7 +215,8 @@
           "cp": "85470",
           "ville": "Bretignolles-sur-Mer",
           "option_stand": "option1",
-          "zonesExtra": []
+          "zonesExtra": [],
+          "annee": "2025-2026"
         },
         {
           "id": 1773752772664,
@@ -259,7 +263,8 @@
           "devisId": "dv-expo-1773752772664",
           "datePaiement": "2026-03-23",
           "modePaiement": "Virement",
-          "refPaiement": ""
+          "refPaiement": "",
+          "annee": "2025-2026"
         },
         {
           "id": 1773929448927,
@@ -303,7 +308,8 @@
           },
           "statut": "inscrit",
           "clientId": "cl-expo-1773929448927",
-          "devisId": "dv-expo-1773929448927"
+          "devisId": "dv-expo-1773929448927",
+          "annee": "2025-2026"
         },
         {
           "id": 1774691340723,
@@ -364,7 +370,8 @@
           },
           "statut": "inscrit",
           "clientId": "cl-expo-1774691340723",
-          "devisId": "dv-expo-1774691340723"
+          "devisId": "dv-expo-1774691340723",
+          "annee": "2025-2026"
         }
       ],
       "anims": [
@@ -1705,7 +1712,7 @@
       "total": 0
     }
   },
-  "_savedAt": "2026-05-01T09:22:06.488Z",
+  "_savedAt": "2026-05-01T09:23:22.915Z",
   "_version": 3,
   "dvUsersExtra": []
 }
