@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-02T13:55:57.791Z",
+  "_savedAt": "2026-05-02T14:08:06.317Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -811,32 +811,35 @@
       "id": 1771592867992,
       "nom": "Subvention",
       "type": "communale",
-      "annee": "",
+      "annee": "2026",
       "montant": 2000,
-      "accorde": 0,
+      "accorde": 1000,
       "financeur": "Saint-Gilles-Croix-de-Vie",
       "statut": "recu",
       "dateDepot": "2025-11-29",
-      "dateReponse": "2025-12-01",
+      "dateReponse": "2026-03-03",
       "resp": "Fabien",
       "notes": "",
       "montantFinal": 1000,
       "dateReception": "2026-04-02",
-      "notesReception": "ReÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§u avec du retard et 1000 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¬ de mois sur la demande initiale"
+      "notesReception": ""
     },
     {
       "id": 1771592966440,
       "nom": "Subvention communale",
       "type": "communale",
       "annee": "2025",
-      "montant": 1999,
-      "accorde": 0,
+      "montant": 2000,
+      "accorde": 700,
       "financeur": "Saint-Hilaire-de-Riez",
-      "statut": "attente_virement",
+      "statut": "recu_partiel",
       "dateDepot": "2025-11-29",
       "dateReponse": "2025-12-01",
       "resp": "Fabien",
-      "notes": ""
+      "notes": "",
+      "montantFinal": 350,
+      "dateReception": "2026-04-28",
+      "notesReception": ""
     }
   ],
   "subvStatutsFixed": {
