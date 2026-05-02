@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-02T11:47:02.801Z",
+  "_savedAt": "2026-05-02T11:56:10.286Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -19,8 +19,8 @@
             "haru": 0,
             "aki": 0
           },
-          "paiement": "en_attente",
-          "notes": "",
+          "paiement": "annule",
+          "notes": "Annulé : Problème de santé",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
@@ -42,7 +42,7 @@
               "paperboard": 0
             }
           },
-          "statut": "confirme",
+          "statut": "annule",
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
@@ -304,11 +304,11 @@
           "email": "steward.souppaya@grandfinale.fr",
           "tel": "",
           "montant": 0,
-          "paiement": "en_attente",
+          "paiement": "annule",
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
-          "notes": "",
+          "notes": "Annulé : Aucune raison",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
@@ -324,7 +324,7 @@
             "kbis": null,
             "dossier": null
           },
-          "statut": "inscrit",
+          "statut": "annule",
           "clientId": "cl-expo-1773929448927",
           "devisId": "dv-expo-1773929448927",
           "annee": "2025-2026",
@@ -355,14 +355,14 @@
             "haru": 8,
             "aki": 8
           },
-          "paiement": "en_attente",
+          "paiement": "solde",
           "contrepartie": "Repas ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©quipe organisation",
           "valeurService": 0,
           "ftRepas": {
             "jours": {},
             "beneficiaires": []
           },
-          "notes": "Besoin : \n1500 kw",
+          "notes": "Besoin : \n1500 kw\nPaiement Soldé : 15,00 € le 2026-05-02",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
