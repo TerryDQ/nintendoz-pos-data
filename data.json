@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-02T09:36:32.824Z",
+  "_savedAt": "2026-05-02T09:48:49.075Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -48,12 +48,12 @@
           "ftRepas": null,
           "clientId": "cl-expo-1771518403900",
           "devisId": "dv-expo-1771518403900",
-          "prenom": "LÃ©a",
+          "prenom": "LÃÂ©a",
           "nomContact": "Bouvier",
-          "activite": "CrÃ©ateur",
+          "activite": "CrÃÂ©ateur",
           "siret": "879 122 158",
           "web": "",
-          "adresse": "27 rue HervÃ© de Mareuil",
+          "adresse": "27 rue HervÃÂ© de Mareuil",
           "cp": "85320",
           "ville": "Mareuil-sur-Lay-Dissais",
           "option_stand": "option1",
@@ -102,7 +102,7 @@
             "dossier": null
           },
           "statut": "confirme",
-          "contrepartie": "RÃ©alisation affiche Minato du Printemps",
+          "contrepartie": "RÃÂ©alisation affiche Minato du Printemps",
           "valeurService": 0,
           "ftRepas": null,
           "zones": [
@@ -162,7 +162,7 @@
           "statut": "paye",
           "clientId": "cl-expo-1772994801785",
           "devisId": "dv-expo-1772994801785",
-          "prenom": "SÃ©bastien",
+          "prenom": "SÃÂ©bastien",
           "nomContact": "RITARD",
           "activite": "Gravure laser",
           "siret": "",
@@ -211,7 +211,7 @@
           "devisId": "dv-expo-1773244610006",
           "prenom": "Romain",
           "nomContact": "Houit",
-          "activite": "Encourager, favoriser, faciliter, vulgariser, dÃ©velopper l'Ã©tude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner Ã  la peinture sur figurines",
+          "activite": "Encourager, favoriser, faciliter, vulgariser, dÃÂ©velopper l'ÃÂ©tude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner ÃÂ  la peinture sur figurines",
           "siret": "92891048800016",
           "web": "",
           "adresse": "27 RUE SAINTE-VERONIQUE",
@@ -224,7 +224,7 @@
         {
           "id": 1773752772664,
           "nom": "Les gourmandises de Biscottes",
-          "prenom": "MaÃ«va",
+          "prenom": "MaÃÂ«va",
           "nomContact": "SAGEAT",
           "activite": "Patisserie fine",
           "siret": "91391008900022",
@@ -245,7 +245,7 @@
           "contrepartie": "",
           "valeurService": 0,
           "ftRepas": null,
-          "notes": "Eclairage Ã  prÃ©voir en cas de jour \"sombre\" .",
+          "notes": "Eclairage ÃÂ  prÃÂ©voir en cas de jour \"sombre\" .",
           "accessibilite": "aucun",
           "besoins": "",
           "materiel": {
@@ -316,8 +316,8 @@
         },
         {
           "id": 1774691340723,
-          "nom": "Le vent des crÃªpes",
-          "prenom": "HÃ©lÃ¨ne",
+          "nom": "Le vent des crÃÂªpes",
+          "prenom": "HÃÂ©lÃÂ¨ne",
           "nomContact": "DALIGAULT",
           "activite": "Restauration",
           "siret": "95222909400018",
@@ -338,7 +338,7 @@
             "aki": 8
           },
           "paiement": "en_attente",
-          "contrepartie": "Repas Ã©quipe organisation",
+          "contrepartie": "Repas ÃÂ©quipe organisation",
           "valeurService": 0,
           "ftRepas": {
             "jours": {},
@@ -422,7 +422,7 @@
         },
         {
           "id": 1774610458662,
-          "nom": "ArchÃ©ologie PokÃ©mon",
+          "nom": "ArchÃÂ©ologie PokÃÂ©mon",
           "cat": "atelier",
           "espace": "village",
           "public": "tout",
@@ -486,8 +486,8 @@
         {
           "id": 1774605799411,
           "wizId": "WIZ0055",
-          "nom": "VilvandrÃ©",
-          "prenom": "NoÃ©",
+          "nom": "VilvandrÃÂ©",
+          "prenom": "NoÃÂ©",
           "email": "",
           "tel": "",
           "sexe": "M",
@@ -502,7 +502,7 @@
           "id": 1774605833424,
           "wizId": "WIZ0200",
           "nom": "Pouclet",
-          "prenom": "RaphaÃ«l",
+          "prenom": "RaphaÃÂ«l",
           "email": "",
           "tel": "",
           "sexe": "M",
@@ -586,7 +586,7 @@
           "date": "2026-02-21",
           "statut": "ferme",
           "raison": "aucune_resa",
-          "raisonLabel": "Aucune rÃ©servation",
+          "raisonLabel": "Aucune rÃÂ©servation",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -596,7 +596,7 @@
           "date": "2026-02-25",
           "statut": "ferme",
           "raison": "aucune_resa",
-          "raisonLabel": "Aucune rÃ©servation",
+          "raisonLabel": "Aucune rÃÂ©servation",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -606,7 +606,7 @@
           "date": "2026-03-04",
           "statut": "ferme",
           "raison": "aucune_resa",
-          "raisonLabel": "Aucune rÃ©servation",
+          "raisonLabel": "Aucune rÃÂ©servation",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -616,7 +616,7 @@
           "date": "2026-03-07",
           "statut": "ferme",
           "raison": "indispo",
-          "raisonLabel": "Pas de disponibilitÃ©",
+          "raisonLabel": "Pas de disponibilitÃÂ©",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -626,7 +626,7 @@
           "date": "2026-03-11",
           "statut": "ferme",
           "raison": "aucune_resa",
-          "raisonLabel": "Aucune rÃ©servation",
+          "raisonLabel": "Aucune rÃÂ©servation",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -639,14 +639,14 @@
           "horaire": "14:30-16:30",
           "adherents": 4,
           "visiteurs": 0,
-          "note": "Formation Esport Brawl Star (PremiÃ¨re sÃ©ance 2026)"
+          "note": "Formation Esport Brawl Star (PremiÃÂ¨re sÃÂ©ance 2026)"
         },
         {
           "id": 1774467303400,
           "date": "2026-03-25",
           "statut": "ferme",
           "raison": "aucune_resa",
-          "raisonLabel": "Aucune rÃ©servation",
+          "raisonLabel": "Aucune rÃÂ©servation",
           "note": "",
           "adherents": 0,
           "visiteurs": 0
@@ -659,11 +659,11 @@
       "recettes": [
         {
           "id": "bill-haru2026",
-          "label": "Billetterie entrÃ©es Haru 2026 â 49 adultes Ã 2â¬ + 14 enfants (gratuit)",
+          "label": "Billetterie entrÃÂ©es Haru 2026 Ã¢ÂÂ 49 adultes ÃÂ 2Ã¢ÂÂ¬ + 14 enfants (gratuit)",
           "montant": 98,
           "cat": "billetterie",
           "statut": "encaisse",
-          "notes": "49 adultes (2â¬) + 14 enfants (0â¬) = 63 visiteurs Â· 12 avril 2026"
+          "notes": "49 adultes (2Ã¢ÂÂ¬) + 14 enfants (0Ã¢ÂÂ¬) = 63 visiteurs ÃÂ· 12 avril 2026"
         },
         {
           "id": "buv-haru2026",
@@ -675,29 +675,29 @@
         },
         {
           "id": "jv-haru2026",
-          "label": "Vente jeu vidÃ©o occasion Haru 2026",
+          "label": "Vente jeu vidÃÂ©o occasion Haru 2026",
           "montant": 14,
           "cat": "billetterie",
           "statut": "encaisse",
-          "notes": "Vente JV occasion Â· 12 avril 2026"
+          "notes": "Vente JV occasion ÃÂ· 12 avril 2026"
         }
       ],
       "depenses": [
         {
           "id": "dessin-haru2026",
-          "label": "Cours de dessin Haru 2026 â perte encaissement carte",
+          "label": "Cours de dessin Haru 2026 Ã¢ÂÂ perte encaissement carte",
           "montant": 30,
           "cat": "animation",
           "statut": "reel",
-          "notes": "Perte -30â¬ non encaissÃ© correctement par carte Â· 12 avril 2026"
+          "notes": "Perte -30Ã¢ÂÂ¬ non encaissÃÂ© correctement par carte ÃÂ· 12 avril 2026"
         },
         {
           "id": "tonelle-haru2026",
-          "label": "Location tonelles â La P'tite Gare",
+          "label": "Location tonelles Ã¢ÂÂ La P'tite Gare",
           "montant": 45,
           "cat": "logistique",
           "statut": "reel",
-          "notes": "PayÃ© en espÃ¨ces sur la recette du jour Â· 12 avril 2026 Â· La P'tite Gare"
+          "notes": "PayÃÂ© en espÃÂ¨ces sur la recette du jour ÃÂ· 12 avril 2026 ÃÂ· La P'tite Gare"
         }
       ]
     },
@@ -706,11 +706,11 @@
       "depenses": [
         {
           "id": "credit-wf2025",
-          "label": "CrÃ©dit Wizard Furusato 2025 â remboursement mensuel",
+          "label": "CrÃÂ©dit Wizard Furusato 2025 Ã¢ÂÂ remboursement mensuel",
           "montant": 171.43,
           "cat": "autre",
           "statut": "reel",
-          "notes": "CrÃ©dit 6000â¬ sur 35 mois (10/04/2025â10/03/2028) Â· Restant dÃ» : 3927.25â¬ Â· Prochaine Ã©chÃ©ance : 10/05/2026 Â· MensualitÃ© : 171.43â¬"
+          "notes": "CrÃÂ©dit 6000Ã¢ÂÂ¬ sur 35 mois (10/04/2025Ã¢ÂÂ10/03/2028) ÃÂ· Restant dÃÂ» : 3927.25Ã¢ÂÂ¬ ÃÂ· Prochaine ÃÂ©chÃÂ©ance : 10/05/2026 ÃÂ· MensualitÃÂ© : 171.43Ã¢ÂÂ¬"
         }
       ]
     }
@@ -732,7 +732,7 @@
     {
       "id": 1772108925261,
       "nom": "CHASTAGNIER Fabien",
-      "ref": "ClÃ© principal",
+      "ref": "ClÃÂ© principal",
       "date": "2024-12-01",
       "role": "bureau",
       "contact": "06 98 25 21 59 / fabien_chastagnier@yahoo.fr",
@@ -763,8 +763,8 @@
     "tonnelle_ext": "15",
     "stand_nu_ext": "8",
     "stand_nu_int": "5",
-    "table_ext": "â",
-    "table150_ext": "â",
+    "table_ext": "Ã¢ÂÂ",
+    "table150_ext": "Ã¢ÂÂ",
     "table150_int": "-",
     "grille_ext": "2",
     "grille_int": "2",
@@ -773,8 +773,8 @@
   },
   "wfTarifs": {
     "tarifs": [],
-    "champignon": "â",
-    "elec": "â"
+    "champignon": "Ã¢ÂÂ",
+    "elec": "Ã¢ÂÂ"
   },
   "dbCommManuels": [
     {
@@ -801,7 +801,7 @@
       "notes": "",
       "montantFinal": 1000,
       "dateReception": "2026-04-02",
-      "notesReception": "ReÃ§u avec du retard et 1000 â¬ de mois sur la demande initiale"
+      "notesReception": "ReÃÂ§u avec du retard et 1000 Ã¢ÂÂ¬ de mois sur la demande initiale"
     },
     {
       "id": 1771592966440,
@@ -836,7 +836,7 @@
         "id": "cr-1",
         "nom": "",
         "prenom": "",
-        "role": "RÃ©fÃ©rent CR",
+        "role": "RÃÂ©fÃÂ©rent CR",
         "email": "",
         "tel": "",
         "actif": true
@@ -845,8 +845,8 @@
     "taches": [
       {
         "id": "t-cr-1",
-        "titre": "Suivi litige 2-Lives â Mobilier Cougar",
-        "detail": "Suivre le dossier juridique concernant le mobilier gaming Cougar mis Ã  la benne en mai 2025. Nintend'Oz n'a pas encore rÃ©glÃ© la prestation Ã  100% en raison de l'absence de paiement de Julien Balanan Sonorisation (DJ) durant le DJ Summer Tour â La BarbÃ¢tre 2024.",
+        "titre": "Suivi litige 2-Lives Ã¢ÂÂ Mobilier Cougar",
+        "detail": "Suivre le dossier juridique concernant le mobilier gaming Cougar mis ÃÂ  la benne en mai 2025. Nintend'Oz n'a pas encore rÃÂ©glÃÂ© la prestation ÃÂ  100% en raison de l'absence de paiement de Julien Balanan Sonorisation (DJ) durant le DJ Summer Tour Ã¢ÂÂ La BarbÃÂ¢tre 2024.",
         "statut": "en_cours",
         "priorite": "haute",
         "assigneA": "",
@@ -862,24 +862,24 @@
     "litiges": [
       {
         "id": "lit-1",
-        "titre": "2-Lives â Mobilier Gaming Cougar",
+        "titre": "2-Lives Ã¢ÂÂ Mobilier Gaming Cougar",
         "type": "prestation_impayee",
         "statut": "en_cours",
         "priorite": "haute",
         "dateOuverture": "2025-05-01",
-        "description": "Mobilier gaming Cougar (chaises, bureaux) mis Ã  la benne en mai 2025 lors d'un Ã©vÃ©nement 2-Lives. Prestation non payÃ©e Ã  100% par Nintend'Oz en raison du dÃ©faut de paiement de Julien Balanan Sonorisation (DJ) pour la prestation DJ Summer Tour â La BarbÃ¢tre 2024.",
+        "description": "Mobilier gaming Cougar (chaises, bureaux) mis ÃÂ  la benne en mai 2025 lors d'un ÃÂ©vÃÂ©nement 2-Lives. Prestation non payÃÂ©e ÃÂ  100% par Nintend'Oz en raison du dÃÂ©faut de paiement de Julien Balanan Sonorisation (DJ) pour la prestation DJ Summer Tour Ã¢ÂÂ La BarbÃÂ¢tre 2024.",
         "parties": [
           {
             "nom": "2-Lives",
-            "role": "Prestataire / CrÃ©ancier potentiel"
+            "role": "Prestataire / CrÃÂ©ancier potentiel"
           },
           {
             "nom": "Julien Balanan Sonorisation",
-            "role": "Sous-traitant dÃ©faillant (DJ)"
+            "role": "Sous-traitant dÃÂ©faillant (DJ)"
           },
           {
             "nom": "Nintend'Oz-Event",
-            "role": "DÃ©biteur partiel"
+            "role": "DÃÂ©biteur partiel"
           }
         ],
         "montantDu": null,
@@ -888,14 +888,14 @@
         "historique": [
           {
             "date": "2025-05-01",
-            "auteur": "SystÃ¨me",
-            "texte": "Litige crÃ©Ã© â Mobilier Cougar mis Ã  la benne"
+            "auteur": "SystÃÂ¨me",
+            "texte": "Litige crÃÂ©ÃÂ© Ã¢ÂÂ Mobilier Cougar mis ÃÂ  la benne"
           }
         ],
         "pahekoUrl": "",
         "doc2Url": "",
         "doc3Url": "",
-        "noteConf": "Note Bureau : Litige crÃ©Ã© suite Ã  la mise Ã  la benne du mobilier Cougar lors de l'Ã©vÃ©nement 2-Lives en mai 2025. Le DJ Julien Balanan Sonorisation n'ayant pas payÃ© sa prestation pour le DJ Summer Tour â La BarbÃ¢tre 2024, Nintend'Oz retient le solde dÃ» Ã  2-Lives. Documenter les Ã©changes et relances.",
+        "noteConf": "Note Bureau : Litige crÃÂ©ÃÂ© suite ÃÂ  la mise ÃÂ  la benne du mobilier Cougar lors de l'ÃÂ©vÃÂ©nement 2-Lives en mai 2025. Le DJ Julien Balanan Sonorisation n'ayant pas payÃÂ© sa prestation pour le DJ Summer Tour Ã¢ÂÂ La BarbÃÂ¢tre 2024, Nintend'Oz retient le solde dÃÂ» ÃÂ  2-Lives. Documenter les ÃÂ©changes et relances.",
         "confidentiel": false
       }
     ]
@@ -904,8 +904,8 @@
     "profiles": [
       {
         "id": "cr-pdl",
-        "nom": "ComitÃ© RÃ©gional",
-        "detail": "Pays-de-la-Loire-du-Jeu-VidÃ©o",
+        "nom": "ComitÃÂ© RÃÂ©gional",
+        "detail": "Pays-de-la-Loire-du-Jeu-VidÃÂ©o",
         "type": "cr",
         "pin": "2025",
         "couleur": "#3b82f6",
@@ -950,9 +950,9 @@
     },
     {
       "wizId": "WIZ0055",
-      "nom": "VilvandrÃ©",
-      "prenom": "NoÃ©",
-      "ville": "CoÃ«x",
+      "nom": "VilvandrÃÂ©",
+      "prenom": "NoÃÂ©",
+      "ville": "CoÃÂ«x",
       "statut": "BENEVOLE",
       "genre": "M",
       "org": "",
@@ -967,7 +967,7 @@
     {
       "wizId": "WIZ0200",
       "nom": "Pouclet",
-      "prenom": "RaphaÃ«l",
+      "prenom": "RaphaÃÂ«l",
       "ville": "Landevielle",
       "statut": "Membres actifs",
       "genre": "M",
@@ -1053,7 +1053,7 @@
       "wizId": "WIZ0306",
       "nom": "Ibrahim",
       "prenom": "",
-      "ville": "Ãvry-Courcouronnes",
+      "ville": "ÃÂvry-Courcouronnes",
       "statut": "Membres actifs"
     },
     {
@@ -1066,7 +1066,7 @@
     {
       "wizId": "WIZ0308",
       "nom": "Richard",
-      "prenom": "LÃ©a",
+      "prenom": "LÃÂ©a",
       "ville": "Blois",
       "statut": "Membres actifs"
     },
@@ -1088,7 +1088,7 @@
       "wizId": "WIZ0311",
       "nom": "AYMARD",
       "prenom": "Alix",
-      "ville": "Paris 14Ã¨me",
+      "ville": "Paris 14ÃÂ¨me",
       "statut": "Conseil d'Administration"
     },
     {
@@ -1129,7 +1129,7 @@
     },
     {
       "wizId": "WIZ0701",
-      "nom": "CrÃ©dit Agricole",
+      "nom": "CrÃÂ©dit Agricole",
       "prenom": "",
       "ville": "",
       "statut": "Fournisseurs"
@@ -1137,14 +1137,14 @@
     {
       "wizId": "WIZ0702",
       "nom": "Gagery",
-      "prenom": "JÃ©rome",
+      "prenom": "JÃÂ©rome",
       "ville": "",
       "statut": "Membres actifs",
-      "org": "CrÃ©dit Agricole"
+      "org": "CrÃÂ©dit Agricole"
     },
     {
       "wizId": "WIZ0703",
-      "nom": "LudothÃ¨que La Tranche sur Mer",
+      "nom": "LudothÃÂ¨que La Tranche sur Mer",
       "prenom": "",
       "ville": "La Tranche sur Mer",
       "statut": "CLIENTS"
@@ -1152,7 +1152,7 @@
     {
       "wizId": "WIZ0704",
       "nom": "Beck",
-      "prenom": "JÃ©rÃ©my",
+      "prenom": "JÃÂ©rÃÂ©my",
       "ville": "",
       "statut": "PARTENAIRES",
       "org": "Japonais Facile"
@@ -1163,7 +1163,7 @@
       "prenom": "",
       "ville": "",
       "statut": "Conseil d'Administration",
-      "org": "PrÃ©sident CR PDL Jeu VidÃ©o"
+      "org": "PrÃÂ©sident CR PDL Jeu VidÃÂ©o"
     },
     {
       "wizId": "WIZ1002",
@@ -1174,7 +1174,7 @@
     },
     {
       "wizId": "WIZ1005",
-      "nom": "MathÃ©o",
+      "nom": "MathÃÂ©o",
       "prenom": "",
       "ville": "",
       "statut": "BENEVOLE"
@@ -1213,7 +1213,7 @@
       "id": "pr-001",
       "ref": "STAND-S",
       "cat": "stand",
-      "nom": "Emplacement stand S (jusqu'Ã  4mÂ²)",
+      "nom": "Emplacement stand S (jusqu'ÃÂ  4mÃÂ²)",
       "pu": 80,
       "tva": 20,
       "unite": "we",
@@ -1224,7 +1224,7 @@
       "id": "pr-002",
       "ref": "STAND-M",
       "cat": "stand",
-      "nom": "Emplacement stand M (4 Ã  9mÂ²)",
+      "nom": "Emplacement stand M (4 ÃÂ  9mÃÂ²)",
       "pu": 130,
       "tva": 20,
       "unite": "we",
@@ -1235,7 +1235,7 @@
       "id": "pr-003",
       "ref": "STAND-L",
       "cat": "stand",
-      "nom": "Emplacement stand L (9 Ã  16mÂ²)",
+      "nom": "Emplacement stand L (9 ÃÂ  16mÃÂ²)",
       "pu": 190,
       "tva": 20,
       "unite": "we",
@@ -1251,7 +1251,7 @@
       "tva": 20,
       "unite": "j",
       "stock": 20,
-      "desc": "Table pliante 120Ã60cm"
+      "desc": "Table pliante 120ÃÂ60cm"
     },
     {
       "id": "pr-005",
@@ -1262,7 +1262,7 @@
       "tva": 20,
       "unite": "j",
       "stock": 10,
-      "desc": "Table pliante 180Ã60cm"
+      "desc": "Table pliante 180ÃÂ60cm"
     },
     {
       "id": "pr-006",
@@ -1279,34 +1279,34 @@
       "id": "pr-007",
       "ref": "ELEC-MONO",
       "cat": "electricite",
-      "nom": "Prise Ã©lectrique monophasÃ©e 6A",
+      "nom": "Prise ÃÂ©lectrique monophasÃÂ©e 6A",
       "pu": 15,
       "tva": 20,
       "unite": "we",
       "stock": 20,
-      "desc": "AccÃ¨s Ã©lectrique 220V 6A"
+      "desc": "AccÃÂ¨s ÃÂ©lectrique 220V 6A"
     },
     {
       "id": "pr-008",
       "ref": "ELEC-MONO16",
       "cat": "electricite",
-      "nom": "Prise Ã©lectrique monophasÃ©e 16A",
+      "nom": "Prise ÃÂ©lectrique monophasÃÂ©e 16A",
       "pu": 25,
       "tva": 20,
       "unite": "we",
       "stock": 10,
-      "desc": "AccÃ¨s Ã©lectrique 220V 16A"
+      "desc": "AccÃÂ¨s ÃÂ©lectrique 220V 16A"
     },
     {
       "id": "pr-009",
       "ref": "WIFI",
       "cat": "prestation",
-      "nom": "AccÃ¨s WiFi dÃ©diÃ©",
+      "nom": "AccÃÂ¨s WiFi dÃÂ©diÃÂ©",
       "pu": 20,
       "tva": 20,
       "unite": "we",
       "stock": 5,
-      "desc": "Connexion internet dÃ©diÃ©e"
+      "desc": "Connexion internet dÃÂ©diÃÂ©e"
     },
     {
       "id": "pr-010",
@@ -1317,7 +1317,7 @@
       "tva": 0,
       "unite": "u",
       "stock": 999,
-      "desc": "Badge d'accÃ¨s exposant inclus dans le stand"
+      "desc": "Badge d'accÃÂ¨s exposant inclus dans le stand"
     },
     {
       "id": "pr-011",
@@ -1339,7 +1339,7 @@
       "tva": 20,
       "unite": "forfait",
       "stock": 999,
-      "desc": "Frais de transport matÃ©riel"
+      "desc": "Frais de transport matÃÂ©riel"
     }
   ],
   "dbScanSorties": [],
@@ -1365,7 +1365,7 @@
         "grilles": 1,
         "valeur": 8,
         "type": "bon_achat",
-        "icone": "ð«",
+        "icone": "Ã°ÂÂÂ«",
         "actif": true
       },
       {
@@ -1374,25 +1374,25 @@
         "grilles": 3,
         "valeur": 24,
         "type": "goodies",
-        "icone": "ð",
+        "icone": "Ã°ÂÂÂ",
         "actif": true
       },
       {
         "id": "lot3",
-        "nom": "Goodies premium / ExpÃ©rience",
+        "nom": "Goodies premium / ExpÃÂ©rience",
         "grilles": 5,
         "valeur": 40,
         "type": "premium",
-        "icone": "â­",
+        "icone": "Ã¢Â­Â",
         "actif": true
       },
       {
         "id": "lot4",
-        "nom": "Voyage au Japon ð¯ðµ",
+        "nom": "Voyage au Japon Ã°ÂÂÂ¯Ã°ÂÂÂµ",
         "grilles": 0,
         "valeur": 2500,
         "type": "special",
-        "icone": "âï¸",
+        "icone": "Ã¢ÂÂÃ¯Â¸Â",
         "actif": true,
         "tamponsRequis": 2500
       }
@@ -1400,51 +1400,51 @@
     "sources": [
       {
         "id": "src1",
-        "nom": "ActivitÃ© (Geek House)",
+        "nom": "ActivitÃÂ© (Geek House)",
         "valeur": 1,
         "type": "activite",
         "ctx": "gh",
-        "icone": "ð®"
+        "icone": "Ã°ÂÂÂ®"
       },
       {
         "id": "src2",
-        "nom": "ActivitÃ© (Minato Geek)",
+        "nom": "ActivitÃÂ© (Minato Geek)",
         "valeur": 1,
         "type": "activite",
         "ctx": "mg",
-        "icone": "ð¸"
+        "icone": "Ã°ÂÂÂ¸"
       },
       {
         "id": "src3",
-        "nom": "ActivitÃ© (Wizard Furusato)",
+        "nom": "ActivitÃÂ© (Wizard Furusato)",
         "valeur": 1,
         "type": "activite",
         "ctx": "wf",
-        "icone": "ð"
+        "icone": "Ã°ÂÂÂ"
       },
       {
         "id": "src4",
-        "nom": "ÃvÃ©nement Minato Geek Haru",
+        "nom": "ÃÂvÃÂ©nement Minato Geek Haru",
         "valeur": 1,
         "type": "evenement",
         "ctx": "mg",
-        "icone": "ð¸"
+        "icone": "Ã°ÂÂÂ¸"
       },
       {
         "id": "src5",
-        "nom": "ÃvÃ©nement Minato Geek Aki",
+        "nom": "ÃÂvÃÂ©nement Minato Geek Aki",
         "valeur": 1,
         "type": "evenement",
         "ctx": "mg",
-        "icone": "ð"
+        "icone": "Ã°ÂÂÂ"
       },
       {
         "id": "src6",
-        "nom": "ÃvÃ©nement Wizard Furusato",
+        "nom": "ÃÂvÃÂ©nement Wizard Furusato",
         "valeur": 1,
         "type": "evenement",
         "ctx": "wf",
-        "icone": "ð"
+        "icone": "Ã°ÂÂÂ"
       },
       {
         "id": "src7",
@@ -1452,15 +1452,15 @@
         "valeur": 1,
         "type": "activite",
         "ctx": "gare",
-        "icone": "ð "
+        "icone": "Ã°ÂÂÂ "
       },
       {
         "id": "src8",
-        "nom": "Autre activitÃ© partenaire",
+        "nom": "Autre activitÃÂ© partenaire",
         "valeur": 1,
         "type": "activite",
         "ctx": "all",
-        "icone": "ð¯"
+        "icone": "Ã°ÂÂÂ¯"
       }
     ]
   },
@@ -1469,19 +1469,19 @@
   "dbDemandeOccupation": [],
   "NWO_CONFIG": {
     "nom": "Nintend'Oz-Event",
-    "forme": "Association dÃ©clarÃ©e",
+    "forme": "Association dÃÂ©clarÃÂ©e",
     "siret": "915 400 592 00027",
     "tva": "FR62915400592",
     "rna": "W744003158",
     "rnaDate": "28/08/2018",
     "responsable": "Fabien CHASTAGNIER",
-    "adresse": "Centre Socio-culturel Â« La P'tite Gare Â»",
-    "rue": "35 Rue du MarÃ©chal Leclerc de Hautecloque",
+    "adresse": "Centre Socio-culturel ÃÂ« La P'tite Gare ÃÂ»",
+    "rue": "35 Rue du MarÃÂ©chal Leclerc de Hautecloque",
     "cp": "85800",
     "ville": "Saint-Gilles-Croix-de-Vie",
     "tel": "06 98 25 21 59",
     "email": "contact@nintendoz-event.com",
-    "rib_banque": "CR Atlantique VendÃ©e",
+    "rib_banque": "CR Atlantique VendÃÂ©e",
     "rib_domiciliation": "Saint-Hilaire-de-Riez",
     "rib_code_banque": "14706",
     "rib_code_guichet": "00172",
@@ -1492,9 +1492,9 @@
     "dateMG": "2026-04-12",
     "dateMG2": "2026-10-18",
     "dateWF": "",
-    "clauseMateriel": "La liste des postes et des jeux peut Ãªtre soumise Ã  des modifications selon le fonctionnement des Ã©quipements et de leur disponibilitÃ© en stock lors de la prÃ©paration. Le matÃ©riel est sous la responsabilitÃ© du client en dehors des horaires de prÃ©sence des bÃ©nÃ©voles de Nintend'Oz-Event (installations, animation, dÃ©montage).",
-    "clauseAnnulation": "En cas d'annulation Ã  plus de 15 jours de la prestation, 30% du montant total sera facturÃ©. En cas d'annulation Ã  moins de 15 jours de la prestation, 70% du montant total sera facturÃ©. La commande peut faire l'objet d'une annulation Ã  la demande du client par simple mail, mais ne pourra pas bÃ©nÃ©ficier d'un report.",
-    "clauseRetard": "Pas d'escompte pour rÃ¨glement anticipÃ©. En cas de retard de paiement, une pÃ©nalitÃ© Ã©gale Ã  12% sera exigible (Article L 441-6, alinÃ©a 12 du Code de Commerce). Pour tout professionnel, en sus des indemnitÃ©s de retard, toute somme, y compris l'acompte, non payÃ©e Ã  sa date d'exigibilitÃ© produira de plein droit le paiement d'une indemnitÃ© forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem).",
+    "clauseMateriel": "La liste des postes et des jeux peut ÃÂªtre soumise ÃÂ  des modifications selon le fonctionnement des ÃÂ©quipements et de leur disponibilitÃÂ© en stock lors de la prÃÂ©paration. Le matÃÂ©riel est sous la responsabilitÃÂ© du client en dehors des horaires de prÃÂ©sence des bÃÂ©nÃÂ©voles de Nintend'Oz-Event (installations, animation, dÃÂ©montage).",
+    "clauseAnnulation": "En cas d'annulation ÃÂ  plus de 15 jours de la prestation, 30% du montant total sera facturÃÂ©. En cas d'annulation ÃÂ  moins de 15 jours de la prestation, 70% du montant total sera facturÃÂ©. La commande peut faire l'objet d'une annulation ÃÂ  la demande du client par simple mail, mais ne pourra pas bÃÂ©nÃÂ©ficier d'un report.",
+    "clauseRetard": "Pas d'escompte pour rÃÂ¨glement anticipÃÂ©. En cas de retard de paiement, une pÃÂ©nalitÃÂ© ÃÂ©gale ÃÂ  12% sera exigible (Article L 441-6, alinÃÂ©a 12 du Code de Commerce). Pour tout professionnel, en sus des indemnitÃÂ©s de retard, toute somme, y compris l'acompte, non payÃÂ©e ÃÂ  sa date d'exigibilitÃÂ© produira de plein droit le paiement d'une indemnitÃÂ© forfaitaire de 40 euros due au titre des frais de recouvrement (Art. 441-6, I al. 12 du code de commerce et D. 441-5 ibidem).",
     "tvaDefaut": false,
     "tvaTaux": 20,
     "fraisGestionMG": false,
@@ -1512,8 +1512,8 @@
       "stand_japonais": 150
     },
     "kobanTaux": 1,
-    "kobanNom": "é Koban",
-    "kobanSymbol": "ðª",
+    "kobanNom": "Ã©ÂÂ Koban",
+    "kobanSymbol": "Ã°ÂÂªÂ",
     "kobanActif": true,
     "kobanFormules": {
       "journee": 2,
@@ -1547,8 +1547,8 @@
     "rib_iban": "",
     "rib_bic": "",
     "tvaPercent": 20,
-    "mentionTVA": "TVA non applicable â art. 293B du CGI",
-    "conditionsPaiement": "Paiement Ã  rÃ©ception de facture",
+    "mentionTVA": "TVA non applicable Ã¢ÂÂ art. 293B du CGI",
+    "conditionsPaiement": "Paiement ÃÂ  rÃÂ©ception de facture",
     "mentionLegale": "",
     "prefixeDevis": "DV",
     "prefixeFacture": "FA",
@@ -1569,16 +1569,16 @@
       "web": "www.agenceshowtime.com",
       "iban": "FR7615519390550002035450181",
       "bic": "CMCIFR2A",
-      "banque": "CrÃ©dit Mutuel St Gilles Croix de Vie",
+      "banque": "CrÃÂ©dit Mutuel St Gilles Croix de Vie",
       "cat": "sono",
       "note": 4.5,
-      "tags": "mobilier,tente,sono,lumiÃ¨re,scÃ¨ne,Ã©vÃ©nementiel",
+      "tags": "mobilier,tente,sono,lumiÃÂ¨re,scÃÂ¨ne,ÃÂ©vÃÂ©nementiel",
       "cgv": {
         "acompte": 30,
         "annulation90j": 50,
         "annulationLate": 100,
         "retardInterets": 4,
-        "nettoyage": "20 â¬ TTC / heure",
+        "nettoyage": "20 Ã¢ÂÂ¬ TTC / heure",
         "sacem": true
       },
       "ville": "",
@@ -1591,18 +1591,18 @@
       "nom": "Centre Socioculturel La P'tite Gare",
       "forme": "Association",
       "cat": "location",
-      "adresse": "Centre Socioculturel â La P'tite Gare",
+      "adresse": "Centre Socioculturel Ã¢ÂÂ La P'tite Gare",
       "ville": "85800 Saint-Gilles-Croix-de-Vie",
       "tel": "02 51 26 92 29",
       "email": "",
       "web": "",
       "note": 5,
-      "tags": "barnum,tables,bancs,vaisselle,couverts,verres,sono,vidÃ©o,percolateur,marmite,plancha,guirlande,location,prÃªt",
-      "notes": "ð CONDITIONS : adhÃ©rent CSC requis Â· rÃ©servation 15j avant Â· 1 Ã  3 jours max\nð HORAIRES RETRAIT : vendredi 14h-16h | RETOUR : lundi 14h-16h\nâ ï¸ Barnums : 4 poids obligatoires par barnum | En cas de vents forts : ne pas installer\nð° CATALOGUE :\n--- BARNUMS ---\nBarnum 3Ã3m (avec 4 bÃ¢ches) : 5â¬/u (qtÃ©: 6)\nPoids pour barnum : 1â¬/u (qtÃ©: 24) â 4 poids OBLIGATOIRES par barnum\n--- TABLES & BANCS ---\nTable 8 places : 4â¬/u (qtÃ©: 14)\nBanc 4 places : 1â¬/u (qtÃ©: 20)\n--- VAISSELLE ---\nAssiettes plates blanches : 2â¬/boite de 35 (qtÃ©: 3 boites)\nAssiettes plates transparentes noires : 2â¬/boite de 40 (qtÃ©: 2 boites)\nAssiettes dessert blanches bords dentelÃ©s : 3â¬/boite de 50 (qtÃ©: 1 boite)\nAssiettes dessert blanches bords lisses : 2â¬/boite de 40 (qtÃ©: 3 boites)\nAssiettes creuses dÃ©cor bleu : 2â¬/boite de 35 (qtÃ©: 1 boite)\nCoupes Ã  fruits : 2â¬/boite de 35 (qtÃ©: 1 boite)\nTasses Ã  cafÃ© : 3â¬/boite de 50 (qtÃ©: 3 boites)\n--- COUVERTS ---\nFourchettes : 0.10â¬/sachet de 10 (qtÃ©: 30 sachets)\nCouteaux bouts ronds : 0.10â¬/sachet de 10 (qtÃ©: 20 sachets)\nCouteaux plastiques noirs : 0.10â¬/sachet de 10 (qtÃ©: 20 sachets)\nPetites cuillÃ¨res : 0.10â¬/sachet de 10 (qtÃ©: 20 sachets)\nGrandes cuillÃ¨res : 0.10â¬/sachet de 10 (qtÃ©: 7 sachets)\n--- VERRES ---\nVerres Ã  pied : 2â¬/boite de 24 (qtÃ©: 9 boites)\nVerrines : 2â¬/boite de 150 (qtÃ©: 1 boite)\nVerres de dÃ©gustation : 1â¬/boite de 140 (qtÃ©: 1 boite)\nGobelets recyclables : 2â¬/boite de 150 (qtÃ©: 2 boites)\n--- PERCOLATEURS ---\nPercolateur 6,5L : 5â¬/u (qtÃ©: 1)\nPercolateur 16L : 10â¬/u (qtÃ©: 1)\n--- CUISSON ---\nMarmite 25L : 3â¬/u (qtÃ©: 2)\nMarmite 50L : 5â¬/u (qtÃ©: 2)\nPlancha : 2â¬/u (qtÃ©: 1)\nBrÃ»leur gaz (sans bouteille) : 3â¬/u (qtÃ©: 3)\n--- SON & VIDÃO ---\nEnceinte portable + 2 micros HF : 10â¬/u (qtÃ©: 1)\nVidÃ©oprojecteur : 5â¬/u (qtÃ©: 1)\nÃcran vidÃ©oprojecteur : 2â¬/u (qtÃ©: 1)\n--- FESTIVITÃS ---\nGuirlandes de fanions ~25m : 1â¬/u (qtÃ©: 1)\nGuirlandes de fanions ~50m : 3â¬/u (qtÃ©: 1)\nGuirlande lumineuse 4Ã10m : 5â¬/u (qtÃ©: 1)\nMachine Ã  pop-corn : 20â¬/u (qtÃ©: 1)\nCaisse monnaie : 1â¬/u (qtÃ©: 1)\nMachine Ã  fumÃ©e + liquide 30cl : 5â¬/u (qtÃ©: 1)",
+      "tags": "barnum,tables,bancs,vaisselle,couverts,verres,sono,vidÃÂ©o,percolateur,marmite,plancha,guirlande,location,prÃÂªt",
+      "notes": "Ã°ÂÂÂ CONDITIONS : adhÃÂ©rent CSC requis ÃÂ· rÃÂ©servation 15j avant ÃÂ· 1 ÃÂ  3 jours max\nÃ°ÂÂÂ HORAIRES RETRAIT : vendredi 14h-16h | RETOUR : lundi 14h-16h\nÃ¢ÂÂ Ã¯Â¸Â Barnums : 4 poids obligatoires par barnum | En cas de vents forts : ne pas installer\nÃ°ÂÂÂ° CATALOGUE :\n--- BARNUMS ---\nBarnum 3ÃÂ3m (avec 4 bÃÂ¢ches) : 5Ã¢ÂÂ¬/u (qtÃÂ©: 6)\nPoids pour barnum : 1Ã¢ÂÂ¬/u (qtÃÂ©: 24) Ã¢ÂÂ 4 poids OBLIGATOIRES par barnum\n--- TABLES & BANCS ---\nTable 8 places : 4Ã¢ÂÂ¬/u (qtÃÂ©: 14)\nBanc 4 places : 1Ã¢ÂÂ¬/u (qtÃÂ©: 20)\n--- VAISSELLE ---\nAssiettes plates blanches : 2Ã¢ÂÂ¬/boite de 35 (qtÃÂ©: 3 boites)\nAssiettes plates transparentes noires : 2Ã¢ÂÂ¬/boite de 40 (qtÃÂ©: 2 boites)\nAssiettes dessert blanches bords dentelÃÂ©s : 3Ã¢ÂÂ¬/boite de 50 (qtÃÂ©: 1 boite)\nAssiettes dessert blanches bords lisses : 2Ã¢ÂÂ¬/boite de 40 (qtÃÂ©: 3 boites)\nAssiettes creuses dÃÂ©cor bleu : 2Ã¢ÂÂ¬/boite de 35 (qtÃÂ©: 1 boite)\nCoupes ÃÂ  fruits : 2Ã¢ÂÂ¬/boite de 35 (qtÃÂ©: 1 boite)\nTasses ÃÂ  cafÃÂ© : 3Ã¢ÂÂ¬/boite de 50 (qtÃÂ©: 3 boites)\n--- COUVERTS ---\nFourchettes : 0.10Ã¢ÂÂ¬/sachet de 10 (qtÃÂ©: 30 sachets)\nCouteaux bouts ronds : 0.10Ã¢ÂÂ¬/sachet de 10 (qtÃÂ©: 20 sachets)\nCouteaux plastiques noirs : 0.10Ã¢ÂÂ¬/sachet de 10 (qtÃÂ©: 20 sachets)\nPetites cuillÃÂ¨res : 0.10Ã¢ÂÂ¬/sachet de 10 (qtÃÂ©: 20 sachets)\nGrandes cuillÃÂ¨res : 0.10Ã¢ÂÂ¬/sachet de 10 (qtÃÂ©: 7 sachets)\n--- VERRES ---\nVerres ÃÂ  pied : 2Ã¢ÂÂ¬/boite de 24 (qtÃÂ©: 9 boites)\nVerrines : 2Ã¢ÂÂ¬/boite de 150 (qtÃÂ©: 1 boite)\nVerres de dÃÂ©gustation : 1Ã¢ÂÂ¬/boite de 140 (qtÃÂ©: 1 boite)\nGobelets recyclables : 2Ã¢ÂÂ¬/boite de 150 (qtÃÂ©: 2 boites)\n--- PERCOLATEURS ---\nPercolateur 6,5L : 5Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nPercolateur 16L : 10Ã¢ÂÂ¬/u (qtÃÂ©: 1)\n--- CUISSON ---\nMarmite 25L : 3Ã¢ÂÂ¬/u (qtÃÂ©: 2)\nMarmite 50L : 5Ã¢ÂÂ¬/u (qtÃÂ©: 2)\nPlancha : 2Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nBrÃÂ»leur gaz (sans bouteille) : 3Ã¢ÂÂ¬/u (qtÃÂ©: 3)\n--- SON & VIDÃÂO ---\nEnceinte portable + 2 micros HF : 10Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nVidÃÂ©oprojecteur : 5Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nÃÂcran vidÃÂ©oprojecteur : 2Ã¢ÂÂ¬/u (qtÃÂ©: 1)\n--- FESTIVITÃÂS ---\nGuirlandes de fanions ~25m : 1Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nGuirlandes de fanions ~50m : 3Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nGuirlande lumineuse 4ÃÂ10m : 5Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nMachine ÃÂ  pop-corn : 20Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nCaisse monnaie : 1Ã¢ÂÂ¬/u (qtÃÂ©: 1)\nMachine ÃÂ  fumÃÂ©e + liquide 30cl : 5Ã¢ÂÂ¬/u (qtÃÂ©: 1)",
       "catalogue": [
         {
           "ref": "PG-BRN-3X3",
-          "nom": "Barnum 3Ã3m + 4 bÃ¢ches",
+          "nom": "Barnum 3ÃÂ3m + 4 bÃÂ¢ches",
           "pu": 5,
           "qteStock": 6,
           "unite": "barnum"
@@ -1638,7 +1638,7 @@
         },
         {
           "ref": "PG-VPJ",
-          "nom": "VidÃ©oprojecteur",
+          "nom": "VidÃÂ©oprojecteur",
           "pu": 5,
           "qteStock": 1,
           "unite": "u"
@@ -1659,7 +1659,7 @@
         },
         {
           "ref": "PG-MCF",
-          "nom": "Machine Ã  fumÃ©e + liq.",
+          "nom": "Machine ÃÂ  fumÃÂ©e + liq.",
           "pu": 5,
           "qteStock": 1,
           "unite": "u"
@@ -1693,10 +1693,10 @@
       "noteVisit": 0,
       "noteOrga": 0,
       "noteLogis": 0,
-      "bien": "Bonne frÃ©quentation Â· Buvette rentable",
-      "mal": "Perte -30â¬ cours de dessin (encaissement carte dÃ©faillant) Â· -45â¬ location tonelles P'tite Gare payÃ© en espÃ¨ces sur recette",
-      "incidents": "Perte de -30â¬ sur cours de dessin â non encaissÃ© correctement par carte",
-      "actions": "VÃ©rifier le terminal CB pour les prochains Ã©vÃ©nements Â· PrÃ©voir paiement espÃ¨ces en secours",
+      "bien": "Bonne frÃÂ©quentation ÃÂ· Buvette rentable",
+      "mal": "Perte -30Ã¢ÂÂ¬ cours de dessin (encaissement carte dÃÂ©faillant) ÃÂ· -45Ã¢ÂÂ¬ location tonelles P'tite Gare payÃÂ© en espÃÂ¨ces sur recette",
+      "incidents": "Perte de -30Ã¢ÂÂ¬ sur cours de dessin Ã¢ÂÂ non encaissÃÂ© correctement par carte",
+      "actions": "VÃÂ©rifier le terminal CB pour les prochains ÃÂ©vÃÂ©nements ÃÂ· PrÃÂ©voir paiement espÃÂ¨ces en secours",
       "retroExpo": "",
       "retroVisit": "",
       "createdAt": "2026-04-12T10:00:00.000Z"
