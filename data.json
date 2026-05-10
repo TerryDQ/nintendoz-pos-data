@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-10T16:29:26.730Z",
+  "_savedAt": "2026-05-10T16:39:19.919Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2788,7 +2788,33 @@
         "immob_max": 150,
         "frais_gestion_pct": 8,
         "remise_abo": 30
-      }
+      },
+      "boxCles": [
+        {
+          "id": "trousseau_gh",
+          "nom": "Trousseau GH",
+          "emoji": "🏡",
+          "affectation": "geek_house",
+          "affectationLabel": "Geek House",
+          "detenteur": "",
+          "remisLe": "",
+          "actif": true,
+          "historique": [],
+          "notes": ""
+        },
+        {
+          "id": "trousseau_sorties",
+          "nom": "Trousseau Sorties",
+          "emoji": "🎪",
+          "affectation": "sorties_ext",
+          "affectationLabel": "Événements Extérieurs",
+          "detenteur": "",
+          "remisLe": "",
+          "actif": true,
+          "historique": [],
+          "notes": ""
+        }
+      ]
     }
   },
   "dvUsersExtra": [],
