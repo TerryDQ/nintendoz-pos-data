@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-10T15:52:14.802Z",
+  "_savedAt": "2026-05-10T16:29:26.730Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2764,7 +2764,32 @@
         "label": "Remerciements bénévoles envoyés",
         "fait": false
       }
-    ]
+    ],
+    "ext": {
+      "evenements": [],
+      "abonnements": [],
+      "config": {
+        "pack1": 450,
+        "pack2": 850,
+        "pack3": 1600,
+        "opt_nextgen": 80,
+        "opt_mkl": 100,
+        "opt_simracing": 150,
+        "opt_switch2": 120,
+        "cout_km": 2.2,
+        "cout_km_essence": 0.65,
+        "coeff_hebergement": 1.35,
+        "nuit_base": 80,
+        "repas_base": 70,
+        "coeff_repas": 1.35,
+        "loc_vehicule_petit": 80,
+        "loc_vehicule_grand": 180,
+        "immob_min": 50,
+        "immob_max": 150,
+        "frais_gestion_pct": 8,
+        "remise_abo": 30
+      }
+    }
   },
   "dvUsersExtra": [],
   "dbFournisseurs": [
