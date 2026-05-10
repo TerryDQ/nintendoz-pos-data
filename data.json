@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-10T08:45:44.957Z",
+  "_savedAt": "2026-05-10T08:52:11.976Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2482,6 +2482,130 @@
       }
     ],
     "checklist_mg": [
+      {
+        "id": "cl1",
+        "cat": "Avant J-30",
+        "label": "Demande autorisation mairie envoyée",
+        "fait": false
+      },
+      {
+        "id": "cl2",
+        "cat": "Avant J-30",
+        "label": "Assurance événementielle confirmée",
+        "fait": false
+      },
+      {
+        "id": "cl3",
+        "cat": "Avant J-15",
+        "label": "Demande prêt matériel collectivité (M. Fillon)",
+        "fait": false
+      },
+      {
+        "id": "cl4",
+        "cat": "Avant J-15",
+        "label": "Exposants confirmés et devis envoyés",
+        "fait": false
+      },
+      {
+        "id": "cl5",
+        "cat": "Avant J-7",
+        "label": "Bénévoles briefés et postes assignés",
+        "fait": false
+      },
+      {
+        "id": "cl6",
+        "cat": "Avant J-7",
+        "label": "Plan de salle validé",
+        "fait": false
+      },
+      {
+        "id": "cl7",
+        "cat": "Avant J-7",
+        "label": "Communication réseaux sociaux lancée",
+        "fait": false
+      },
+      {
+        "id": "cl8",
+        "cat": "Jour J",
+        "label": "Matériel collectivité récupéré",
+        "fait": false
+      },
+      {
+        "id": "cl9",
+        "cat": "Jour J",
+        "label": "Signalétique posée",
+        "fait": false
+      },
+      {
+        "id": "cl10",
+        "cat": "Jour J",
+        "label": "Caisse / monnaie prête",
+        "fait": false
+      },
+      {
+        "id": "cl11",
+        "cat": "Après J",
+        "label": "Matériel rendu à la collectivité",
+        "fait": false
+      },
+      {
+        "id": "cl12",
+        "cat": "Après J",
+        "label": "Bilan financier réalisé",
+        "fait": false
+      },
+      {
+        "id": "cl13",
+        "cat": "Après J",
+        "label": "Remerciements bénévoles envoyés",
+        "fait": false
+      }
+    ],
+    "espaces_wf": [
+      {
+        "id": "esp1",
+        "nom": "🎌 Japan Alley",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      },
+      {
+        "id": "esp2",
+        "nom": "✏️ Creator Alley",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      },
+      {
+        "id": "esp3",
+        "nom": "🎮 Jeu Vidéo Alley",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      },
+      {
+        "id": "esp4",
+        "nom": "🍜 Food Court",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      },
+      {
+        "id": "esp5",
+        "nom": "🎟️ Accueil / Caisse",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      },
+      {
+        "id": "esp6",
+        "nom": "🎤 Scène / Podium",
+        "surface": "",
+        "capacite": "",
+        "notes": ""
+      }
+    ],
+    "checklist_wf": [
       {
         "id": "cl1",
         "cat": "Avant J-30",
