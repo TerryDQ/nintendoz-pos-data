@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-12T12:34:39.893Z",
+  "_savedAt": "2026-05-12T12:46:48.742Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2005,6 +2005,5 @@
     "gare": [],
     "gh": [],
     "autre": []
-  },
-  "dbProjets": []
+  }
 }
