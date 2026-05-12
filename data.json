@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-12T15:27:42.823Z",
+  "_savedAt": "2026-05-12T15:35:18.803Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1020,11 +1020,61 @@
     {
       "id": "erwan-thomas",
       "nom": "Erwan Thomas",
-      "pin": "0000",
+      "pin": "2000",
       "docs": [
         "livret-gh",
         "support-mg"
-      ]
+      ],
+      "profil": "membre",
+      "actif": true,
+      "canEdit": false,
+      "canDelete": false,
+      "membreId": "",
+      "navAccess": [
+        "mg",
+        "wf",
+        "gh",
+        "membres",
+        "communication"
+      ],
+      "tabAccess": {
+        "mg": [],
+        "wf": [],
+        "gh": [],
+        "gare": [],
+        "ext": []
+      }
+    },
+    {
+      "id": "sys-demo",
+      "nom": "Compte Démo",
+      "pin": "0000",
+      "profil": "demo",
+      "_systeme": true,
+      "actif": true,
+      "canEdit": false,
+      "canDelete": false,
+      "navAccess": [
+        "mg",
+        "wf",
+        "gh",
+        "gare",
+        "ext",
+        "projets",
+        "devis",
+        "subventions",
+        "membres",
+        "antennes",
+        "fournisseurs",
+        "assurances",
+        "communication",
+        "inventaire",
+        "bilans",
+        "rally",
+        "securite"
+      ],
+      "tabAccess": {},
+      "membreId": ""
     }
   ],
   "dbDevis": [],
@@ -2005,5 +2055,6 @@
     "gare": [],
     "gh": [],
     "autre": []
-  }
+  },
+  "dbSysAccess": {}
 }
