@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-24T15:20:40.271Z",
+  "_savedAt": "2026-05-24T15:26:37.547Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1017,9 +1017,1020 @@
   "dbFormationParcours": [],
   "dbFormationProgress": {},
   "dbUsers": [],
-  "dbDevis": [],
-  "dbFactures": [],
-  "dbReglements": [],
+  "dbDevis": [
+    {
+      "id": "dv-expo-1771518403900",
+      "num": "DEV-STAND-2026-012",
+      "date": "2026-03-14",
+      "validite": "2026-04-02",
+      "type": "exposant",
+      "clientId": "cl-expo-1771518403900",
+      "clientNom": "La Fabric de Graphismea",
+      "clientAdresse": "27 rue Hervé de Mareuil",
+      "clientCP": "85320",
+      "clientVille": "Mareuil-sur-Lay-Dissais",
+      "clientEmail": "graphismea06@gmail.com",
+      "clientTel": "0683849388",
+      "clientSiret": "879 122 158",
+      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand nu (3 m²) — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 5,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand  nu  (3 m²) — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 5,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 18,
+      "totalHTServices": 0,
+      "totalHT": 18,
+      "totalTTC": 18,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Horaire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-21T10:18:09.324Z"
+    },
+    {
+      "id": "dv-expo-1771518403900",
+      "num": "DEV-STAND-2026-013",
+      "titre": "Proposition de stand — La Fabric de Graphismea",
+      "date": "2026-03-15",
+      "validite": "2026-06-13",
+      "type": "prestation",
+      "clientId": "cl-expo-1771518403900",
+      "objet": "Stand artiste/créateur · 3 m² · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Créateur · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand (3 m²) — 🌸 Édition Haru — Minato Geek",
+          "qte": 3,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Prix à définir"
+        },
+        {
+          "nom": "📍 Location stand (3 m²) — 🍂 Édition Aki — Minato Geek",
+          "qte": 3,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Prix à définir"
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🍂 Aki]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Léa Bouvier\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1771518403900,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-15T07:26:27.264Z"
+    },
+    {
+      "id": "dv-expo-1772789306607",
+      "num": "DEV-STAND-2026-017",
+      "date": "2026-03-15",
+      "validite": "2026-06-13",
+      "type": "exposant",
+      "clientId": "cl-expo-1772789306607",
+      "clientNom": "Zabz & Yakujo",
+      "clientAdresse": "11 BIS RUE DE CADETTE",
+      "clientCP": "40200",
+      "clientVille": "MIMIZAN",
+      "clientEmail": "LENEB.OFFICIEL@GMAIL.COM",
+      "clientTel": "0624168470",
+      "clientSiret": "",
+      "objet": "Stand artiste/créateur · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Initiation au dessin · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Zone 1 — intérieur  — Minato Geek  🌸 Haru]",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🌸 Haru]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 2 — Tonnelle 3×3 m · Extérieur — Minato Geek [🌸 Haru]",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 6,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 1 — intérieur  — Minato Geek   [🍂 Aki]",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🍂 Aki]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🍂 Aki]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 2 — Tonnelle 3×3 m · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur[🍂 Aki]",
+          "qte": 1,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🍂 Aki]",
+          "qte": 8,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
+          "qte": 1,
+          "pu": -50,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "jour_evt",
+      "paiementModal": "",
+      "notes": "Contact : Christelle Degras\nNotes exposant : [Stand 1 : Zone Marier] [Stand 2: village extérieur]\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00\n⚠️ Paiement en contre-service — montant = 50 €\n• Commission de 10% sur le chiffre d'affaires réalisé pendant l'événement\n• Commission appliquée UNIQUEMENT si votre CA dépasse 50 € sur la journée\n• Déclaration du CA en fin de journée (18h00) au stand organisation\n• Options électricité (3 €) et grille (2 €) disponibles si besoin\nExemples : atelier dessin manga payant (10 €/participant), cours de calligraphie payant, escape game mobile payant, initiation\nphotographie payante...\n🤝 POURQUOI CETTE POLITIQUE ?\nLa règle est simple : si le public paye pour votre activité, vous versez 10% à l'organisation (seulement si CA >\n50 €). Si votre activité est gratuite pour le public (démo, initiation, playtest, présentation...), votre participation\nest entièrement gratuite, quel que soit votre statut (club asso, studio indé, auto-entrepreneur...). Exemples : un\nstudio indé qui fait tester gratuitement son jeu = GRATUIT. Un prof de manga qui vend des cours à 10 € =\ncommission 10% si CA > 50 €.",
+      "statut": "facture",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-05-24T15:25:17.525Z"
+    },
+    {
+      "id": "dv-expo-1773929448927",
+      "num": "DEV-STAND-2026-021",
+      "titre": "Proposition de stand — Grand Finale",
+      "date": "2026-03-19",
+      "validite": "2026-06-17",
+      "type": "prestation",
+      "clientId": "cl-expo-1773929448927",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Atelier Doublage · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "_note": "Inclus"
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Steward SOUPPAYA\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "brouillon",
+      "_expoId": 1773929448927,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-19T14:10:49.144Z"
+    },
+    {
+      "id": "dv-expo-1773752772664",
+      "num": "DEV-STAND-2026-022",
+      "date": "2026-03-20",
+      "validite": "2026-06-18",
+      "type": "prestation",
+      "clientId": "cl-expo-1773752772664",
+      "clientNom": "Les gourmandises de Biscottes",
+      "clientAdresse": "350 Chemin de la Basse Fouasserie",
+      "clientCP": "85710",
+      "clientVille": "La Garnache",
+      "clientEmail": "lesgourmandisesdebiscotte@gmail.com",
+      "clientTel": "06.95.66.51.83",
+      "clientSiret": "91391008900022",
+      "objet": "1 tonnelle(s) · Stand commercial · 🌿 Ext. Village · 🌸 Édition Haru · Patisserie fine · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Tonnelle 3×3 m · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 3,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⛺ Tonnelle 3×3 m — Extérieur ✓ inclus dans le forfait",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 15,
+      "totalHTServices": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-05-24T15:24:56.828Z",
+      "statut": "facture"
+    },
+    {
+      "id": "dv-expo-1773244610006",
+      "num": "DEV-STAND-2026-024",
+      "date": "2026-03-21",
+      "validite": "2026-06-19",
+      "type": "exposant",
+      "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquettes et Figurines 85",
+      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
+      "clientCP": "85470",
+      "clientVille": "Bretignolles-sur-Mer",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "92891048800016",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise Association",
+          "qte": 1,
+          "pu": -10,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Contact : Romain Houit\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "statut": "facture",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-28T09:58:39.241Z",
+      "factureId": 1774864458584,
+      "factureNum": "FAC-2026-0001"
+    },
+    {
+      "id": "dv-expo-1772994801785",
+      "num": "DEV-STAND-2026-026",
+      "date": "2026-03-25",
+      "validite": "2026-06-23",
+      "type": "exposant",
+      "clientId": "cl-expo-1772994801785",
+      "clientNom": "ANA Gravure Laser",
+      "clientAdresse": "36 rue des Bergeronettes",
+      "clientCP": "40160",
+      "clientVille": "Gastes",
+      "clientEmail": "anagravurelaser@gmail.com",
+      "clientTel": "06 71 06 36 81",
+      "clientSiret": "",
+      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 15,
+      "totalHTServices": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Contact : Sébastien RITARD\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "statut": "facture",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-03-28T13:18:11.056Z"
+    },
+    {
+      "id": "dv-expo-1774691340723",
+      "num": "DEV-STAND-2026-027",
+      "date": "2026-03-28",
+      "validite": "2026-06-26",
+      "type": "exposant",
+      "clientId": "cl-expo-1774691340723",
+      "clientNom": "Le vent des crêpes",
+      "clientAdresse": "12 Rue Auguste Idier",
+      "clientCP": "85800",
+      "clientVille": "Saint-Gilles-Croix-de-Vie",
+      "clientEmail": "helene@leventdescrepes.fr",
+      "clientTel": "07 88 14 31 75",
+      "clientSiret": "95222909400018",
+      "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Restauration · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🌸 Haru]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🍂 Aki]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "services": {
+        "animJours": 0,
+        "animNb": 0,
+        "hebNuits": 0,
+        "hebNb": 0,
+        "restAnim": 0,
+        "restRepas": 0,
+        "restMatin": false,
+        "restMidi": false,
+        "restSoir": false,
+        "kmNb": 0,
+        "essence": false
+      },
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 22,
+      "totalHTServices": 0,
+      "totalHT": 22,
+      "totalTTC": 22,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "statut": "facture",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-05-24T15:24:02.437Z"
+    },
+    {
+      "id": "dv-expo-1772994801785",
+      "num": "DEV-STAND-2026-028",
+      "titre": "Proposition de stand — ANA Gravure Laser",
+      "date": "2026-03-28",
+      "validite": "2026-06-26",
+      "type": "prestation",
+      "clientId": "cl-expo-1772994801785",
+      "objet": "Stand artiste/créateur · 4.5 m² · 🌿 Ext. Village · 🌸 Édition Haru · Gravure laser · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand (4.5 m²) — Stand nu 3×3 · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 4,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0
+        }
+      ],
+      "services": {},
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 58,
+      "totalHTServices": 0,
+      "totalHT": 58,
+      "totalTTC": 58,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Sébastien RITARD\n⚠️ Vérifiez les tarifs avant validation.",
+      "statut": "paye",
+      "_expoId": 1772994801785,
+      "_expoCtx": "mg",
+      "createdBy": "auto",
+      "updatedAt": "2026-03-28T13:17:11.079Z",
+      "datePaiement": "2026-03-23",
+      "modePaiement": "Virement",
+      "refPaiement": ""
+    }
+  ],
+  "dbFactures": [
+    {
+      "id": 1774864458584,
+      "num": "FAC-2026-0001",
+      "devisId": "dv-expo-1773244610006",
+      "devisNum": "DEV-STAND-2026-024",
+      "clientId": "cl-expo-1773244610006",
+      "clientNom": "Maquettes et Figurines 85",
+      "clientAdresse": "27 RUE SAINTE-VERONIQUE",
+      "clientCP": "85470",
+      "clientVille": "Bretignolles-sur-Mer",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "92891048800016",
+      "objet": "Stand associatif · 🏛️ Int. Marie · 🌸 Édition Haru · Encourager, favoriser, faciliter, vulgariser, développer l'étude et la pratique du maquettisme statique ou dynamique sous toutes ses formes et pratiquer pour initier ou se perfectionner à la peinture sur figurines · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Table 120 cm · Intérieur — Minato Geek",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Remise Association",
+          "qte": 1,
+          "pu": -10,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-03-30",
+      "dateEcheance": "2026-04-29",
+      "statut": "reglee",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "",
+      "createdAt": "2026-03-30T09:54:18.584Z"
+    },
+    {
+      "id": "fa_1779636242436_ecrw",
+      "num": "FAC-2026-0002",
+      "devisId": "dv-expo-1774691340723",
+      "devisNum": "DEV-STAND-2026-027",
+      "clientId": "cl-expo-1774691340723",
+      "clientNom": "Le vent des crêpes",
+      "clientAdresse": "12 Rue Auguste Idier",
+      "clientCP": "85800",
+      "clientVille": "Saint-Gilles-Croix-de-Vie",
+      "clientEmail": "helene@leventdescrepes.fr",
+      "clientTel": "07 88 14 31 75",
+      "clientSiret": "95222909400018",
+      "objet": "Stand food truck · 🌿 Ext. Village · 🌸🍂 Haru + Aki · Restauration · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location stand — 🌸 Édition Haru — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🌸 Haru]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location stand — 🍂 Édition Aki — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⚡ Alimentation électrique (prise) — Extérieur [🍂 Aki]",
+          "qte": 1,
+          "pu": 3,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 22,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 22,
+      "dateEmission": "2026-05-24",
+      "dateEcheance": "",
+      "statut": "reglee",
+      "montantRegle": 22,
+      "soldeRestant": 0,
+      "notes": "Contact : Hélène DALIGAULT\nNotes exposant : Besoin : \n1500 kw\n\nL'exposant fourni les tables Manges-debout\n\nOuverture exposant : \nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00",
+      "createdAt": "2026-05-24T15:24:02.437Z"
+    },
+    {
+      "id": "fa_1779636296828_wqoy",
+      "num": "FAC-2026-0003",
+      "devisId": "dv-expo-1773752772664",
+      "devisNum": "DEV-STAND-2026-022",
+      "clientId": "cl-expo-1773752772664",
+      "clientNom": "Les gourmandises de Biscottes",
+      "clientAdresse": "350 Chemin de la Basse Fouasserie",
+      "clientCP": "85710",
+      "clientVille": "La Garnache",
+      "clientEmail": "lesgourmandisesdebiscotte@gmail.com",
+      "clientTel": "06.95.66.51.83",
+      "clientSiret": "91391008900022",
+      "objet": "1 tonnelle(s) · Stand commercial · 🌿 Ext. Village · 🌸 Édition Haru · Patisserie fine · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Tonnelle 3×3 m · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 15,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur",
+          "qte": 3,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "⛺ Tonnelle 3×3 m — Extérieur ✓ inclus dans le forfait",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-05-24",
+      "dateEcheance": "",
+      "statut": "reglee",
+      "montantRegle": 15,
+      "soldeRestant": 0,
+      "notes": "Brouillon généré automatiquement à la création de l'exposant.\nContact : Maëva SAGEAT\nNotes exposant : Eclairage à prévoir en cas de jour \"sombre\" .\n⚠️ Vérifiez les tarifs avant validation.",
+      "createdAt": "2026-05-24T15:24:56.828Z"
+    },
+    {
+      "id": "fa_1779636317524_1pbu",
+      "num": "FAC-2026-0004",
+      "devisId": "dv-expo-1772789306607",
+      "devisNum": "DEV-STAND-2026-017",
+      "clientId": "cl-expo-1772789306607",
+      "clientNom": "Zabz & Yakujo",
+      "clientAdresse": "11 BIS RUE DE CADETTE",
+      "clientCP": "40200",
+      "clientVille": "MIMIZAN",
+      "clientEmail": "LENEB.OFFICIEL@GMAIL.COM",
+      "clientTel": "0624168470",
+      "clientSiret": "",
+      "objet": "Stand artiste/créateur · 🏛️ Int. Marie · 🌸🍂 Haru + Aki · Initiation au dessin · Minato Geek",
+      "lignes": [
+        {
+          "nom": "📍 Location emplacement stand — Zone 1 — intérieur  — Minato Geek  🌸 Haru]",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🌸 Haru]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 2 — Tonnelle 3×3 m · Extérieur — Minato Geek [🌸 Haru]",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Extérieur ✓ inclus dans le forfait [🌸 Haru]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Intérieur [🌸 Haru]",
+          "qte": 6,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 1 — intérieur  — Minato Geek   [🍂 Aki]",
+          "qte": 1,
+          "pu": 10,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🍂 Aki]",
+          "qte": 4,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📋 Chevalet paperboard [🍂 Aki]",
+          "qte": 1,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "📍 Location emplacement stand — Zone 2 — Tonnelle 3×3 m · Extérieur — Minato Geek",
+          "qte": 1,
+          "pu": 8,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🔲 Grille d'exposition — Extérieur[🍂 Aki]",
+          "qte": 1,
+          "pu": 2,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🪑 Table 120 cm — Intérieur ✓ inclus dans le forfait [🍂 Aki]",
+          "qte": 8,
+          "pu": 0,
+          "tva": 20,
+          "remise": 0
+        },
+        {
+          "nom": "🤝 Contre-service : Réalisation affiche Minato du Printemps",
+          "qte": 1,
+          "pu": -50,
+          "tva": 20,
+          "remise": 0
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-05-24",
+      "dateEcheance": "",
+      "statut": "reglee",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "Contact : Christelle Degras\nNotes exposant : [Stand 1 : Zone Marier] [Stand 2: village extérieur]\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00\n⚠️ Paiement en contre-service — montant = 50 €\n• Commission de 10% sur le chiffre d'affaires réalisé pendant l'événement\n• Commission appliquée UNIQUEMENT si votre CA dépasse 50 € sur la journée\n• Déclaration du CA en fin de journée (18h00) au stand organisation\n• Options électricité (3 €) et grille (2 €) disponibles si besoin\nExemples : atelier dessin manga payant (10 €/participant), cours de calligraphie payant, escape game mobile payant, initiation\nphotographie payante...\n🤝 POURQUOI CETTE POLITIQUE ?\nLa règle est simple : si le public paye pour votre activité, vous versez 10% à l'organisation (seulement si CA >\n50 €). Si votre activité est gratuite pour le public (démo, initiation, playtest, présentation...), votre participation\nest entièrement gratuite, quel que soit votre statut (club asso, studio indé, auto-entrepreneur...). Exemples : un\nstudio indé qui fait tester gratuitement son jeu = GRATUIT. Un prof de manga qui vend des cours à 10 € =\ncommission 10% si CA > 50 €.",
+      "createdAt": "2026-05-24T15:25:17.525Z"
+    }
+  ],
+  "dbReglements": [
+    {
+      "id": "rg_1779636259302_y9uh",
+      "factureId": 1774864458584,
+      "montant": 0,
+      "mode": "virement",
+      "date": "2026-05-24",
+      "ref": ""
+    },
+    {
+      "id": "rg_1779636264891_lrtc",
+      "factureId": "fa_1779636242436_ecrw",
+      "montant": 22,
+      "mode": "virement",
+      "date": "2026-05-24",
+      "ref": ""
+    },
+    {
+      "id": "rg_1779636302076_siri",
+      "factureId": "fa_1779636296828_wqoy",
+      "montant": 15,
+      "mode": "virement",
+      "date": "2026-05-24",
+      "ref": ""
+    },
+    {
+      "id": "rg_1779636323474_9tr3",
+      "factureId": "fa_1779636317524_1pbu",
+      "montant": 0,
+      "mode": "virement",
+      "date": "2026-05-24",
+      "ref": ""
+    }
+  ],
   "dbClients": [],
   "dbProduits": [
     {
