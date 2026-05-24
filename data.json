@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-24T07:36:17.661Z",
+  "_savedAt": "2026-05-24T07:54:08.943Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1945,7 +1945,13 @@
         }
       ]
     },
-    "anthropicKey": "sk-IKHOyegYHF6jX48XasQOhEoWCkhALrgibiNOHSbEVgWJDpBa"
+    "anthropicKey": "sk-IKHOyegYHF6jX48XasQOhEoWCkhALrgibiNOHSbEVgWJDpBa",
+    "iaConfig": {
+      "provider": "mistral",
+      "key": "TCCJAWScy2zwc45Tpe7BtQKITJJRQvsk",
+      "model": "",
+      "customEndpoint": ""
+    }
   },
   "dvUsersExtra": [],
   "dbFournisseurs": [
