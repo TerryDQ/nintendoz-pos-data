@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-25T08:24:16.922Z",
+  "_savedAt": "2026-05-25T08:31:41.516Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3229,7 +3229,33 @@
       }
     ],
     "ext": {
-      "evenements": [],
+      "evenements": [
+        {
+          "id": "ext_1779697616216_0wc5",
+          "nom": "Foire de Saint-Gilles-Croix-de-Vie",
+          "organisateur": "Offset5",
+          "typeOrga": "entreprise",
+          "dateDebut": "2026-05-14",
+          "dateFin": "2026-05-17",
+          "pack": "libre",
+          "options": [],
+          "nbJours": 4,
+          "km": 4,
+          "nbAnimateurs": 2,
+          "hebergement": 0,
+          "repas": 0,
+          "locationVehicule": false,
+          "abonnement": false,
+          "statut": "realise",
+          "paiement": "regle",
+          "email": "",
+          "tel": "",
+          "notes": "",
+          "libre_prix_session": 2,
+          "libre_nb_sessions": 20,
+          "packages_perso": []
+        }
+      ],
       "abonnements": [],
       "config": {
         "pack1": 450,
@@ -3250,7 +3276,8 @@
         "immob_min": 50,
         "immob_max": 150,
         "frais_gestion_pct": 8,
-        "remise_abo": 30
+        "remise_abo": 30,
+        "packages_perso": []
       },
       "boxCles": [
         {
