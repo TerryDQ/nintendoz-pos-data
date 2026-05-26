@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-26T09:13:55.584Z",
+  "_savedAt": "2026-05-26T09:14:44.482Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -953,8 +953,7 @@
   "subvNotes": {},
   "dbAgrements": [],
   "agrementsStatutsFixed": {
-    "jep": "en_cours",
-    "caf": "en_cours"
+    "jep": "en_cours"
   },
   "agrementsNotes": {},
   "dbCR": {
