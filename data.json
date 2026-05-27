@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-27T18:06:03.614Z",
+  "_savedAt": "2026-05-27T18:16:08.454Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -974,7 +974,8 @@
           "label": "Table 150 cm",
           "color": "#2563eb",
           "exposantId": null,
-          "locked": false
+          "locked": false,
+          "standNum": "A1"
         },
         {
           "id": "ecran_27_1779904942205_8899",
@@ -1004,7 +1005,8 @@
           "label": "Chaise",
           "color": "#60a5fa",
           "exposantId": null,
-          "locked": false
+          "locked": false,
+          "standNum": "A3"
         },
         {
           "id": "chaise_1779904964338_4088",
@@ -1019,7 +1021,8 @@
           "label": "Chaise",
           "color": "#60a5fa",
           "exposantId": null,
-          "locked": false
+          "locked": false,
+          "standNum": "A2"
         },
         {
           "id": "xbox_series_1779904999856_5703",
@@ -1041,8 +1044,8 @@
           "type": "mk_jakks",
           "calque": "gaming",
           "shape": "circuit_mk_jakks",
-          "x": 940,
-          "y": 160,
+          "x": 780,
+          "y": 260,
           "w": 400,
           "h": 400,
           "angle": 270,
@@ -1071,7 +1074,7 @@
           "calque": "gaming",
           "shape": "circuit_mk_live",
           "x": 1420,
-          "y": 180,
+          "y": 300,
           "w": 300,
           "h": 300,
           "angle": 0,
@@ -1079,11 +1082,132 @@
           "color": "#dc2626",
           "exposantId": null,
           "locked": false
+        },
+        {
+          "id": "table150_1779905182152_3798",
+          "type": "table150",
+          "calque": "tables",
+          "shape": "rect",
+          "x": 1500,
+          "y": 140,
+          "w": 150,
+          "h": 60,
+          "angle": 0,
+          "label": "Table 150 cm",
+          "color": "#2563eb",
+          "exposantId": null,
+          "locked": false,
+          "standNum": "B1"
+        },
+        {
+          "id": "multiprise_1779905197639_2042",
+          "type": "multiprise",
+          "calque": "equipements",
+          "shape": "rect",
+          "x": 1620,
+          "y": 180,
+          "w": 30,
+          "h": 20,
+          "angle": 0,
+          "label": "Multiprise",
+          "color": "#f59e0b",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "switch_lite_1779905218448_8473",
+          "type": "switch_lite",
+          "calque": "gaming",
+          "shape": "gaming_unit",
+          "x": 1500,
+          "y": 140,
+          "w": 25,
+          "h": 15,
+          "angle": 0,
+          "label": "Switch Lite",
+          "color": "#b91c1c",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "switch_lite_1779905224940_4509",
+          "type": "switch_lite",
+          "calque": "gaming",
+          "shape": "gaming_unit",
+          "x": 1540,
+          "y": 140,
+          "w": 25,
+          "h": 15,
+          "angle": 0,
+          "label": "Switch Lite",
+          "color": "#b91c1c",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "allee_pmr_1779905269982_5788",
+          "type": "allee_pmr",
+          "calque": "annotations",
+          "shape": "allee",
+          "x": 1120,
+          "y": 360,
+          "w": 400,
+          "h": 200,
+          "angle": 90,
+          "label": "Allée PMR",
+          "color": "#22c55e",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "allee_pmr_1779905307834_7060",
+          "type": "allee_pmr",
+          "calque": "annotations",
+          "shape": "allee",
+          "x": 780,
+          "y": 580,
+          "w": 1000,
+          "h": 200,
+          "angle": 0,
+          "label": "Allée PMR",
+          "color": "#22c55e",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "allee_pmr_1779905333553_6159",
+          "type": "allee_pmr",
+          "calque": "annotations",
+          "shape": "allee",
+          "x": 1620,
+          "y": 340,
+          "w": 400,
+          "h": 200,
+          "angle": 90,
+          "label": "Allée PMR",
+          "color": "#22c55e",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "allee_pmr_1779905346395_3640",
+          "type": "allee_pmr",
+          "calque": "annotations",
+          "shape": "allee",
+          "x": 800,
+          "y": 20,
+          "w": 1000,
+          "h": 200,
+          "angle": 0,
+          "label": "Allée PMR",
+          "color": "#22c55e",
+          "exposantId": null,
+          "locked": false
         }
       ],
       "murs": [],
       "editions": [],
-      "_lastModified": "2026-05-27T18:05:47.413Z"
+      "_lastModified": "2026-05-27T18:08:27.834Z"
     }
   },
   "dbPlansStand": {},
