@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-27T17:19:11.479Z",
+  "_savedAt": "2026-05-27T17:29:11.908Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3779,6 +3779,23 @@
       "siret": "",
       "notes": "",
       "contrat": true
+    },
+    {
+      "id": "prest_1779902328779_iz4z",
+      "nom": "Eihwaz - Harpe Celtique",
+      "type": "invite",
+      "sousType": "Chanteur / Musicien",
+      "specialite": "Harpes celtique - Musique de film",
+      "facturation": "asso",
+      "tarif": 884.99,
+      "prixVisiteur": 0,
+      "statut": "contacte",
+      "contact": "Linkaband",
+      "email": "",
+      "tel": "",
+      "siret": "",
+      "notes": "",
+      "contrat": false
     }
   ],
   "dbPrestataireAffectations": []
