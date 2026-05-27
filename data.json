@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-05-27T17:59:12.415Z",
+  "_savedAt": "2026-05-27T18:06:03.614Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -898,6 +898,192 @@
         "largeur": 2000,
         "hauteur": 1400
       }
+    },
+    "mg_marie": {
+      "id": "mg_marie",
+      "version": "4.6",
+      "nom": "🏛️ Salle Marie de Beaucaire",
+      "config": {
+        "largeur": 2400,
+        "hauteur": 1600,
+        "env": "Intérieur + Extérieur",
+        "grille": 20,
+        "fond": null
+      },
+      "calques": [
+        {
+          "id": "structure",
+          "label": "Structure / Murs",
+          "icon": "🧱",
+          "type": "fixe",
+          "color": "#6b7280",
+          "locked": true
+        },
+        {
+          "id": "equipements",
+          "label": "Équipements",
+          "icon": "🔌",
+          "type": "fixe",
+          "color": "#f59e0b",
+          "locked": false
+        },
+        {
+          "id": "securite",
+          "label": "Sécurité",
+          "icon": "🚪",
+          "type": "fixe",
+          "color": "#ef4444",
+          "locked": false
+        },
+        {
+          "id": "tables",
+          "label": "Tables & Stands",
+          "icon": "🪑",
+          "type": "evt",
+          "color": "#3b82f6",
+          "locked": false
+        },
+        {
+          "id": "exposants",
+          "label": "Exposants",
+          "icon": "🎪",
+          "type": "evt",
+          "color": "#8b5cf6",
+          "locked": false
+        },
+        {
+          "id": "annotations",
+          "label": "Annotations",
+          "icon": "💬",
+          "type": "evt",
+          "color": "#22c55e",
+          "locked": false
+        }
+      ],
+      "elements": [
+        {
+          "id": "table150_1779904935218_9035",
+          "type": "table150",
+          "calque": "tables",
+          "shape": "rect",
+          "x": 400,
+          "y": 160,
+          "w": 150,
+          "h": 60,
+          "angle": 0,
+          "label": "Table 150 cm",
+          "color": "#2563eb",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "ecran_27_1779904942205_8899",
+          "type": "ecran_27",
+          "calque": "gaming",
+          "shape": "ecran",
+          "x": 440,
+          "y": 160,
+          "w": 70,
+          "h": 45,
+          "angle": 0,
+          "label": "Écran 27\"",
+          "color": "#1e40af",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "chaise_1779904949456_387",
+          "type": "chaise",
+          "calque": "tables",
+          "shape": "circle",
+          "x": 500,
+          "y": 240,
+          "w": 40,
+          "h": 40,
+          "angle": 0,
+          "label": "Chaise",
+          "color": "#60a5fa",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "chaise_1779904964338_4088",
+          "type": "chaise",
+          "calque": "tables",
+          "shape": "circle",
+          "x": 420,
+          "y": 240,
+          "w": 40,
+          "h": 40,
+          "angle": 0,
+          "label": "Chaise",
+          "color": "#60a5fa",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "xbox_series_1779904999856_5703",
+          "type": "xbox_series",
+          "calque": "gaming",
+          "shape": "gaming_unit",
+          "x": 520,
+          "y": 180,
+          "w": 30,
+          "h": 30,
+          "angle": 0,
+          "label": "Xbox Series X",
+          "color": "#166534",
+          "exposantId": null,
+          "locked": false
+        },
+        {
+          "id": "mk_jakks_1779905038347_104",
+          "type": "mk_jakks",
+          "calque": "gaming",
+          "shape": "circuit_mk_jakks",
+          "x": 940,
+          "y": 160,
+          "w": 400,
+          "h": 400,
+          "angle": 270,
+          "label": "MK JAKKS 1:1 (4 j.)",
+          "color": "#f59e0b",
+          "exposantId": null,
+          "locked": false,
+          "gaming_obstacles": [
+            {
+              "rx": 0.5,
+              "ry": 0.3,
+              "w": 20,
+              "h": 20
+            },
+            {
+              "rx": 0.5,
+              "ry": 0.3,
+              "w": 20,
+              "h": 20
+            }
+          ]
+        },
+        {
+          "id": "mk_live_1779905142333_6521",
+          "type": "mk_live",
+          "calque": "gaming",
+          "shape": "circuit_mk_live",
+          "x": 1420,
+          "y": 180,
+          "w": 300,
+          "h": 300,
+          "angle": 0,
+          "label": "MK Live Home Circuit",
+          "color": "#dc2626",
+          "exposantId": null,
+          "locked": false
+        }
+      ],
+      "murs": [],
+      "editions": [],
+      "_lastModified": "2026-05-27T18:05:47.413Z"
     }
   },
   "dbPlansStand": {},
@@ -3761,7 +3947,6 @@
     "autre": []
   },
   "dbProjets": [],
-  "dbSysAccess": {},
   "dbPrestataires": [
     {
       "id": "prest_1779902241009_7hih",
@@ -3798,5 +3983,6 @@
       "contrat": false
     }
   ],
-  "dbPrestataireAffectations": []
+  "dbPrestataireAffectations": [],
+  "dbSysAccess": {}
 }
