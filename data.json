@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-06-29T17:13:54.024Z",
+  "_savedAt": "2026-06-29T17:23:54.225Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2100,6 +2100,64 @@
       "datePaiement": "2026-03-23",
       "modePaiement": "Virement",
       "refPaiement": ""
+    },
+    {
+      "id": "dv_1782752945740_s2wy",
+      "num": "DEV-2026-010",
+      "date": "2026-06-29",
+      "validite": "2026-07-10",
+      "type": "prestation",
+      "clientId": "",
+      "clientNom": "Mairie Saint-Hilaire-de-Riez",
+      "clientAdresse": "Pl. de l'Église,",
+      "clientCP": "85270",
+      "clientVille": "Saint-Hilaire-de-Riez",
+      "clientEmail": "dbonnin@sainthilairederiez.fr",
+      "clientTel": "06 23 10 59 23",
+      "clientSiret": "218 502 268 00012",
+      "objet": "Beach Sport Tour 2026",
+      "lignes": [
+        {
+          "nom": "Espace jeux vidéo",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Espace Cosplay",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Espace Manga O.S.E",
+          "qte": 1,
+          "pu": 200,
+          "tva": 0,
+          "remise": 0,
+          "total": 200
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 200,
+      "totalHTServices": 0,
+      "totalHT": 200,
+      "totalTTC": 200,
+      "paiementCond": "30j",
+      "paiementModal": "virement",
+      "notes": "",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-06-29T17:14:33.725Z"
     }
   ],
   "dbFactures": [
