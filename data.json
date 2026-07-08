@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-08T10:46:28.060Z",
+  "_savedAt": "2026-07-08T10:50:45.071Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -403,50 +403,6 @@
           "presences": {
             "haru": true
           }
-        },
-        {
-          "id": 1783506693309,
-          "nom": "Maison 1985",
-          "type": "artiste",
-          "zone": "exterieur-village",
-          "edition": "haru",
-          "surface": "",
-          "email": "tapissier.maison1885@gmail.com",
-          "tel": "0670298969",
-          "prenom": "Bérangère",
-          "nomContact": "AUBOURG",
-          "activite": "",
-          "siret": "",
-          "notes": "",
-          "ville": "LEGÉ",
-          "statut": "inscrit",
-          "paiement": "en_attente",
-          "materiel": {
-            "_biEdition": true,
-            "haru": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            },
-            "aki": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            }
-          },
-          "montant": {
-            "_biEdition": true,
-            "haru": 0,
-            "aki": 0
-          },
-          "option_stand": "option1",
-          "devisId": "dv_1783507009767_lg45"
         }
       ],
       "anims": [
@@ -2202,83 +2158,6 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-06-29T17:14:33.725Z"
-    },
-    {
-      "id": "dv_1783507009767_lg45",
-      "num": "DEV-STAND-2026-010",
-      "date": "2026-07-08",
-      "validite": "",
-      "type": "exposant",
-      "_expoId": 1783506693309,
-      "_expoCtx": "mg",
-      "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1985",
-      "clientAdresse": "18 rue de la Chaussée",
-      "clientCP": "44650",
-      "clientVille": "LEGÉ",
-      "clientEmail": "tapissier.maison1885@gmail.com",
-      "clientTel": "0670298969",
-      "clientSiret": "",
-      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🌸 Haru · Minato Geek",
-      "lignes": [
-        {
-          "nom": "🎫 Badge exposant (par personne)",
-          "qte": 2.01,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "total": 0,
-          "_note": "Offert"
-        },
-        {
-          "nom": "Tonelle 3x3 - Extérieur - Zone Créateur",
-          "qte": 2,
-          "pu": 15,
-          "tva": 0,
-          "remise": 0,
-          "total": 30
-        },
-        {
-          "nom": "Remise 50% Jour 2",
-          "qte": 1,
-          "pu": -7.5,
-          "tva": 0,
-          "remise": 0,
-          "total": -7.5
-        },
-        {
-          "nom": "Grille",
-          "qte": 1,
-          "pu": 2,
-          "tva": 0,
-          "remise": 0,
-          "total": 2
-        },
-        {
-          "nom": "Electricité",
-          "qte": 1,
-          "pu": 3,
-          "tva": 0,
-          "remise": 0,
-          "total": 3
-        }
-      ],
-      "services": [],
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 27.5,
-      "totalHTServices": 0,
-      "totalHT": 27.5,
-      "totalTTC": 27.5,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "Souhaite participer au Rally Tampon \nDos tonelle ouvert tonelle",
-      "statut": "brouillon",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-07-08T10:45:12.696Z"
     }
   ],
   "dbFactures": [
