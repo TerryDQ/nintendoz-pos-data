@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-08T10:36:27.552Z",
+  "_savedAt": "2026-07-08T10:40:45.049Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -403,49 +403,6 @@
           "presences": {
             "haru": true
           }
-        },
-        {
-          "id": 1783506693309,
-          "nom": "Maison 1985",
-          "type": "artiste",
-          "zone": "exterieur-village",
-          "edition": "haru",
-          "surface": "",
-          "email": "tapissier.maison1885@gmail.com",
-          "tel": "0670298969",
-          "prenom": "Bérangère",
-          "nomContact": "AUBOURG",
-          "activite": "",
-          "siret": "",
-          "notes": "",
-          "ville": "LEGÉ",
-          "statut": "inscrit",
-          "paiement": "en_attente",
-          "materiel": {
-            "_biEdition": true,
-            "haru": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            },
-            "aki": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            }
-          },
-          "montant": {
-            "_biEdition": true,
-            "haru": 0,
-            "aki": 0
-          },
-          "option_stand": "option1"
         }
       ],
       "anims": [
