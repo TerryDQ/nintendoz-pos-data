@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-08T19:21:13.055Z",
+  "_savedAt": "2026-07-08T19:22:13.056Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -403,6 +403,138 @@
           "presences": {
             "haru": true
           }
+        },
+        {
+          "id": 1783506693309,
+          "nom": "Maison 1985",
+          "type": "artiste",
+          "zone": "exterieur-village",
+          "edition": "aki",
+          "surface": "",
+          "email": "tapissier.maison1885@gmail.com",
+          "tel": "0670298969",
+          "prenom": "Bérangère",
+          "nomContact": "AUBOURG",
+          "activite": "",
+          "siret": "",
+          "notes": "",
+          "ville": "LEGÉ",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1783507009767_lg45"
+        },
+        {
+          "id": 1783507864554,
+          "nom": "Pat Créabois",
+          "type": "artiste",
+          "zone": "interieur-marie",
+          "edition": "aki",
+          "surface": "",
+          "email": "pat.craéa.bois@gmail.com",
+          "tel": "0614404741",
+          "prenom": "Patrick",
+          "nomContact": "MASSONEAU",
+          "activite": "",
+          "siret": "",
+          "notes": "",
+          "ville": "Le Fenouiller",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1783507978094_751h"
+        },
+        {
+          "id": 1783528660962,
+          "nom": "O REV CRAVAL",
+          "type": "artiste",
+          "zone": "interieur-marie",
+          "edition": "aki",
+          "surface": "",
+          "email": "vero-giraud@wanadoo.fr",
+          "tel": "0611792138",
+          "prenom": "Véronique",
+          "nomContact": "GIRAUD",
+          "activite": "Création textile - déco, accessoires modes et zéro déchet",
+          "siret": "",
+          "notes": "",
+          "ville": "",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1783528774944_jjh1"
         }
       ],
       "anims": [
@@ -2158,6 +2290,173 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-06-29T17:14:33.725Z"
+    },
+    {
+      "id": "dv_1783507009767_lg45",
+      "num": "DEV-STAND-2026-012",
+      "date": "2026-07-07",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1783506693309,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1783506693309",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "LEGÉ",
+      "clientEmail": "tapissier.maison1885@gmail.com",
+      "clientTel": "0670298969",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-07-08T10:55:33.666Z"
+    },
+    {
+      "id": "dv_1783507978094_751h",
+      "num": "DEV-STAND-2026-011",
+      "date": "2026-07-05",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1783507864554,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1783507864554",
+      "clientNom": "Pat Créabois",
+      "clientAdresse": "3 impasse de la ciboulette",
+      "clientCP": "85800",
+      "clientVille": "Le Fenouiller",
+      "clientEmail": "pat.craéa.bois@gmail.com",
+      "clientTel": "0614404741",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Espace créateur - Tonelle 3x3 ",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 15,
+      "totalHTServices": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-07-08T10:55:08.827Z"
+    },
+    {
+      "id": "dv_1783528774944_jjh1",
+      "num": "DEV-STAND-2026-012",
+      "date": "2026-07-04",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1783528660962,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1783528660962",
+      "clientNom": "O REV CRAVAL",
+      "clientAdresse": "8 rue Gabriel DELARUE",
+      "clientCP": "79230",
+      "clientVille": "VOUILLE",
+      "clientEmail": "vero-giraud@wanadoo.fr",
+      "clientTel": "0611792138",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Tonelle 3x3 - Extérieur",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise 50% 2ème jour",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 22.5,
+      "totalHTServices": 0,
+      "totalHT": 22.5,
+      "totalTTC": 22.5,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-07-08T16:43:43.938Z"
     }
   ],
   "dbFactures": [
