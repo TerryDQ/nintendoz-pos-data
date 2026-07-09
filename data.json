@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-09T14:22:47.856Z",
+  "_savedAt": "2026-07-09T14:31:27.454Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -535,6 +535,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1783528774944_jjh1"
+        },
+        {
+          "id": 1783606976583,
+          "nom": "The Little Good Witch",
+          "type": "artiste",
+          "zone": "interieur-marie",
+          "edition": "aki",
+          "surface": "",
+          "email": "thelittlegoodwitch@outlook.com",
+          "tel": "0627607101",
+          "prenom": "Ludivine",
+          "nomContact": "Wasquet",
+          "activite": "",
+          "siret": "",
+          "notes": "",
+          "ville": "",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1783607298592_mj58"
         }
       ],
       "anims": [
@@ -2457,6 +2501,51 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-07-08T16:43:43.938Z"
+    },
+    {
+      "id": "dv_1783607298592_mj58",
+      "num": "DEV-STAND-2026-013",
+      "date": "2026-07-09",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1783606976583,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1783606976583",
+      "clientNom": "The Little Good Witch",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "thelittlegoodwitch@outlook.com",
+      "clientTel": "0627607101",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-07-09"
     }
   ],
   "dbFactures": [
