@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-10T14:32:13.085Z",
+  "_savedAt": "2026-07-10T14:42:11.576Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -496,7 +496,7 @@
           "id": 1783528660962,
           "nom": "O REV CRAVAL",
           "type": "artiste",
-          "zone": "interieur-marie",
+          "zone": "exterieur-place",
           "edition": "aki",
           "surface": "",
           "email": "vero-giraud@wanadoo.fr",
