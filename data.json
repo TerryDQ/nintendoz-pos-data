@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-12T16:03:39.381Z",
+  "_savedAt": "2026-07-12T16:14:19.194Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2771,7 +2771,7 @@
     },
     {
       "id": "dv_1783871018883_dpac",
-      "num": "DEV-STAND-2026-016",
+      "num": "DEV-STAND-2026-017",
       "date": "2026-07-12",
       "validite": "",
       "type": "exposant",
@@ -2780,9 +2780,9 @@
       "clientId": "cl-expo-1783870555343",
       "clientNom": "Comme Mamie",
       "clientAdresse": "",
-      "clientCP": "85230",
-      "clientVille": "Saint-Gervais",
-      "clientEmail": "sandie.e@orange.fr",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "",
       "clientTel": "",
       "clientSiret": "",
       "objet": "Stand food · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
@@ -2795,22 +2795,6 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "STAND NU EXTÉRIEUR – J'APPORTE MA TONNELLE 3×3",
-          "qte": 1,
-          "pu": 8,
-          "tva": 0,
-          "remise": 0,
-          "total": 8
-        },
-        {
-          "nom": "",
-          "qte": 1,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "total": 0
         }
       ],
       "services": [],
@@ -2819,16 +2803,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 8,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 8,
-      "totalTTC": 8,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-12T15:47:47.217Z"
+      "updatedAt": "2026-07-12"
     }
   ],
   "dbFactures": [
