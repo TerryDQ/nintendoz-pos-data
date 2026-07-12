@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-10T20:37:09.295Z",
+  "_savedAt": "2026-07-12T15:33:23.148Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -623,6 +623,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1783692607433_f88z"
+        },
+        {
+          "id": 1783870155243,
+          "nom": "Mello Von Mobius",
+          "type": "artiste",
+          "zone": "exterieur-village",
+          "edition": "aki",
+          "surface": "",
+          "email": "melloan@hotmail.fr",
+          "tel": "0642965644",
+          "prenom": "Mélanie",
+          "nomContact": "MOUGENOT",
+          "activite": "",
+          "siret": "",
+          "notes": "",
+          "ville": "Le Fenouiller",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1783870231846_m54z"
         }
       ],
       "anims": [
@@ -2667,6 +2711,51 @@
       "statut": "brouillon",
       "createdBy": "Bureau",
       "updatedAt": "2026-07-10T14:14:12.363Z"
+    },
+    {
+      "id": "dv_1783870231846_m54z",
+      "num": "DEV-STAND-2026-015",
+      "date": "2026-07-12",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1783870155243,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1783870155243",
+      "clientNom": "Mello Von Mobius",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Le Fenouiller",
+      "clientEmail": "melloan@hotmail.fr",
+      "clientTel": "0642965644",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-07-12"
     }
   ],
   "dbFactures": [
