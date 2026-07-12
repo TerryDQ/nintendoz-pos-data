@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-12T16:23:23.158Z",
+  "_savedAt": "2026-07-12T16:30:19.279Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2795,6 +2795,14 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Stand nu ",
+          "qte": 1,
+          "pu": 8,
+          "tva": 0,
+          "remise": 0,
+          "total": 8
         }
       ],
       "services": [],
@@ -2803,16 +2811,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 8,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 8,
+      "totalTTC": 8,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12T16:26:28.396Z"
     }
   ],
   "dbFactures": [
