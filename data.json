@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-13T16:11:42.643Z",
+  "_savedAt": "2026-07-13T16:21:45.229Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2478,7 +2478,7 @@
       "clientId": "cl-expo-1783506693309",
       "clientNom": "Maison 1985",
       "clientAdresse": "",
-      "clientCP": "",
+      "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
       "clientTel": "0670298969",
@@ -2487,12 +2487,36 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Tonnelle 3x3 - Extérieur - Dos ouvert",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Option Grille + Électricité – Pack combiné",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
         }
       ],
       "services": [],
@@ -2501,16 +2525,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 27.5,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 27.5,
+      "totalTTC": 27.5,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Nombre de table souhaité : 3",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-08T10:55:33.666Z"
+      "updatedAt": "2026-07-13T16:19:47.739Z"
     },
     {
       "id": "dv_1783507978094_751h",
@@ -2632,7 +2656,7 @@
       "notes": "",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-08T16:43:43.938Z"
+      "updatedAt": "2026-07-13T16:14:21.225Z"
     },
     {
       "id": "dv_1783607298592_mj58",
@@ -2644,9 +2668,9 @@
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783606976583",
       "clientNom": "The Little Good Witch",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "85800",
+      "clientCP": "La Roche-sur-Yon",
+      "clientVille": "La Roche-sur-Yon",
       "clientEmail": "thelittlegoodwitch@outlook.com",
       "clientTel": "0627607101",
       "clientSiret": "",
@@ -2660,6 +2684,30 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Stand nu - Intérieur",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        },
+        {
+          "nom": "Remise 2ème jour",
+          "qte": 1,
+          "pu": 2.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 2.5
+        },
+        {
+          "nom": "Grille",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
         }
       ],
       "services": [],
@@ -2668,16 +2716,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 9.5,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 9.5,
+      "totalTTC": 9.5,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Souhaite participer aux lots de la chasse au trésors et rallye tampon",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-13T16:12:59.578Z"
     },
     {
       "id": "dv_1783692607433_f88z",
