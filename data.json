@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-14T16:12:17.713Z",
+  "_savedAt": "2026-07-14T16:22:17.467Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1206,6 +1206,88 @@
         "largeur": 2000,
         "hauteur": 1400
       }
+    },
+    "mg_marie": {
+      "id": "mg_marie",
+      "version": "4.6",
+      "nom": "🏛️ Salle Marie de Beaucaire",
+      "config": {
+        "largeur": 2400,
+        "hauteur": 1600,
+        "env": "Intérieur + Extérieur",
+        "grille": 20,
+        "fond": null
+      },
+      "calques": [
+        {
+          "id": "structure",
+          "label": "Structure / Murs",
+          "icon": "🧱",
+          "type": "fixe",
+          "color": "#6b7280",
+          "locked": true
+        },
+        {
+          "id": "equipements",
+          "label": "Équipements",
+          "icon": "🔌",
+          "type": "fixe",
+          "color": "#f59e0b",
+          "locked": false
+        },
+        {
+          "id": "securite",
+          "label": "Sécurité",
+          "icon": "🚪",
+          "type": "fixe",
+          "color": "#ef4444",
+          "locked": false
+        },
+        {
+          "id": "tables",
+          "label": "Tables & Stands",
+          "icon": "🪑",
+          "type": "evt",
+          "color": "#3b82f6",
+          "locked": false
+        },
+        {
+          "id": "exposants",
+          "label": "Exposants",
+          "icon": "🎪",
+          "type": "evt",
+          "color": "#8b5cf6",
+          "locked": false
+        },
+        {
+          "id": "annotations",
+          "label": "Annotations",
+          "icon": "💬",
+          "type": "evt",
+          "color": "#22c55e",
+          "locked": false
+        }
+      ],
+      "elements": [
+        {
+          "id": "mur_1784045714819_1245",
+          "type": "mur",
+          "calque": "structure",
+          "shape": "rect",
+          "x": 380,
+          "y": 420,
+          "w": 1500,
+          "h": 20,
+          "angle": 0,
+          "label": "Mur",
+          "color": "#4b5563",
+          "exposantId": null,
+          "locked": false
+        }
+      ],
+      "murs": [],
+      "editions": [],
+      "_lastModified": "2026-07-14T16:15:41.937Z"
     }
   },
   "dbPlansStand": {},
