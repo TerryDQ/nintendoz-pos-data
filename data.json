@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-07-29T16:55:12.045Z",
+  "_savedAt": "2026-07-29T17:05:12.827Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3023,16 +3023,16 @@
     {
       "id": "dv_1785344032965_djxn",
       "num": "DEV-STAND-2026-017",
-      "date": "2026-07-29",
+      "date": "2026-07-28",
       "validite": "",
       "type": "exposant",
       "_expoId": 1785343831047,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1785343831047",
       "clientNom": "Lulu Folie's",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "29 rue de l'Europe",
+      "clientCP": "85220",
+      "clientVille": "Coex",
       "clientEmail": "lulufolie@gmail.com",
       "clientTel": "0680517255",
       "clientSiret": "",
@@ -3040,12 +3040,20 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement tonnelle 3x3 - Option 2 - Dos ouvert - aucun cloisonnement",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
         }
       ],
       "services": [],
@@ -3054,16 +3062,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 15,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "",
+      "notes": "Table : 1",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-29"
+      "updatedAt": "2026-07-29T16:56:54.549Z"
     }
   ],
   "dbFactures": [
