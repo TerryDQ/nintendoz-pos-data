@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-03T16:50:42.225Z",
+  "_savedAt": "2026-08-16T14:28:54.333Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2597,9 +2597,9 @@
       "paiementCond": "30j",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-19T10:02:39.045Z"
+      "updatedAt": "2026-08-16T14:24:05.608Z"
     },
     {
       "id": "dv_1783507009767_lg45",
@@ -3361,6 +3361,67 @@
       "soldeRestant": 0,
       "notes": "Contact : Christelle Degras\nNotes exposant : [Stand 1 : Zone Marier] [Stand 2: village extérieur]\nHoraire d'ouverture exposant : \nSamedi à partir de 14:30 à 19h30\nDimanche à partir de 8:30 à 11:00\n\nOuverture public dimanche de 11h00 à 18h00\n⚠️ Paiement en contre-service — montant = 50 €\n• Commission de 10% sur le chiffre d'affaires réalisé pendant l'événement\n• Commission appliquée UNIQUEMENT si votre CA dépasse 50 € sur la journée\n• Déclaration du CA en fin de journée (18h00) au stand organisation\n• Options électricité (3 €) et grille (2 €) disponibles si besoin\nExemples : atelier dessin manga payant (10 €/participant), cours de calligraphie payant, escape game mobile payant, initiation\nphotographie payante...\n🤝 POURQUOI CETTE POLITIQUE ?\nLa règle est simple : si le public paye pour votre activité, vous versez 10% à l'organisation (seulement si CA >\n50 €). Si votre activité est gratuite pour le public (démo, initiation, playtest, présentation...), votre participation\nest entièrement gratuite, quel que soit votre statut (club asso, studio indé, auto-entrepreneur...). Exemples : un\nstudio indé qui fait tester gratuitement son jeu = GRATUIT. Un prof de manga qui vend des cours à 10 € =\ncommission 10% si CA > 50 €.",
       "createdAt": "2026-05-24T15:25:17.525Z"
+    },
+    {
+      "id": "fa_1786890245608_ggqc",
+      "num": "FAC-2026-005",
+      "devisId": "dv_1782752945740_s2wy",
+      "devisNum": "DEV-2026-010",
+      "_extId": null,
+      "clientId": "",
+      "clientNom": "Mairie Saint-Hilaire-de-Riez",
+      "clientAdresse": "Pl. de l'Église,",
+      "clientCP": "85270",
+      "clientVille": "Saint-Hilaire-de-Riez",
+      "clientEmail": "dbonnin@sainthilairederiez.fr",
+      "clientTel": "06 23 10 59 23",
+      "clientSiret": "218 502 268 00012",
+      "objet": "Beach Sport Tour 2026",
+      "lignes": [
+        {
+          "nom": "Espace Animation Pop Culture",
+          "qte": 1,
+          "pu": 2200,
+          "tva": 0,
+          "remise": 0,
+          "total": 2200
+        },
+        {
+          "nom": "Photobooth Vaiana",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Auteur Manga O.S.E + Animation",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Jeux Vidéo Switch 2 / Xbox Series S",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        }
+      ],
+      "totalHT": 2200,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 2200,
+      "dateEmission": "2026-08-16",
+      "dateEcheance": "2026-09-16",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 2200,
+      "notes": "",
+      "createdAt": "2026-08-16T14:24:05.608Z"
     }
   ],
   "dbReglements": [
