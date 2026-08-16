@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-16T16:48:54.288Z",
+  "_savedAt": "2026-08-16T16:54:26.305Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2666,9 +2666,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Nombre de table souhaité : 3",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-13T16:19:47.739Z"
+      "updatedAt": "2026-08-16T16:49:04.857Z"
     },
     {
       "id": "dv_1783507978094_751h",
@@ -3422,6 +3422,68 @@
       "soldeRestant": 2200,
       "notes": "",
       "createdAt": "2026-08-16T14:24:05.608Z"
+    },
+    {
+      "id": "fa_1786898944857_b7qx",
+      "num": "FAC-2026-006",
+      "devisId": "dv_1783507009767_lg45",
+      "devisNum": "DEV-STAND-2026-012",
+      "_extId": null,
+      "clientId": "cl-expo-1783506693309",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
+      "clientCP": "44650",
+      "clientVille": "LEGÉ",
+      "clientEmail": "tapissier.maison1885@gmail.com",
+      "clientTel": "0670298969",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Tonnelle 3x3 - Extérieur - Dos ouvert",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Option Grille + Électricité – Pack combiné",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        }
+      ],
+      "totalHT": 27.5,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 27.5,
+      "dateEmission": "2026-08-16",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 27.5,
+      "notes": "Nombre de table souhaité : 3",
+      "createdAt": "2026-08-16T16:49:04.857Z"
     }
   ],
   "dbReglements": [
