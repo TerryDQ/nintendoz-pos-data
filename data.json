@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-17T16:24:26.358Z",
+  "_savedAt": "2026-08-17T16:33:54.256Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2969,8 +2969,8 @@
     },
     {
       "id": "dv_1783871018883_dpac",
-      "num": "DEV-STAND-2026-017",
-      "date": "2026-07-12",
+      "num": "DEV-STAND-2026-018",
+      "date": "2026-08-17",
       "validite": "",
       "type": "exposant",
       "_expoId": 1783870555343,
@@ -2987,20 +2987,12 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 2,
+          "qte": 1,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "Stand nu - Extérieur - 18 oct.26",
-          "qte": 1,
-          "pu": 8,
-          "tva": 0,
-          "remise": 0,
-          "total": 8
         }
       ],
       "services": [],
@@ -3009,30 +3001,30 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 8,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 8,
-      "totalTTC": 8,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Table : 1",
+      "notes": "",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-13T16:23:57.593Z"
+      "updatedAt": "2026-08-17"
     },
     {
       "id": "dv_1785344032965_djxn",
-      "num": "DEV-STAND-2026-017",
-      "date": "2026-07-28",
+      "num": "DEV-STAND-2026-018",
+      "date": "2026-08-17",
       "validite": "",
       "type": "exposant",
       "_expoId": 1785343831047,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1785343831047",
       "clientNom": "Lulu Folie's",
-      "clientAdresse": "29 rue de l'Europe",
-      "clientCP": "85220",
-      "clientVille": "Coex",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
       "clientEmail": "lulufolie@gmail.com",
       "clientTel": "0680517255",
       "clientSiret": "",
@@ -3040,20 +3032,12 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 2,
+          "qte": 1,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "Emplacement tonnelle 3x3 - Option 2 - Dos ouvert - aucun cloisonnement",
-          "qte": 1,
-          "pu": 15,
-          "tva": 0,
-          "remise": 0,
-          "total": 15
         }
       ],
       "services": [],
@@ -3062,16 +3046,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 15,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 15,
-      "totalTTC": 15,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Table : 1",
+      "notes": "",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-29T16:56:54.549Z"
+      "updatedAt": "2026-08-17"
     }
   ],
   "dbFactures": [
