@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-17T20:14:26.300Z",
+  "_savedAt": "2026-08-19T14:17:35.285Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2991,7 +2991,7 @@
     {
       "id": "dv_1785344032965_djxn",
       "num": "DEV-STAND-2026-018",
-      "date": "2026-08-17",
+      "date": "2026-08-19",
       "validite": "",
       "type": "exposant",
       "_expoId": 1785343831047,
@@ -3029,9 +3029,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-17"
+      "updatedAt": "2026-08-19T14:16:48.910Z"
     }
   ],
   "dbFactures": [
@@ -3444,6 +3444,44 @@
       "soldeRestant": 27.5,
       "notes": "Nombre de table souhaité : 3",
       "createdAt": "2026-08-16T16:49:04.857Z"
+    },
+    {
+      "id": "fa_1787149008910_c90s",
+      "num": "FAC-2026-007",
+      "devisId": "dv_1785344032965_djxn",
+      "devisNum": "DEV-STAND-2026-018",
+      "_extId": null,
+      "clientId": "cl-expo-1785343831047",
+      "clientNom": "Lulu Folie's",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "lulufolie@gmail.com",
+      "clientTel": "0680517255",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-08-19",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "",
+      "createdAt": "2026-08-19T14:16:48.910Z"
     }
   ],
   "dbReglements": [
