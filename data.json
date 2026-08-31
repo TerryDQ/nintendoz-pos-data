@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-31T14:24:02.509Z",
+  "_savedAt": "2026-08-31T14:27:33.427Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2610,8 +2610,8 @@
       "_expoId": 1783506693309,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1985",
-      "clientAdresse": "",
+      "clientNom": "Maison 1885 - Tapissier garnisseur",
+      "clientAdresse": "18 rue de la Chaussée",
       "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
@@ -2651,6 +2651,14 @@
           "tva": 0,
           "remise": 0,
           "total": 5
+        },
+        {
+          "nom": "Paiement en lots ",
+          "qte": 1,
+          "pu": -27.5,
+          "tva": 0,
+          "remise": 0,
+          "total": -27.5
         }
       ],
       "services": [],
@@ -2659,16 +2667,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 27.5,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 27.5,
-      "totalTTC": 27.5,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Nombre de table souhaité : 3",
+      "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-31T13:33:30.898Z"
+      "updatedAt": "2026-08-31T14:10:55.866Z"
     },
     {
       "id": "dv_1783507978094_751h",
