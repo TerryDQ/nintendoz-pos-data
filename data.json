@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-31T14:36:11.071Z",
+  "_savedAt": "2026-08-31T14:36:28.614Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3455,7 +3455,7 @@
       "totalTTC": 0,
       "dateEmission": "2026-08-16",
       "dateEcheance": "",
-      "statut": "emise",
+      "statut": "reglee",
       "montantRegle": 0,
       "soldeRestant": 0,
       "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
