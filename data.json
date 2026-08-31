@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-08-31T18:13:02.693Z",
+  "_savedAt": "2026-08-31T18:14:02.823Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2610,8 +2610,8 @@
       "_expoId": 1783506693309,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1885 - Tapissier garnisseur",
-      "clientAdresse": "18 rue de la Chaussée",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
       "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
@@ -2651,14 +2651,6 @@
           "tva": 0,
           "remise": 0,
           "total": 5
-        },
-        {
-          "nom": "Paiement en lots ",
-          "qte": 1,
-          "pu": -27.5,
-          "tva": 0,
-          "remise": 0,
-          "total": -27.5
         }
       ],
       "services": [],
@@ -2667,16 +2659,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 27.5,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 27.5,
+      "totalTTC": 27.5,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
-      "statut": "envoye",
+      "notes": "Nombre de table souhaité : 3",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-31T14:28:19.824Z"
+      "updatedAt": "2026-08-31T13:33:30.898Z"
     },
     {
       "id": "dv_1783507978094_751h",
@@ -3037,9 +3029,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "envoye",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-31T14:36:11.048Z"
+      "updatedAt": "2026-08-19T14:18:29.392Z"
     }
   ],
   "dbFactures": [
@@ -3398,8 +3390,8 @@
       "devisNum": "DEV-STAND-2026-012",
       "_extId": null,
       "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1885 - Tapissier garnisseur",
-      "clientAdresse": "18 rue de la Chaussée",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
       "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
@@ -3439,26 +3431,18 @@
           "tva": 0,
           "remise": 0,
           "total": 5
-        },
-        {
-          "nom": "Paiement en lots ",
-          "qte": 1,
-          "pu": -27.5,
-          "tva": 0,
-          "remise": 0,
-          "total": -27.5
         }
       ],
-      "totalHT": 0,
+      "totalHT": 27.5,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 0,
+      "totalTTC": 27.5,
       "dateEmission": "2026-08-16",
       "dateEcheance": "",
-      "statut": "reglee",
+      "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
+      "soldeRestant": 27.5,
+      "notes": "Nombre de table souhaité : 3",
       "createdAt": "2026-08-16T16:49:04.857Z"
     },
     {
@@ -3498,6 +3482,106 @@
       "soldeRestant": 0,
       "notes": "",
       "createdAt": "2026-08-19T14:16:48.910Z"
+    },
+    {
+      "id": "fa_1787149109392_wi4m",
+      "num": "FAC-2026-008",
+      "devisId": "dv_1785344032965_djxn",
+      "devisNum": "DEV-STAND-2026-018",
+      "_extId": null,
+      "clientId": "cl-expo-1785343831047",
+      "clientNom": "Lulu Folie's",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "lulufolie@gmail.com",
+      "clientTel": "0680517255",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-08-19",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "",
+      "createdAt": "2026-08-19T14:18:29.392Z"
+    },
+    {
+      "id": "fa_1788183210898_vhkt",
+      "num": "FAC-2026-009",
+      "devisId": "dv_1783507009767_lg45",
+      "devisNum": "DEV-STAND-2026-012",
+      "_extId": null,
+      "clientId": "cl-expo-1783506693309",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
+      "clientCP": "44650",
+      "clientVille": "LEGÉ",
+      "clientEmail": "tapissier.maison1885@gmail.com",
+      "clientTel": "0670298969",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Tonnelle 3x3 - Extérieur - Dos ouvert",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Option Grille + Électricité – Pack combiné",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        }
+      ],
+      "totalHT": 27.5,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 27.5,
+      "dateEmission": "2026-08-31",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 27.5,
+      "notes": "Nombre de table souhaité : 3",
+      "createdAt": "2026-08-31T13:33:30.898Z"
     }
   ],
   "dbReglements": [
