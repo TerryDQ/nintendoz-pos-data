@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-01T12:15:02.370Z",
+  "_savedAt": "2026-09-01T12:19:02.895Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -4954,7 +4954,7 @@
     "autre": []
   },
   "dbProjets": [],
+  "dbSysAccess": {},
   "dbPrestataires": [],
-  "dbPrestataireAffectations": [],
-  "dbSysAccess": {}
+  "dbPrestataireAffectations": []
 }
