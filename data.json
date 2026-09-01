@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-01T09:56:38.419Z",
+  "_savedAt": "2026-09-01T09:57:04.185Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -758,7 +758,7 @@
         },
         {
           "id": 1788256279465,
-          "nom": "Bonneau Grégorie",
+          "nom": "Bonneau Grégory",
           "type": "artiste",
           "zone": "exterieur-place",
           "edition": "aki",
@@ -3134,9 +3134,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-01T09:56:38.375Z"
+      "updatedAt": "2026-09-01T09:57:04.172Z"
     }
   ],
   "dbFactures": [
@@ -3640,6 +3640,51 @@
       "soldeRestant": 15,
       "notes": "",
       "createdAt": "2026-09-01T09:37:44.040Z"
+    },
+    {
+      "id": "fa_1788256624172_oll1",
+      "num": "FAC-2026-0009",
+      "devisId": "dv_1788256441612_qym7",
+      "devisNum": "DEV-STAND-2026-018",
+      "clientId": "cl-expo-1788256279465",
+      "clientNom": "Bonneau Grégory",
+      "clientAdresse": "13 rue de Ramboullet",
+      "clientCP": "",
+      "clientVille": "CHALLANS",
+      "clientEmail": "ogregb.auteur@gmail.com",
+      "clientTel": "06 87 70 71 18",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement stand S - Intérieur - contre mur",
+          "qte": 1,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0,
+          "total": 10
+        }
+      ],
+      "totalHT": 10,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 10,
+      "dateEmission": "2026-09-01",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 10,
+      "notes": "",
+      "createdAt": "2026-09-01T09:57:04.172Z"
     }
   ],
   "dbReglements": [
