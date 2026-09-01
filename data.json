@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-01T17:38:01.335Z",
+  "_savedAt": "2026-09-01T17:44:01.590Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -755,50 +755,6 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1785344032965_djxn"
-        },
-        {
-          "id": 1788256279465,
-          "nom": "Bonneau Grégory",
-          "type": "artiste",
-          "zone": "exterieur-place",
-          "edition": "aki",
-          "surface": "",
-          "email": "ogregb.auteur@gmail.com",
-          "tel": "06 87 70 71 18",
-          "prenom": "Grégory",
-          "nomContact": "Bonneau",
-          "activite": "Auteur",
-          "siret": "",
-          "notes": "",
-          "ville": "CHALLANS",
-          "statut": "inscrit",
-          "paiement": "en_attente",
-          "materiel": {
-            "_biEdition": true,
-            "haru": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            },
-            "aki": {
-              "table120": 0,
-              "table150": 0,
-              "elec": 0,
-              "tonnelle": 0,
-              "grilles": 0,
-              "paperboard": 0
-            }
-          },
-          "montant": {
-            "_biEdition": true,
-            "haru": 0,
-            "aki": 0
-          },
-          "option_stand": "option1",
-          "devisId": "dv_1788256441612_qym7"
         }
       ],
       "anims": [
@@ -2654,8 +2610,8 @@
       "_expoId": 1783506693309,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1885 - Tapissier garnisseur",
-      "clientAdresse": "18 rue de la Chaussée",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
       "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
@@ -2695,14 +2651,6 @@
           "tva": 0,
           "remise": 0,
           "total": 5
-        },
-        {
-          "nom": "Paiement en lots ",
-          "qte": 1,
-          "pu": -27.5,
-          "tva": 0,
-          "remise": 0,
-          "total": -27.5
         }
       ],
       "services": [],
@@ -2711,16 +2659,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 27.5,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 27.5,
+      "totalTTC": 27.5,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
-      "statut": "envoye",
+      "notes": "Nombre de table souhaité : 3",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-31T14:28:19.824Z"
+      "updatedAt": "2026-08-31T13:33:30.898Z"
     },
     {
       "id": "dv_1783507978094_751h",
@@ -2938,9 +2886,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "facture",
+      "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-01T09:37:44.040Z"
+      "updatedAt": "2026-07-13T16:08:14.567Z"
     },
     {
       "id": "dv_1783870231846_m54z",
@@ -3081,62 +3029,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "envoye",
-      "createdBy": "Bureau",
-      "updatedAt": "2026-08-31T14:36:11.048Z"
-    },
-    {
-      "id": "dv_1788256441612_qym7",
-      "num": "DEV-STAND-2026-018",
-      "date": "2026-09-01",
-      "validite": "",
-      "type": "exposant",
-      "_expoId": 1788256279465,
-      "_expoCtx": "mg",
-      "clientId": "cl-expo-1788256279465",
-      "clientNom": "Bonneau Grégory",
-      "clientAdresse": "13 rue de Ramboullet",
-      "clientCP": "",
-      "clientVille": "CHALLANS",
-      "clientEmail": "ogregb.auteur@gmail.com",
-      "clientTel": "06 87 70 71 18",
-      "clientSiret": "",
-      "objet": "Stand artiste · ? m² · 🌿 Int. · 🍂 Aki · Minato Geek",
-      "lignes": [
-        {
-          "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "total": 0,
-          "_note": "Offert"
-        },
-        {
-          "nom": "Emplacement stand S - Intérieur - contre mur",
-          "qte": 1,
-          "pu": 10,
-          "tva": 0,
-          "remise": 0,
-          "total": 10
-        }
-      ],
-      "services": [],
-      "remiseGlobale": 0,
-      "fraisGestion": 0,
-      "fraisGestionActif": false,
-      "fraisGestionTaux": 8,
-      "tvaActif": false,
-      "totalHTLignes": 10,
-      "totalHTServices": 0,
-      "totalHT": 10,
-      "totalTTC": 10,
-      "paiementCond": "avant_evt",
-      "paiementModal": "virement",
-      "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-01T09:57:04.172Z"
+      "updatedAt": "2026-08-19T14:18:29.392Z"
     }
   ],
   "dbFactures": [
@@ -3495,8 +3390,8 @@
       "devisNum": "DEV-STAND-2026-012",
       "_extId": null,
       "clientId": "cl-expo-1783506693309",
-      "clientNom": "Maison 1885 - Tapissier garnisseur",
-      "clientAdresse": "18 rue de la Chaussée",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
       "clientCP": "44650",
       "clientVille": "LEGÉ",
       "clientEmail": "tapissier.maison1885@gmail.com",
@@ -3536,26 +3431,18 @@
           "tva": 0,
           "remise": 0,
           "total": 5
-        },
-        {
-          "nom": "Paiement en lots ",
-          "qte": 1,
-          "pu": -27.5,
-          "tva": 0,
-          "remise": 0,
-          "total": -27.5
         }
       ],
-      "totalHT": 0,
+      "totalHT": 27.5,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 0,
+      "totalTTC": 27.5,
       "dateEmission": "2026-08-16",
       "dateEcheance": "",
-      "statut": "reglee",
+      "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "Nombre de table souhaité : 3\nRemise de lots pour chasse aux trésors et/ou Rally Tampon",
+      "soldeRestant": 27.5,
+      "notes": "Nombre de table souhaité : 3",
       "createdAt": "2026-08-16T16:49:04.857Z"
     },
     {
@@ -3597,17 +3484,18 @@
       "createdAt": "2026-08-19T14:16:48.910Z"
     },
     {
-      "id": "fa_1788255464040_z3bz",
-      "num": "FAC-2026-0008",
-      "devisId": "dv_1783692607433_f88z",
-      "devisNum": "DEV-STAND-2026-017",
-      "clientId": "cl-expo-1783692519212",
-      "clientNom": "LEWANA",
-      "clientAdresse": "5 rue des Salicones",
-      "clientCP": "85800",
-      "clientVille": "Le Fenouiller",
-      "clientEmail": "lewana85800@gmail.com",
-      "clientTel": "0624580241",
+      "id": "fa_1787149109392_wi4m",
+      "num": "FAC-2026-008",
+      "devisId": "dv_1785344032965_djxn",
+      "devisNum": "DEV-STAND-2026-018",
+      "_extId": null,
+      "clientId": "cl-expo-1785343831047",
+      "clientNom": "Lulu Folie's",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "lulufolie@gmail.com",
+      "clientTel": "0680517255",
       "clientSiret": "",
       "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
       "lignes": [
@@ -3619,46 +3507,39 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "Tonelle 3x3 - Extérieur",
-          "qte": 1,
-          "pu": 15,
-          "tva": 0,
-          "remise": 0,
-          "total": 15
         }
       ],
-      "totalHT": 15,
+      "totalHT": 0,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 15,
-      "dateEmission": "2026-09-01",
+      "totalTTC": 0,
+      "dateEmission": "2026-08-19",
       "dateEcheance": "",
       "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 15,
+      "soldeRestant": 0,
       "notes": "",
-      "createdAt": "2026-09-01T09:37:44.040Z"
+      "createdAt": "2026-08-19T14:18:29.392Z"
     },
     {
-      "id": "fa_1788256624172_oll1",
-      "num": "FAC-2026-0009",
-      "devisId": "dv_1788256441612_qym7",
-      "devisNum": "DEV-STAND-2026-018",
-      "clientId": "cl-expo-1788256279465",
-      "clientNom": "Bonneau Grégory",
-      "clientAdresse": "13 rue de Ramboullet",
-      "clientCP": "",
-      "clientVille": "CHALLANS",
-      "clientEmail": "ogregb.auteur@gmail.com",
-      "clientTel": "06 87 70 71 18",
+      "id": "fa_1788183210898_vhkt",
+      "num": "FAC-2026-009",
+      "devisId": "dv_1783507009767_lg45",
+      "devisNum": "DEV-STAND-2026-012",
+      "_extId": null,
+      "clientId": "cl-expo-1783506693309",
+      "clientNom": "Maison 1985",
+      "clientAdresse": "",
+      "clientCP": "44650",
+      "clientVille": "LEGÉ",
+      "clientEmail": "tapissier.maison1885@gmail.com",
+      "clientTel": "0670298969",
       "clientSiret": "",
-      "objet": "Stand artiste · ? m² · 🌿 Int. · 🍂 Aki · Minato Geek",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
@@ -3666,25 +3547,41 @@
           "_note": "Offert"
         },
         {
-          "nom": "Emplacement stand S - Intérieur - contre mur",
+          "nom": "Tonnelle 3x3 - Extérieur - Dos ouvert",
           "qte": 1,
-          "pu": 10,
+          "pu": 15,
           "tva": 0,
           "remise": 0,
-          "total": 10
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Option Grille + Électricité – Pack combiné",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
         }
       ],
-      "totalHT": 10,
+      "totalHT": 27.5,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 10,
-      "dateEmission": "2026-09-01",
+      "totalTTC": 27.5,
+      "dateEmission": "2026-08-31",
       "dateEcheance": "",
       "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 10,
-      "notes": "",
-      "createdAt": "2026-09-01T09:57:04.172Z"
+      "soldeRestant": 27.5,
+      "notes": "Nombre de table souhaité : 3",
+      "createdAt": "2026-08-31T13:33:30.898Z"
     }
   ],
   "dbReglements": [
