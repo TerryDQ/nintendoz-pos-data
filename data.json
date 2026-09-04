@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:32:34.593Z",
+  "_savedAt": "2026-09-04T08:32:47.339Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3029,9 +3029,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "facture",
+      "statut": "envoye",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T08:32:34.587Z"
+      "updatedAt": "2026-09-04T08:32:47.330Z"
     }
   ],
   "dbFactures": [
@@ -3482,44 +3482,6 @@
       "soldeRestant": 0,
       "notes": "",
       "createdAt": "2026-08-19T14:16:48.910Z"
-    },
-    {
-      "id": "fa_1787149109392_wi4m",
-      "num": "FAC-2026-008",
-      "devisId": "dv_1785344032965_djxn",
-      "devisNum": "DEV-STAND-2026-018",
-      "_extId": null,
-      "clientId": "cl-expo-1785343831047",
-      "clientNom": "Lulu Folie's",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
-      "clientEmail": "lulufolie@gmail.com",
-      "clientTel": "0680517255",
-      "clientSiret": "",
-      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
-      "lignes": [
-        {
-          "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "total": 0,
-          "_note": "Offert"
-        }
-      ],
-      "totalHT": 0,
-      "tauxTVA": 20,
-      "totalTVA": 0,
-      "totalTTC": 0,
-      "dateEmission": "2026-08-19",
-      "dateEcheance": "",
-      "statut": "emise",
-      "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "",
-      "createdAt": "2026-08-19T14:18:29.392Z"
     },
     {
       "id": "fa_1788183210898_vhkt",
