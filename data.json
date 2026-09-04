@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T09:29:50.066Z",
+  "_savedAt": "2026-09-04T09:30:09.502Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3697,8 +3697,8 @@
       "totalTVA": 0,
       "totalTTC": 15,
       "dateEmission": "2026-09-04",
-      "dateEcheance": "",
-      "statut": "emise",
+      "dateEcheance": "2026-10-10",
+      "statut": "en_attente",
       "montantRegle": 0,
       "soldeRestant": 15,
       "notes": "Pas de grille, côté mur.\nEspace créateur - Intérieur",
