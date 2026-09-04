@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T09:29:22.759Z",
+  "_savedAt": "2026-09-04T09:29:50.066Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3166,9 +3166,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Pas de grille, côté mur.\nEspace créateur - Intérieur",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T09:29:22.751Z"
+      "updatedAt": "2026-09-04T09:29:50.050Z"
     }
   ],
   "dbFactures": [
@@ -3634,6 +3634,75 @@
       "soldeRestant": 15,
       "notes": "Espace créateur \nPas de besoin électricité\nTonnelle ouverte",
       "createdAt": "2026-09-04T08:40:24.427Z"
+    },
+    {
+      "id": "fa_1788514190050_38so",
+      "num": "FAC-2026-0011",
+      "devisId": "dv_1788513920007_d8vs",
+      "devisNum": "DEV-STAND-2026-018",
+      "clientId": "cl-expo-1788513561010",
+      "clientNom": "BOIVIN Dominique",
+      "clientAdresse": "3 impasses des hirondelles",
+      "clientCP": "85220",
+      "clientVille": "L'Aiguilllon-sur-Vie",
+      "clientEmail": "d.boivin13@gmail.com",
+      "clientTel": "06 87 11 42 75",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Intérieur. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Stand intérieur ",
+          "qte": 1,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0,
+          "total": 10
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Chaises",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-09-04",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 15,
+      "notes": "Pas de grille, côté mur.\nEspace créateur - Intérieur",
+      "createdAt": "2026-09-04T09:29:50.050Z"
     }
   ],
   "dbReglements": [
