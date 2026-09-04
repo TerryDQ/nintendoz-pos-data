@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T10:17:01.697Z",
+  "_savedAt": "2026-09-04T10:26:57.264Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -799,6 +799,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1788513920007_d8vs"
+        },
+        {
+          "id": 1788517096045,
+          "nom": "DUNEONE",
+          "type": "artiste",
+          "zone": "exterieur-village",
+          "edition": "aki",
+          "surface": "",
+          "email": "contact@duneone.com",
+          "tel": "0631674918",
+          "prenom": "Julien",
+          "nomContact": "MONTEL",
+          "activite": "Auteurs / Illustrateurs",
+          "siret": "",
+          "notes": "",
+          "ville": "",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1788517452346_ea8y"
         }
       ],
       "anims": [
@@ -3169,6 +3213,51 @@
       "statut": "facture",
       "createdBy": "Bureau",
       "updatedAt": "2026-09-04T09:29:50.050Z"
+    },
+    {
+      "id": "dv_1788517452346_ea8y",
+      "num": "DEV-STAND-2026-019",
+      "date": "2026-09-04",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1788517096045,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1788517096045",
+      "clientNom": "DUNEONE",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "contact@duneone.com",
+      "clientTel": "0631674918",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-09-04"
     }
   ],
   "dbFactures": [
