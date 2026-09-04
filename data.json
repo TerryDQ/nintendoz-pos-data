@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:42:27.906Z",
+  "_savedAt": "2026-09-04T08:43:13.312Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3570,10 +3570,10 @@
       "totalTTC": 15,
       "dateEmission": "2026-09-04",
       "dateEcheance": "",
-      "statut": "emise",
+      "statut": "en_attente",
       "montantRegle": 0,
       "soldeRestant": 15,
-      "notes": "",
+      "notes": "Espace créateur \nPas de besoin électricité\nTonnelle ouverte",
       "createdAt": "2026-09-04T08:40:24.427Z"
     }
   ],
