@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T11:11:57.263Z",
+  "_savedAt": "2026-09-04T11:17:56.368Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -5411,6 +5411,23 @@
       "tel": "0683157749",
       "siret": "80904259100010",
       "notes": "Emplacement de 8x3 m soit 24 tables de 150 cm\nPrésence le samedi 17 octobre de 15h00 à 19h00\nPrésence le dimanche de 11h00 à 17h00\n4 Animateurs\nUne prise électrique 220w à prévoir par l'organisateur Nintend'Oz-Event",
+      "contrat": true
+    },
+    {
+      "id": "prest_1788520260345_v6z6",
+      "nom": "Krys",
+      "type": "animation",
+      "sousType": "Exposition",
+      "specialite": "Exposition - Les Mystérieuses Cités d'Or",
+      "facturation": "asso",
+      "tarif": 780,
+      "prixVisiteur": 0,
+      "statut": "confirme",
+      "contact": "Krys",
+      "email": "",
+      "tel": "",
+      "siret": "",
+      "notes": "",
       "contrat": true
     }
   ],
