@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T09:21:57.333Z",
+  "_savedAt": "2026-09-04T09:29:22.759Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -797,7 +797,8 @@
             "haru": 0,
             "aki": 0
           },
-          "option_stand": "option1"
+          "option_stand": "option1",
+          "devisId": "dv_1788513920007_d8vs"
         }
       ],
       "anims": [
@@ -3091,6 +3092,83 @@
       "statut": "facture",
       "createdBy": "Bureau",
       "updatedAt": "2026-09-04T08:42:27.900Z"
+    },
+    {
+      "id": "dv_1788513920007_d8vs",
+      "num": "DEV-STAND-2026-018",
+      "date": "2026-07-27",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1788513561010,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1788513561010",
+      "clientNom": "BOIVIN Dominique",
+      "clientAdresse": "3 impasses des hirondelles",
+      "clientCP": "85220",
+      "clientVille": "L'Aiguilllon-sur-Vie",
+      "clientEmail": "d.boivin13@gmail.com",
+      "clientTel": "06 87 11 42 75",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Intérieur. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Stand intérieur ",
+          "qte": 1,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0,
+          "total": 10
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Chaises",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 15,
+      "totalHTServices": 0,
+      "totalHT": 15,
+      "totalTTC": 15,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Pas de grille, côté mur.\nEspace créateur - Intérieur",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-09-04T09:29:22.751Z"
     }
   ],
   "dbFactures": [
