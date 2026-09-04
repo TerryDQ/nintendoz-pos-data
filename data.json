@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:28:49.314Z",
+  "_savedAt": "2026-09-04T08:32:34.593Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3031,7 +3031,7 @@
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-08-19T14:18:29.392Z"
+      "updatedAt": "2026-09-04T08:32:34.587Z"
     }
   ],
   "dbFactures": [
