@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T10:26:57.264Z",
+  "_savedAt": "2026-09-04T10:29:04.607Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3217,16 +3217,16 @@
     {
       "id": "dv_1788517452346_ea8y",
       "num": "DEV-STAND-2026-019",
-      "date": "2026-09-04",
+      "date": "2026-07-22",
       "validite": "",
       "type": "exposant",
       "_expoId": 1788517096045,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1788517096045",
       "clientNom": "DUNEONE",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "6 impasses des Lumas",
+      "clientCP": "85470",
+      "clientVille": "Brétignolles/mer",
       "clientEmail": "contact@duneone.com",
       "clientTel": "0631674918",
       "clientSiret": "",
@@ -3235,11 +3235,51 @@
         {
           "nom": "🎫 Badge exposant (par personne)",
           "qte": 1,
-          "pu": 0,
+          "pu": 2,
           "tva": 0,
           "remise": 0,
-          "total": 0,
+          "total": 2,
           "_note": "Offert"
+        },
+        {
+          "nom": "Espace tonelle 2x2 - Extérieur - Zone Auteur",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Grille",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0,
+          "total": 3
+        },
+        {
+          "nom": "Chaise",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
         }
       ],
       "services": [],
@@ -3248,16 +3288,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 31.5,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 31.5,
+      "totalTTC": 31.5,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Participe à la chasse au trésors des Mystérieuses Cité d'Or",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04"
+      "updatedAt": "2026-09-04T10:29:04.597Z"
     }
   ],
   "dbFactures": [
