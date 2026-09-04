@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:42:16.944Z",
+  "_savedAt": "2026-09-04T08:42:27.906Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3047,7 +3047,7 @@
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T08:42:16.936Z"
+      "updatedAt": "2026-09-04T08:42:27.900Z"
     }
   ],
   "dbFactures": [
@@ -3530,9 +3530,9 @@
       "devisNum": "DEV-STAND-2026-018",
       "clientId": "cl-expo-1785343831047",
       "clientNom": "Lulu Folie's",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "29 rue de l'Europe",
+      "clientCP": "85220",
+      "clientVille": "Coex",
       "clientEmail": "lulufolie@gmail.com",
       "clientTel": "0680517255",
       "clientSiret": "",
@@ -3546,17 +3546,33 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Stand - Tonelle 3x3 - Ouvert ",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
-      "totalHT": 0,
+      "totalHT": 15,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 0,
+      "totalTTC": 15,
       "dateEmission": "2026-09-04",
       "dateEcheance": "",
       "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 0,
+      "soldeRestant": 15,
       "notes": "",
       "createdAt": "2026-09-04T08:40:24.427Z"
     }
