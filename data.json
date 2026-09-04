@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:42:06.984Z",
+  "_savedAt": "2026-09-04T08:42:16.944Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3026,10 +3026,10 @@
         {
           "nom": "Table",
           "qte": 1,
-          "pu": 1,
+          "pu": 0,
           "tva": 0,
           "remise": 0,
-          "total": 1
+          "total": 0
         }
       ],
       "services": [],
@@ -3038,16 +3038,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 16,
+      "totalHTLignes": 15,
       "totalHTServices": 0,
-      "totalHT": 16,
-      "totalTTC": 16,
+      "totalHT": 15,
+      "totalTTC": 15,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T08:42:06.976Z"
+      "updatedAt": "2026-09-04T08:42:16.936Z"
     }
   ],
   "dbFactures": [
