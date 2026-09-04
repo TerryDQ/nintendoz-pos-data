@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T11:02:05.490Z",
+  "_savedAt": "2026-09-04T11:11:57.263Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -5395,6 +5395,24 @@
   },
   "dbProjets": [],
   "dbSysAccess": {},
-  "dbPrestataires": [],
+  "dbPrestataires": [
+    {
+      "id": "prest_1788519740872_2bp4",
+      "nom": "Expérience et partage",
+      "type": "animation",
+      "sousType": "Autre",
+      "specialite": "Circuits de voiture",
+      "facturation": "gratuit",
+      "tarif": 0,
+      "prixVisiteur": 0,
+      "statut": "present",
+      "contact": "André JOUSSET",
+      "email": "experienceetpartage@gmail.com",
+      "tel": "0683157749",
+      "siret": "80904259100010",
+      "notes": "Emplacement de 8x3 m soit 24 tables de 150 cm\nPrésence le samedi 17 octobre de 15h00 à 19h00\nPrésence le dimanche de 11h00 à 17h00\n4 Animateurs\nUne prise électrique 220w à prévoir par l'organisateur Nintend'Oz-Event",
+      "contrat": true
+    }
+  ],
   "dbPrestataireAffectations": []
 }
