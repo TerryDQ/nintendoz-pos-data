@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T10:29:20.878Z",
+  "_savedAt": "2026-09-04T10:29:29.438Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3904,7 +3904,7 @@
       "totalTTC": 31.5,
       "dateEmission": "2026-09-04",
       "dateEcheance": "",
-      "statut": "emise",
+      "statut": "en_attente",
       "montantRegle": 0,
       "soldeRestant": 31.5,
       "notes": "Participe à la chasse au trésors des Mystérieuses Cité d'Or",
