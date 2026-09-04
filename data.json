@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T10:29:04.607Z",
+  "_savedAt": "2026-09-04T10:29:20.878Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3295,9 +3295,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Participe à la chasse au trésors des Mystérieuses Cité d'Or",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T10:29:04.597Z"
+      "updatedAt": "2026-09-04T10:29:20.870Z"
     }
   ],
   "dbFactures": [
@@ -3832,6 +3832,83 @@
       "soldeRestant": 15,
       "notes": "Pas de grille, côté mur.\nEspace créateur - Intérieur",
       "createdAt": "2026-09-04T09:29:50.050Z"
+    },
+    {
+      "id": "fa_1788517760869_t5rf",
+      "num": "FAC-2026-0012",
+      "devisId": "dv_1788517452346_ea8y",
+      "devisNum": "DEV-STAND-2026-019",
+      "clientId": "cl-expo-1788517096045",
+      "clientNom": "DUNEONE",
+      "clientAdresse": "6 impasses des Lumas",
+      "clientCP": "85470",
+      "clientVille": "Brétignolles/mer",
+      "clientEmail": "contact@duneone.com",
+      "clientTel": "0631674918",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Espace tonelle 2x2 - Extérieur - Zone Auteur",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Grille",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0,
+          "total": 3
+        },
+        {
+          "nom": "Chaise",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
+        }
+      ],
+      "totalHT": 31.5,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 31.5,
+      "dateEmission": "2026-09-04",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 31.5,
+      "notes": "Participe à la chasse au trésors des Mystérieuses Cité d'Or",
+      "createdAt": "2026-09-04T10:29:20.870Z"
     }
   ],
   "dbReglements": [
