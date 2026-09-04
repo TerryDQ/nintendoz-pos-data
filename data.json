@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T08:40:24.436Z",
+  "_savedAt": "2026-09-04T08:42:06.984Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2998,9 +2998,9 @@
       "_expoCtx": "mg",
       "clientId": "cl-expo-1785343831047",
       "clientNom": "Lulu Folie's",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "29 rue de l'Europe",
+      "clientCP": "85220",
+      "clientVille": "Coex",
       "clientEmail": "lulufolie@gmail.com",
       "clientTel": "0680517255",
       "clientSiret": "",
@@ -3014,6 +3014,22 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Stand - Tonelle 3x3 - Ouvert ",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 1,
+          "tva": 0,
+          "remise": 0,
+          "total": 1
         }
       ],
       "services": [],
@@ -3022,16 +3038,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 16,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 16,
+      "totalTTC": 16,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-04T08:40:24.427Z"
+      "updatedAt": "2026-09-04T08:42:06.976Z"
     }
   ],
   "dbFactures": [
