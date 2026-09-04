@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-04T10:47:56.358Z",
+  "_savedAt": "2026-09-04T10:57:56.376Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -843,6 +843,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1788517452346_ea8y"
+        },
+        {
+          "id": 1788518963031,
+          "nom": "Expérience et Partage",
+          "type": "asso",
+          "zone": "interieur-marie",
+          "edition": "aki",
+          "surface": "",
+          "email": "c.esnot@gmail.com",
+          "tel": "0683157749",
+          "prenom": "André",
+          "nomContact": "JUGET",
+          "activite": "Circuit Slot 1:32",
+          "siret": "",
+          "notes": "Emplacement intérieur 8 x 3 m\nPrésence samedi + dimanche",
+          "ville": "Saint-Hilaire-de-Riez",
+          "statut": "confirme",
+          "paiement": "solde",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1788519163068_pml8"
         }
       ],
       "anims": [
@@ -3298,6 +3342,51 @@
       "statut": "facture",
       "createdBy": "Bureau",
       "updatedAt": "2026-09-04T10:29:20.870Z"
+    },
+    {
+      "id": "dv_1788519163068_pml8",
+      "num": "DEV-STAND-2026-020",
+      "date": "2026-09-04",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1788518963031,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1788518963031",
+      "clientNom": "Expérience et Partage",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Saint-Hilaire-de-Riez",
+      "clientEmail": "c.esnot@gmail.com",
+      "clientTel": "0683157749",
+      "clientSiret": "",
+      "objet": "Stand asso · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-09-04"
     }
   ],
   "dbFactures": [
