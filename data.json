@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-07T10:48:23.010Z",
+  "_savedAt": "2026-09-07T10:50:55.977Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3086,9 +3086,9 @@
       "clientId": "cl-expo-1783870555343",
       "clientNom": "Comme Mamie",
       "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
-      "clientEmail": "",
+      "clientCP": "85230",
+      "clientVille": "Saint-Gervais",
+      "clientEmail": "sandie.e@orange.fr",
       "clientTel": "",
       "clientSiret": "",
       "objet": "Stand food · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
@@ -3101,6 +3101,30 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement food ",
+          "qte": 1,
+          "pu": 8,
+          "tva": 0,
+          "remise": 0,
+          "total": 8
+        },
+        {
+          "nom": "table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "chaise",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
       "services": [],
@@ -3109,16 +3133,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 8,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 8,
+      "totalTTC": 8,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Emplacement 1 jour - Dimanche 18 oct.",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-07T10:42:21.168Z"
+      "updatedAt": "2026-09-07T10:50:55.965Z"
     },
     {
       "id": "dv_1785344032965_djxn",
