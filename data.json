@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-07T10:38:23.011Z",
+  "_savedAt": "2026-09-07T10:42:21.181Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3116,9 +3116,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-07"
+      "updatedAt": "2026-09-07T10:42:21.168Z"
     },
     {
       "id": "dv_1785344032965_djxn",
@@ -3953,6 +3953,43 @@
       "soldeRestant": 31.5,
       "notes": "Participe à la chasse au trésors des Mystérieuses Cité d'Or",
       "createdAt": "2026-09-04T10:29:20.870Z"
+    },
+    {
+      "id": "fa_1788777741168_mh77",
+      "num": "FAC-2026-0013",
+      "devisId": "dv_1783871018883_dpac",
+      "devisNum": "DEV-STAND-2026-020",
+      "clientId": "cl-expo-1783870555343",
+      "clientNom": "Comme Mamie",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
+      "clientEmail": "",
+      "clientTel": "",
+      "clientSiret": "",
+      "objet": "Stand food · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-09-07",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "createdAt": "2026-09-07T10:42:21.168Z"
     }
   ],
   "dbReglements": [
