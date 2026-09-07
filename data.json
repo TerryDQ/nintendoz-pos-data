@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-07T10:50:55.977Z",
+  "_savedAt": "2026-09-07T10:51:00.747Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3142,7 +3142,7 @@
       "notes": "Emplacement 1 jour - Dimanche 18 oct.",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-07T10:50:55.965Z"
+      "updatedAt": "2026-09-07T10:51:00.734Z"
     },
     {
       "id": "dv_1785344032965_djxn",
@@ -3986,9 +3986,9 @@
       "clientId": "cl-expo-1783870555343",
       "clientNom": "Comme Mamie",
       "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
-      "clientEmail": "",
+      "clientCP": "85230",
+      "clientVille": "Saint-Gervais",
+      "clientEmail": "sandie.e@orange.fr",
       "clientTel": "",
       "clientSiret": "",
       "objet": "Stand food · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
@@ -4001,18 +4001,42 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement food ",
+          "qte": 1,
+          "pu": 8,
+          "tva": 0,
+          "remise": 0,
+          "total": 8
+        },
+        {
+          "nom": "table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "chaise",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
-      "totalHT": 0,
+      "totalHT": 8,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 0,
+      "totalTTC": 8,
       "dateEmission": "2026-09-07",
       "dateEcheance": "",
       "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "soldeRestant": 8,
+      "notes": "Emplacement 1 jour - Dimanche 18 oct.",
       "createdAt": "2026-09-07T10:42:21.168Z"
     }
   ],
