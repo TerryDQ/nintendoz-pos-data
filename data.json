@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-08T12:48:23.005Z",
+  "_savedAt": "2026-09-08T12:48:49.071Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3826,9 +3826,9 @@
       "totalTTC": 15,
       "dateEmission": "2026-09-04",
       "dateEcheance": "",
-      "statut": "en_attente",
-      "montantRegle": 0,
-      "soldeRestant": 15,
+      "statut": "reglee",
+      "montantRegle": 15,
+      "soldeRestant": 0,
       "notes": "Espace créateur \nPas de besoin électricité\nTonnelle ouverte",
       "createdAt": "2026-09-04T08:40:24.427Z"
     },
@@ -4117,6 +4117,14 @@
       "mode": "virement",
       "date": "2026-05-24",
       "ref": ""
+    },
+    {
+      "id": "rg_1788871729052_jaq0",
+      "factureId": "fa_1788511224427_diiw",
+      "montant": 15,
+      "mode": "virement",
+      "date": "2026-09-08",
+      "ref": "Virement"
     }
   ],
   "dbClients": [],
