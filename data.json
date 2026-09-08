@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-08T12:38:58.632Z",
+  "_savedAt": "2026-09-08T12:42:15.002Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3071,9 +3071,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-13T15:52:00.541Z"
+      "updatedAt": "2026-09-08T12:42:14.981Z"
     },
     {
       "id": "dv_1783871018883_dpac",
@@ -4038,6 +4038,51 @@
       "soldeRestant": 8,
       "notes": "Emplacement 1 jour - Dimanche 18 oct.",
       "createdAt": "2026-09-07T10:42:21.168Z"
+    },
+    {
+      "id": "fa_1788871334981_99sx",
+      "num": "FAC-2026-0014",
+      "devisId": "dv_1783870231846_m54z",
+      "devisNum": "DEV-STAND-2026-017",
+      "clientId": "cl-expo-1783870155243",
+      "clientNom": "Mello Von Mobius",
+      "clientAdresse": "3 rue Notre Dame des Champs",
+      "clientCP": "85800",
+      "clientVille": "Le Fenouiller",
+      "clientEmail": "melloan@hotmail.fr",
+      "clientTel": "0642965644",
+      "clientSiret": "",
+      "objet": "Stand Auteur · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Tonelle 3x3 - Extérieur - Dos ouvert",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-09-08",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 15,
+      "notes": "",
+      "createdAt": "2026-09-08T12:42:14.981Z"
     }
   ],
   "dbReglements": [
