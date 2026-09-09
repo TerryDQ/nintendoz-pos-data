@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:08:40.481Z",
+  "_savedAt": "2026-09-09T09:18:21.407Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2857,21 +2857,21 @@
     },
     {
       "id": "dv_1783528774944_jjh1",
-      "num": "DEV-STAND-2026-012",
-      "date": "2026-07-04",
+      "num": "DEV-STAND-2026-020",
+      "date": "2026-09-09",
       "validite": "",
       "type": "exposant",
       "_expoId": 1783528660962,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783528660962",
       "clientNom": "O REV CRAVAL",
-      "clientAdresse": "8 rue Gabriel DELARUE",
-      "clientCP": "79230",
-      "clientVille": "VOUILLE",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "",
       "clientEmail": "vero-giraud@wanadoo.fr",
       "clientTel": "0611792138",
       "clientSiret": "",
-      "objet": "Stand artiste · ? m² · 🏛️ Ext. · 🍂 Aki · Minato Geek",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
@@ -2881,30 +2881,6 @@
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "Tonelle 3x3 - Extérieur",
-          "qte": 1,
-          "pu": 15,
-          "tva": 0,
-          "remise": 0,
-          "total": 15
-        },
-        {
-          "nom": "Remise 50% 2ème jour",
-          "qte": 1,
-          "pu": 7.5,
-          "tva": 0,
-          "remise": 0,
-          "total": 7.5
-        },
-        {
-          "nom": "",
-          "qte": 1,
-          "pu": 0,
-          "tva": 0,
-          "remise": 0,
-          "total": 0
         }
       ],
       "services": [],
@@ -2913,16 +2889,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 22.5,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 22.5,
-      "totalTTC": 22.5,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-13T16:14:21.225Z"
+      "updatedAt": "2026-09-09"
     },
     {
       "id": "dv_1783607298592_mj58",
