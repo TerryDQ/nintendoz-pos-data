@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:18:21.407Z",
+  "_savedAt": "2026-09-09T09:21:20.352Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2865,9 +2865,9 @@
       "_expoCtx": "mg",
       "clientId": "cl-expo-1783528660962",
       "clientNom": "O REV CRAVAL",
-      "clientAdresse": "",
-      "clientCP": "",
-      "clientVille": "",
+      "clientAdresse": "8 rue Gabriel DELARUE",
+      "clientCP": "79230",
+      "clientVille": "VOUILLE",
       "clientEmail": "vero-giraud@wanadoo.fr",
       "clientTel": "0611792138",
       "clientSiret": "",
@@ -2875,12 +2875,68 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Tonelle 3x3 - Espace créateur - Option 2",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Table",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Chaise",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Grille",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Electricité ",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Remise contre lot jour de l'évènement",
+          "qte": 1,
+          "pu": -22.5,
+          "tva": 0,
+          "remise": 0,
+          "total": -22.5
         }
       ],
       "services": [],
@@ -2895,10 +2951,10 @@
       "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Première participation au Minato\nPrésence sur les 2 jours\nOuverture exposant le samedi dès 10h30 et ouverture public à partir de 14h30\nOuverture exposant le dimanche dès 8h30 et ouverture public à partir de 11h00\nParticipation mode paiement contre lots.",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-09T09:21:20.343Z"
     },
     {
       "id": "dv_1783607298592_mj58",
