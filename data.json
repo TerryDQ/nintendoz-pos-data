@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:21:20.352Z",
+  "_savedAt": "2026-09-09T09:22:15.933Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -505,10 +505,10 @@
           "nomContact": "GIRAUD",
           "activite": "Création textile - déco, accessoires modes et zéro déchet",
           "siret": "",
-          "notes": "",
+          "notes": "Contre-service : Remise de lots",
           "ville": "",
           "statut": "inscrit",
-          "paiement": "en_attente",
+          "paiement": "contre_service",
           "materiel": {
             "_biEdition": true,
             "haru": {
@@ -534,7 +534,9 @@
             "aki": 0
           },
           "option_stand": "option1",
-          "devisId": "dv_1783528774944_jjh1"
+          "devisId": "dv_1783528774944_jjh1",
+          "contrepartie": "Remise de lots",
+          "valeurService": 22.5
         },
         {
           "id": 1783606976583,
@@ -2952,9 +2954,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Première participation au Minato\nPrésence sur les 2 jours\nOuverture exposant le samedi dès 10h30 et ouverture public à partir de 14h30\nOuverture exposant le dimanche dès 8h30 et ouverture public à partir de 11h00\nParticipation mode paiement contre lots.",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-09T09:21:20.343Z"
+      "updatedAt": "2026-09-09T09:22:15.924Z"
     },
     {
       "id": "dv_1783607298592_mj58",
@@ -4232,6 +4234,99 @@
       "soldeRestant": 11.5,
       "notes": "Participe à la chasse au trésors et/ou Rally Tampon des Mystérieuses Cités d'Or\nPremière présence sur un Minato Geek.",
       "createdAt": "2026-09-09T09:08:20.072Z"
+    },
+    {
+      "id": "fa_1788945735924_1tm9",
+      "num": "FAC-2026-0016",
+      "devisId": "dv_1783528774944_jjh1",
+      "devisNum": "DEV-STAND-2026-020",
+      "clientId": "cl-expo-1783528660962",
+      "clientNom": "O REV CRAVAL",
+      "clientAdresse": "8 rue Gabriel DELARUE",
+      "clientCP": "79230",
+      "clientVille": "VOUILLE",
+      "clientEmail": "vero-giraud@wanadoo.fr",
+      "clientTel": "0611792138",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Tonelle 3x3 - Espace créateur - Option 2",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 7.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 7.5
+        },
+        {
+          "nom": "Table",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Chaise",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Grille",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Electricité ",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Remise contre lot jour de l'évènement",
+          "qte": 1,
+          "pu": -22.5,
+          "tva": 0,
+          "remise": 0,
+          "total": -22.5
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-09-09",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "Première participation au Minato\nPrésence sur les 2 jours\nOuverture exposant le samedi dès 10h30 et ouverture public à partir de 14h30\nOuverture exposant le dimanche dès 8h30 et ouverture public à partir de 11h00\nParticipation mode paiement contre lots.",
+      "createdAt": "2026-09-09T09:22:15.924Z"
     }
   ],
   "dbReglements": [
