@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:38:45.960Z",
+  "_savedAt": "2026-09-09T09:39:30.284Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2853,9 +2853,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-07-08T10:55:08.827Z"
+      "updatedAt": "2026-09-09T09:39:30.274Z"
     },
     {
       "id": "dv_1783528774944_jjh1",
@@ -4327,6 +4327,51 @@
       "soldeRestant": 0,
       "notes": "Première participation au Minato\nPrésence sur les 2 jours\nOuverture exposant le samedi dès 10h30 et ouverture public à partir de 14h30\nOuverture exposant le dimanche dès 8h30 et ouverture public à partir de 11h00\nParticipation mode paiement contre lots.",
       "createdAt": "2026-09-09T09:22:15.924Z"
+    },
+    {
+      "id": "fa_1788946770274_e24x",
+      "num": "FAC-2026-0017",
+      "devisId": "dv_1783507978094_751h",
+      "devisNum": "DEV-STAND-2026-011",
+      "clientId": "cl-expo-1783507864554",
+      "clientNom": "Pat Créabois",
+      "clientAdresse": "3 impasse de la ciboulette",
+      "clientCP": "85800",
+      "clientVille": "Le Fenouiller",
+      "clientEmail": "pat.craéa.bois@gmail.com",
+      "clientTel": "0614404741",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Espace créateur - Tonelle 3x3 ",
+          "qte": 1,
+          "pu": 15,
+          "tva": 0,
+          "remise": 0,
+          "total": 15
+        }
+      ],
+      "totalHT": 15,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 15,
+      "dateEmission": "2026-09-09",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 15,
+      "notes": "",
+      "createdAt": "2026-09-09T09:39:30.274Z"
     }
   ],
   "dbReglements": [
