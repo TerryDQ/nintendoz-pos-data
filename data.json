@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:40:41.180Z",
+  "_savedAt": "2026-09-09T09:41:34.048Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2857,7 +2857,15 @@
         },
         {
           "nom": "Grille",
-          "qte": 1,
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Electricité",
+          "qte": 0,
           "pu": 0,
           "tva": 0,
           "remise": 0,
@@ -2879,7 +2887,7 @@
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-09T09:40:41.171Z"
+      "updatedAt": "2026-09-09T09:41:34.036Z"
     },
     {
       "id": "dv_1783528774944_jjh1",
