@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:40:31.066Z",
+  "_savedAt": "2026-09-09T09:40:41.180Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -2879,7 +2879,7 @@
       "notes": "",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-09T09:40:31.052Z"
+      "updatedAt": "2026-09-09T09:40:41.171Z"
     },
     {
       "id": "dv_1783528774944_jjh1",
@@ -4383,6 +4383,30 @@
           "tva": 0,
           "remise": 0,
           "total": 15
+        },
+        {
+          "nom": "Table",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Chaise",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Grille",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
       "totalHT": 15,
