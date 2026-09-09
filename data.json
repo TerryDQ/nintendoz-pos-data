@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:08:20.084Z",
+  "_savedAt": "2026-09-09T09:08:40.481Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -4194,7 +4194,7 @@
       "totalTVA": 0,
       "totalTTC": 11.5,
       "dateEmission": "2026-09-09",
-      "dateEcheance": "",
+      "dateEcheance": "2026-09-30",
       "statut": "emise",
       "montantRegle": 0,
       "soldeRestant": 11.5,
