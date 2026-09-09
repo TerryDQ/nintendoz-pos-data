@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-09T09:07:52.335Z",
+  "_savedAt": "2026-09-09T09:08:20.084Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3005,9 +3005,9 @@
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
       "notes": "Participe à la chasse au trésors et/ou Rally Tampon des Mystérieuses Cités d'Or\nPremière présence sur un Minato Geek.",
-      "statut": "brouillon",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-09T09:07:52.324Z"
+      "updatedAt": "2026-09-09T09:08:20.072Z"
     },
     {
       "id": "dv_1783692607433_f88z",
@@ -4123,6 +4123,83 @@
       "soldeRestant": 15,
       "notes": "",
       "createdAt": "2026-09-08T12:42:14.981Z"
+    },
+    {
+      "id": "fa_1788944900072_zy6r",
+      "num": "FAC-2026-0015",
+      "devisId": "dv_1783607298592_mj58",
+      "devisNum": "DEV-STAND-2026-018",
+      "clientId": "cl-expo-1783606976583",
+      "clientNom": "The Little Good Witch",
+      "clientAdresse": "46 rue Gutenberg",
+      "clientCP": "85000",
+      "clientVille": "La Roche-sur-Yon",
+      "clientEmail": "thelittlegoodwitch@outlook.com",
+      "clientTel": "0627607101",
+      "clientSiret": "",
+      "objet": "Stand Auteurs · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Stand nu - intérieur",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": 2.5,
+          "tva": 0,
+          "remise": 0,
+          "total": 2.5
+        },
+        {
+          "nom": "Chaise",
+          "qte": 4,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Grille",
+          "qte": 2,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 4
+        },
+        {
+          "nom": "Table",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        }
+      ],
+      "totalHT": 11.5,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 11.5,
+      "dateEmission": "2026-09-09",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 11.5,
+      "notes": "Participe à la chasse au trésors et/ou Rally Tampon des Mystérieuses Cités d'Or\nPremière présence sur un Minato Geek.",
+      "createdAt": "2026-09-09T09:08:20.072Z"
     }
   ],
   "dbReglements": [
