@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-13T09:45:08.594Z",
+  "_savedAt": "2026-09-13T09:50:41.126Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1212,6 +1212,16 @@
           "cat": "logistique",
           "statut": "reel",
           "notes": "Payé en espèces sur la recette du jour · 12 avril 2026 · La P'tite Gare"
+        },
+        {
+          "id": "bprest_1789292749784_m1hu",
+          "affId": "aff_1789292677855_barx",
+          "libelle": "🎭 Krys — Exposition - Les Mystérieuses Cités d'Or",
+          "montant": 780,
+          "date": "2026-10-18",
+          "saison": "aki",
+          "categorie": "prestataire",
+          "auto": true
         }
       ]
     },
@@ -5853,5 +5863,16 @@
       "contrat": true
     }
   ],
-  "dbPrestataireAffectations": []
+  "dbPrestataireAffectations": [
+    {
+      "id": "aff_1789292677855_barx",
+      "evtId": "mg",
+      "saison": "aki",
+      "prestataireId": "prest_1788520260345_v6z6",
+      "statut": "contacte",
+      "dateIntervention": "2026-10-18",
+      "montantAsso": "",
+      "noteFinancement": "Le prestataire s'engage à faire une remise de 80 € si l'association Nintend'Oz-Event paie intégralement avant le 13 septembre. Il s'engage également à faire don de quelques goodies autour de la licence des Mystérieuses Cités d'Or."
+    }
+  ]
 }
