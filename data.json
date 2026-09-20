@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T10:38:35.654Z",
+  "_savedAt": "2026-09-20T10:42:56.310Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3570,7 +3570,7 @@
       "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20T10:35:11.309Z"
+      "updatedAt": "2026-09-20T10:42:56.301Z"
     }
   ],
   "dbFactures": [
