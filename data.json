@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T12:30:03.411Z",
+  "_savedAt": "2026-09-20T12:33:27.481Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3668,14 +3668,14 @@
       "id": "dv_1789907208983_r0f8",
       "num": "DEV-STAND-2026-021",
       "date": "2026-09-20",
-      "validite": "",
+      "validite": "2026-10-10",
       "type": "exposant",
       "_expoId": 1789906966247,
       "_expoCtx": "mg",
       "clientId": "cl-expo-1789906966247",
       "clientNom": "Skyz et Sui",
-      "clientAdresse": "",
-      "clientCP": "",
+      "clientAdresse": "10 route de Lodève",
+      "clientCP": "34080",
       "clientVille": "Montpellier",
       "clientEmail": "Skyz44sui9w9@gmail.com",
       "clientTel": "0666940389",
@@ -3684,12 +3684,52 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Stand auteur",
+          "qte": 1,
+          "pu": 20,
+          "tva": 0,
+          "remise": 0,
+          "total": 20
+        },
+        {
+          "nom": "Remise jour 2",
+          "qte": 1,
+          "pu": -5,
+          "tva": 0,
+          "remise": 0,
+          "total": -5
+        },
+        {
+          "nom": "Grille",
+          "qte": 1,
+          "pu": 2,
+          "tva": 0,
+          "remise": 0,
+          "total": 2
+        },
+        {
+          "nom": "Chaise",
+          "qte": 12,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "Stand animation dessin (OFFERT)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
       "services": [],
@@ -3698,16 +3738,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 0,
+      "totalHTLignes": 17,
       "totalHTServices": 0,
-      "totalHT": 0,
-      "totalTTC": 0,
+      "totalHT": 17,
+      "totalTTC": 17,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "notes": "Activité dessin vendu à 5.00 € / personne",
       "statut": "brouillon",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-20T12:33:27.471Z"
     }
   ],
   "dbFactures": [
