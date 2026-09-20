@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T12:20:32.326Z",
+  "_savedAt": "2026-09-20T12:30:03.411Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -933,6 +933,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1789900331479_g2dy"
+        },
+        {
+          "id": 1789906966247,
+          "nom": "Skyz et Sui",
+          "type": "artiste",
+          "zone": "exterieur-village",
+          "edition": "aki",
+          "surface": "",
+          "email": "Skyz44sui9w9@gmail.com",
+          "tel": "0666940389",
+          "prenom": "Axel Plaire",
+          "nomContact": "",
+          "activite": "Dédicace et vente mangas",
+          "siret": "97888956600011",
+          "notes": "Stand Auteur (extérieur) + Stand atelier dessin (intérieur)",
+          "ville": "Montpellier",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1789907208983_r0f8"
         }
       ],
       "anims": [
@@ -3619,6 +3663,51 @@
       "statut": "facture",
       "createdBy": "Bureau",
       "updatedAt": "2026-09-20T10:45:34.892Z"
+    },
+    {
+      "id": "dv_1789907208983_r0f8",
+      "num": "DEV-STAND-2026-021",
+      "date": "2026-09-20",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1789906966247,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1789906966247",
+      "clientNom": "Skyz et Sui",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Montpellier",
+      "clientEmail": "Skyz44sui9w9@gmail.com",
+      "clientTel": "0666940389",
+      "clientSiret": "97888956600011",
+      "objet": "Stand artiste · ? m² · 🌿 Ext. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 0,
+      "totalHTServices": 0,
+      "totalHT": 0,
+      "totalTTC": 0,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-09-20"
     }
   ],
   "dbFactures": [
