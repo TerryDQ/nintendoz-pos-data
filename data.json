@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T10:25:32.336Z",
+  "_savedAt": "2026-09-20T10:34:51.426Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -889,6 +889,50 @@
           },
           "option_stand": "option1",
           "devisId": "dv_1788519163068_pml8"
+        },
+        {
+          "id": 1789900183864,
+          "nom": "PokéKad Distrib",
+          "type": "artiste",
+          "zone": "interieur-salle",
+          "edition": "aki",
+          "surface": "",
+          "email": "pokekaddistrib@gmail.com",
+          "tel": "0671089157",
+          "prenom": "Nicolas",
+          "nomContact": "DENIS",
+          "activite": "Distributeur TCG",
+          "siret": "",
+          "notes": "",
+          "ville": "Dompierre-sur-Yon",
+          "statut": "inscrit",
+          "paiement": "en_attente",
+          "materiel": {
+            "_biEdition": true,
+            "haru": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            },
+            "aki": {
+              "table120": 0,
+              "table150": 0,
+              "elec": 0,
+              "tonnelle": 0,
+              "grilles": 0,
+              "paperboard": 0
+            }
+          },
+          "montant": {
+            "_biEdition": true,
+            "haru": 0,
+            "aki": 0
+          },
+          "option_stand": "option1",
+          "devisId": "dv_1789900331479_g2dy"
         }
       ],
       "anims": [
@@ -3482,6 +3526,75 @@
       "statut": "facture",
       "createdBy": "Bureau",
       "updatedAt": "2026-09-04T10:29:20.870Z"
+    },
+    {
+      "id": "dv_1789900331479_g2dy",
+      "num": "DEV-STAND-2026-020",
+      "date": "2026-09-20",
+      "validite": "",
+      "type": "exposant",
+      "_expoId": 1789900183864,
+      "_expoCtx": "mg",
+      "clientId": "cl-expo-1789900183864",
+      "clientNom": "PokéKad Distrib",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Dompierre-sur-Yon",
+      "clientEmail": "pokekaddistrib@gmail.com",
+      "clientTel": "0671089157",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement intérieur",
+          "qte": 1,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0,
+          "total": 10
+        },
+        {
+          "nom": "Remise 2ème jour",
+          "qte": 1,
+          "pu": 5,
+          "tva": 0,
+          "remise": 0,
+          "total": 5
+        },
+        {
+          "nom": "Electricité 3 kw",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0,
+          "total": 3
+        }
+      ],
+      "services": [],
+      "remiseGlobale": 0,
+      "fraisGestion": 0,
+      "fraisGestionActif": false,
+      "fraisGestionTaux": 8,
+      "tvaActif": false,
+      "totalHTLignes": 18,
+      "totalHTServices": 0,
+      "totalHT": 18,
+      "totalTTC": 18,
+      "paiementCond": "avant_evt",
+      "paiementModal": "virement",
+      "notes": "Emplacement situé à l'entrée de la salle, contre le mur \nPrésence sur les 2 jours",
+      "statut": "brouillon",
+      "createdBy": "Bureau",
+      "updatedAt": "2026-09-20T10:34:51.417Z"
     }
   ],
   "dbFactures": [
