@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T10:35:11.317Z",
+  "_savedAt": "2026-09-20T10:38:35.654Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3916,9 +3916,9 @@
       "totalTTC": 2200,
       "dateEmission": "2026-08-16",
       "dateEcheance": "2026-09-16",
-      "statut": "emise",
-      "montantRegle": 0,
-      "soldeRestant": 2200,
+      "statut": "reglee",
+      "montantRegle": 2200,
+      "soldeRestant": 0,
       "notes": "",
       "createdAt": "2026-08-16T14:24:05.608Z"
     },
@@ -4614,6 +4614,14 @@
       "mode": "virement",
       "date": "2026-09-08",
       "ref": "Virement"
+    },
+    {
+      "id": "rg_1789900715637_hf86",
+      "factureId": "fa_1786890245608_ggqc",
+      "montant": 2200,
+      "mode": "virement",
+      "date": "2026-09-16",
+      "ref": ""
     }
   ],
   "dbClients": [],
