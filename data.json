@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T10:34:51.426Z",
+  "_savedAt": "2026-09-20T10:35:11.317Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3529,7 +3529,7 @@
     },
     {
       "id": "dv_1789900331479_g2dy",
-      "num": "DEV-STAND-2026-020",
+      "num": "DEV-STAND-2026-021",
       "date": "2026-09-20",
       "validite": "",
       "type": "exposant",
@@ -3547,36 +3547,12 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 2,
+          "qte": 1,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
-        },
-        {
-          "nom": "Emplacement intérieur",
-          "qte": 1,
-          "pu": 10,
-          "tva": 0,
-          "remise": 0,
-          "total": 10
-        },
-        {
-          "nom": "Remise 2ème jour",
-          "qte": 1,
-          "pu": 5,
-          "tva": 0,
-          "remise": 0,
-          "total": 5
-        },
-        {
-          "nom": "Electricité 3 kw",
-          "qte": 1,
-          "pu": 3,
-          "tva": 0,
-          "remise": 0,
-          "total": 3
         }
       ],
       "services": [],
@@ -3585,16 +3561,16 @@
       "fraisGestionActif": false,
       "fraisGestionTaux": 8,
       "tvaActif": false,
-      "totalHTLignes": 18,
+      "totalHTLignes": 0,
       "totalHTServices": 0,
-      "totalHT": 18,
-      "totalTTC": 18,
+      "totalHT": 0,
+      "totalTTC": 0,
       "paiementCond": "avant_evt",
       "paiementModal": "virement",
-      "notes": "Emplacement situé à l'entrée de la salle, contre le mur \nPrésence sur les 2 jours",
-      "statut": "brouillon",
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20T10:34:51.417Z"
+      "updatedAt": "2026-09-20T10:35:11.309Z"
     }
   ],
   "dbFactures": [
@@ -4559,6 +4535,43 @@
       "soldeRestant": 15,
       "notes": "",
       "createdAt": "2026-09-09T09:39:30.274Z"
+    },
+    {
+      "id": "fa_1789900511309_nz8m",
+      "num": "FAC-2026-0018",
+      "devisId": "dv_1789900331479_g2dy",
+      "devisNum": "DEV-STAND-2026-021",
+      "clientId": "cl-expo-1789900183864",
+      "clientNom": "PokéKad Distrib",
+      "clientAdresse": "",
+      "clientCP": "",
+      "clientVille": "Dompierre-sur-Yon",
+      "clientEmail": "pokekaddistrib@gmail.com",
+      "clientTel": "0671089157",
+      "clientSiret": "",
+      "objet": "Stand artiste · ? m² · 🏛️ Int. · 🍂 Aki · Minato Geek",
+      "lignes": [
+        {
+          "nom": "🎫 Badge exposant (par personne)",
+          "qte": 1,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0,
+          "_note": "Offert"
+        }
+      ],
+      "totalHT": 0,
+      "tauxTVA": 20,
+      "totalTVA": 0,
+      "totalTTC": 0,
+      "dateEmission": "2026-09-20",
+      "dateEcheance": "",
+      "statut": "emise",
+      "montantRegle": 0,
+      "soldeRestant": 0,
+      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "createdAt": "2026-09-20T10:35:11.309Z"
     }
   ],
   "dbReglements": [
