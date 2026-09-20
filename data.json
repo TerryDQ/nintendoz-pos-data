@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T13:01:53.845Z",
+  "_savedAt": "2026-09-20T13:02:29.305Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3755,7 +3755,7 @@
       "notes": "Il a été convenu que l'atelier dessin manga serait facturé aux visiteurs à 5.00 € / personnes / jours.",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20T13:01:53.838Z"
+      "updatedAt": "2026-09-20T13:02:29.293Z"
     }
   ],
   "dbFactures": [
