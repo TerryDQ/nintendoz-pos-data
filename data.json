@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T13:02:29.305Z",
+  "_savedAt": "2026-09-20T13:09:12.446Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -4423,7 +4423,7 @@
       "totalTTC": 8,
       "dateEmission": "2026-09-07",
       "dateEcheance": "",
-      "statut": "en_attente",
+      "statut": "annulee",
       "montantRegle": 0,
       "soldeRestant": 8,
       "notes": "Emplacement 1 jour - Dimanche 18 oct.",
