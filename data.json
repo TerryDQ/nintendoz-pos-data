@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T13:01:48.479Z",
+  "_savedAt": "2026-09-20T13:01:53.845Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3755,7 +3755,7 @@
       "notes": "Il a été convenu que l'atelier dessin manga serait facturé aux visiteurs à 5.00 € / personnes / jours.",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20T13:01:48.469Z"
+      "updatedAt": "2026-09-20T13:01:53.838Z"
     }
   ],
   "dbFactures": [
@@ -4813,8 +4813,8 @@
       "devisNum": "DEV-STAND-2026-022",
       "clientId": "cl-expo-1789906966247",
       "clientNom": "Skyz et Sui",
-      "clientAdresse": "",
-      "clientCP": "",
+      "clientAdresse": "10 route de Lodève",
+      "clientCP": "34080",
       "clientVille": "Montpellier",
       "clientEmail": "Skyz44sui9w9@gmail.com",
       "clientTel": "0666940389",
