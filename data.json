@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-20T10:45:30.933Z",
+  "_savedAt": "2026-09-20T10:45:34.899Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -3618,7 +3618,7 @@
       "notes": "Emplacement intérieur à côté de l'entrée.",
       "statut": "facture",
       "createdBy": "Bureau",
-      "updatedAt": "2026-09-20T10:45:30.925Z"
+      "updatedAt": "2026-09-20T10:45:34.892Z"
     }
   ],
   "dbFactures": [
@@ -4601,24 +4601,72 @@
       "lignes": [
         {
           "nom": "🎫 Badge exposant (par personne)",
-          "qte": 1,
+          "qte": 2,
           "pu": 0,
           "tva": 0,
           "remise": 0,
           "total": 0,
           "_note": "Offert"
+        },
+        {
+          "nom": "Emplacement intérieur",
+          "qte": 2,
+          "pu": 10,
+          "tva": 0,
+          "remise": 0,
+          "total": 20
+        },
+        {
+          "nom": "Remise 2 jours",
+          "qte": 1,
+          "pu": -5,
+          "tva": 0,
+          "remise": 0,
+          "total": -5
+        },
+        {
+          "nom": "Electricité 3kw",
+          "qte": 1,
+          "pu": 3,
+          "tva": 0,
+          "remise": 0,
+          "total": 3
+        },
+        {
+          "nom": "NB Table",
+          "qte": 3,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "NB Chaise",
+          "qte": 2,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
+        },
+        {
+          "nom": "NB grille ",
+          "qte": 0,
+          "pu": 0,
+          "tva": 0,
+          "remise": 0,
+          "total": 0
         }
       ],
-      "totalHT": 0,
+      "totalHT": 18,
       "tauxTVA": 20,
       "totalTVA": 0,
-      "totalTTC": 0,
+      "totalTTC": 18,
       "dateEmission": "2026-09-20",
       "dateEcheance": "",
       "statut": "emise",
       "montantRegle": 0,
-      "soldeRestant": 0,
-      "notes": "La liste des postes et des jeux peut être soumise à des modifications selon le fonctionnement des équipements et de leur disponibilité en stock lors de la préparation. Le matériel est sous la responsabilité du client en dehors des horaires de présence des bénévoles de Nintend'Oz-Event (installations, animation, démontage).",
+      "soldeRestant": 18,
+      "notes": "Emplacement intérieur à côté de l'entrée.",
       "createdAt": "2026-09-20T10:35:11.309Z"
     }
   ],
