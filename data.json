@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-22T08:00:31.207Z",
+  "_savedAt": "2026-09-22T08:10:31.073Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -1683,7 +1683,7 @@
     }
   ],
   "subvStatutsFixed": {
-    "sgcv": "non_recu",
+    "sgcv": "recu",
     "shdr": "non_recu",
     "fenouiller": "non_recu"
   },
