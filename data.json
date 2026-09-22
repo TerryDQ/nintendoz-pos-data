@@ -1,6 +1,6 @@
 {
   "_version": 4,
-  "_savedAt": "2026-09-22T16:40:31.181Z",
+  "_savedAt": "2026-09-22T16:50:02.135Z",
   "_savedBy": "Bureau",
   "db": {
     "mg": {
@@ -771,10 +771,10 @@
           "nomContact": "Dominique",
           "activite": "Créateur bijoux",
           "siret": "",
-          "notes": "Présence samedi & dimanche",
+          "notes": "Présence samedi & dimanche\nReporté 15,00 € → projet : Absence du à une surprise de son conjoint",
           "ville": "L'Aiguilllon-sur-Vie",
           "statut": "inscrit",
-          "paiement": "en_attente",
+          "paiement": "reporte",
           "materiel": {
             "_biEdition": true,
             "haru": {
@@ -800,7 +800,14 @@
             "aki": 0
           },
           "option_stand": "option1",
-          "devisId": "dv_1788513920007_d8vs"
+          "devisId": "dv_1788513920007_d8vs",
+          "soldeReporte": {
+            "montant": 15,
+            "from": "🌸 Haru 2026",
+            "to": "projet",
+            "note": "Absence du à une surprise de son conjoint",
+            "date": "2026-09-22"
+          }
         },
         {
           "id": 1788517096045,
